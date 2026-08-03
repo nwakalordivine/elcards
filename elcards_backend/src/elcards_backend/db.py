@@ -34,9 +34,8 @@ async_session_maker = async_sessionmaker(engine, expire_on_commit=False)
 
 # this ensures my database table is up-to-date.
 async def create_sync_table():
-    with engine.begin() as conn:
-        conn.run_sync(Base.metadata.create_all)
-        yield
+    async with engine.begin() as conn:
+        await conn.run_sync(Base.metadata.create_all)
 
 
 # this creates sessions such that we can securely communicate with our database.
