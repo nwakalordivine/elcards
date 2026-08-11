@@ -1,42 +1,42 @@
-import os
-from typing import AsyncGenerator
+from collections.abc import AsyncGenerator
 
-from dotenv import load_dotenv
+from sqlalchemy import make_url
 from sqlalchemy.ext.asyncio import (
-    AsyncAttrs,
     AsyncSession,
     async_sessionmaker,
-    create_async_engine,
+    create_async_engine
 )
+from elcards_backend.settings import settings
 from sqlalchemy.orm import DeclarativeBase
 
-load_dotenv()
 
-DATABASE_URL = os.getenv("DATABASE_URL")
-if not DATABASE_URL:
-    raise RuntimeError("DATABASE_URL is not set")
+url = make_url(settings.database_url).set(
+    drivername="postgresql+asyncpg",
+    query={},
+)
 
 
 engine = create_async_engine(
-    DATABASE_URL,
-    pool_pre_ping=True,  # Neon drops idle connections; validate before reuse
-    pool_recycle=300,
+    url,
+    connect_args={"ssl": "require"},
     pool_size=5,
     max_overflow=5,
+    pool_pre_ping=True,
+    pool_recycle=300,
+    echo=False,
 )
 
 SessionLocal = async_sessionmaker(
     bind=engine,
-    class_=AsyncSession,
-    expire_on_commit=False,  # avoids MissingGreenlet when reading attrs after commit
-    autoflush=False,
+    expire_on_commit=False,
+    autoflush=False
 )
 
 
-class Base(AsyncAttrs, DeclarativeBase):
-    pass
+class Base(DeclarativeBase):
+    """All ORM models will inherit from this."""
 
 
 async def get_db() -> AsyncGenerator[AsyncSession, None]:
-    async with SessionLocal() as session:
+    async with engine.begin() as session:
         yield session
