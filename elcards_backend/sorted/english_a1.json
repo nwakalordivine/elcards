@@ -1,0 +1,5708 @@
+[
+    {
+        "word": "be",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to be",
+        "example_sentence_english": "I want to be a doctor.",
+        "pos": "verb",
+        "word_frequency": 7
+    },
+    {
+        "word": "have",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to have",
+        "example_sentence_english": "I have a new car.",
+        "pos": "verb",
+        "word_frequency": 16
+    },
+    {
+        "word": "not",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "not",
+        "example_sentence_english": "I am not hungry.",
+        "pos": "adverb",
+        "word_frequency": 19
+    },
+    {
+        "word": "all",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "all",
+        "example_sentence_english": "All students passed the exam.",
+        "pos": "adjective",
+        "word_frequency": 28
+    },
+    {
+        "word": "so",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "so",
+        "example_sentence_english": "It was so cold yesterday.",
+        "pos": "adverb",
+        "word_frequency": 29
+    },
+    {
+        "word": "one",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "one",
+        "example_sentence_english": "I have one brother.",
+        "pos": "numeral",
+        "word_frequency": 34
+    },
+    {
+        "word": "can",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "can",
+        "example_sentence_english": "I can swim.",
+        "pos": "verb",
+        "word_frequency": 35
+    },
+    {
+        "word": "will",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "will",
+        "example_sentence_english": "I will call you later.",
+        "pos": "verb",
+        "word_frequency": 36
+    },
+    {
+        "word": "like",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to like",
+        "example_sentence_english": "I like ice cream.",
+        "pos": "verb",
+        "word_frequency": 38
+    },
+    {
+        "word": "up",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "upwards, higher",
+        "example_sentence_english": "Please stand up.",
+        "pos": "adverb",
+        "word_frequency": 40
+    },
+    {
+        "word": "out",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "away from the inside",
+        "example_sentence_english": "She went out to buy milk.",
+        "pos": "adverb",
+        "word_frequency": 41
+    },
+    {
+        "word": "when",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "at what time",
+        "example_sentence_english": "When do you want to meet?",
+        "pos": "adverb",
+        "word_frequency": 43
+    },
+    {
+        "word": "much",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large amount",
+        "example_sentence_english": "I don't have much time.",
+        "pos": "adjective",
+        "word_frequency": 44
+    },
+    {
+        "word": "do",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "perform an action",
+        "example_sentence_english": "What do you do for a living?",
+        "pos": "verb",
+        "word_frequency": 45
+    },
+    {
+        "word": "no",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "not any",
+        "example_sentence_english": "There is no milk left.",
+        "pos": "adjective",
+        "word_frequency": 46
+    },
+    {
+        "word": "there",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "in that place",
+        "example_sentence_english": "The book is over there.",
+        "pos": "adverb",
+        "word_frequency": 49
+    },
+    {
+        "word": "time",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the indefinite continued progress of existence",
+        "example_sentence_english": "What time is it?",
+        "pos": "noun",
+        "word_frequency": 52
+    },
+    {
+        "word": "get",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "obtain, receive",
+        "example_sentence_english": "Can you get me a glass of water?",
+        "pos": "verb",
+        "word_frequency": 53
+    },
+    {
+        "word": "new",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "not existing before",
+        "example_sentence_english": "I bought a new car.",
+        "pos": "adjective",
+        "word_frequency": 56
+    },
+    {
+        "word": "people",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "human beings in general",
+        "example_sentence_english": "Many people attended the event.",
+        "pos": "noun",
+        "word_frequency": 57
+    },
+    {
+        "word": "how",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "in what way",
+        "example_sentence_english": "How do you spell your name?",
+        "pos": "adverb",
+        "word_frequency": 58
+    },
+    {
+        "word": "some",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an unspecified amount or number",
+        "example_sentence_english": "I need some sugar.",
+        "pos": "adjective",
+        "word_frequency": 59
+    },
+    {
+        "word": "also",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "in addition",
+        "example_sentence_english": "She is a doctor, and also a writer.",
+        "pos": "adverb",
+        "word_frequency": 60
+    },
+    {
+        "word": "now",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "at the present time",
+        "example_sentence_english": "I need to leave now.",
+        "pos": "adverb",
+        "word_frequency": 62
+    },
+    {
+        "word": "other",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "different from the one mentioned",
+        "example_sentence_english": "Do you have any other questions.",
+        "pos": "adjective",
+        "word_frequency": 63
+    },
+    {
+        "word": "good",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "of high quality",
+        "example_sentence_english": "She is a good student.",
+        "pos": "adjective",
+        "word_frequency": 67
+    },
+    {
+        "word": "only",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "no one or nothing more than",
+        "example_sentence_english": "I only have five dollars.",
+        "pos": "adverb",
+        "word_frequency": 68
+    },
+    {
+        "word": "first",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "coming before all others",
+        "example_sentence_english": "This is my first time here.",
+        "pos": "adjective",
+        "word_frequency": 70
+    },
+    {
+        "word": "know",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "have information or understanding",
+        "example_sentence_english": "I know the answer.",
+        "pos": "verb",
+        "word_frequency": 73
+    },
+    {
+        "word": "see",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "perceive with the eyes",
+        "example_sentence_english": "Can you see the mountain?",
+        "pos": "verb",
+        "word_frequency": 74
+    },
+    {
+        "word": "two",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the number 2",
+        "example_sentence_english": "I have two cats.",
+        "pos": "numeral",
+        "word_frequency": 75
+    },
+    {
+        "word": "make",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "create, produce",
+        "example_sentence_english": "Can you make a cake.",
+        "pos": "verb",
+        "word_frequency": 76
+    },
+    {
+        "word": "think",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "form or have in the mind",
+        "example_sentence_english": "I think it's a good idea.",
+        "pos": "verb",
+        "word_frequency": 78
+    },
+    {
+        "word": "any",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "some, a single",
+        "example_sentence_english": "Do you have any questions?",
+        "pos": "adjective",
+        "word_frequency": 79
+    },
+    {
+        "word": "then",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "next",
+        "example_sentence_english": "First, we eat, then we go home.",
+        "pos": "adverb",
+        "word_frequency": 80
+    },
+    {
+        "word": "back",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to the rear",
+        "example_sentence_english": "Please go back to your seat.",
+        "pos": "adverb",
+        "word_frequency": 82
+    },
+    {
+        "word": "want",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "desire",
+        "example_sentence_english": "I want a new car.",
+        "pos": "verb",
+        "word_frequency": 85
+    },
+    {
+        "word": "go",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "move",
+        "example_sentence_english": "Let's go to the cinema.",
+        "pos": "verb",
+        "word_frequency": 87
+    },
+    {
+        "word": "well",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "in a good way",
+        "example_sentence_english": "She sings very well.",
+        "pos": "adverb",
+        "word_frequency": 88
+    },
+    {
+        "word": "say",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "speak",
+        "example_sentence_english": "What did you say?",
+        "pos": "verb",
+        "word_frequency": 89
+    },
+    {
+        "word": "way",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "path",
+        "example_sentence_english": "Which way is the station?",
+        "pos": "noun",
+        "word_frequency": 90
+    },
+    {
+        "word": "very",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "extremely",
+        "example_sentence_english": "It's very cold today.",
+        "pos": "adverb",
+        "word_frequency": 93
+    },
+    {
+        "word": "where",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "at what place",
+        "example_sentence_english": "Where do you live?",
+        "pos": "adverb",
+        "word_frequency": 94
+    },
+    {
+        "word": "here",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "in this place",
+        "example_sentence_english": "Come here, please.",
+        "pos": "adverb",
+        "word_frequency": 98
+    },
+    {
+        "word": "need",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "require",
+        "example_sentence_english": "I need help.",
+        "pos": "verb",
+        "word_frequency": 99
+    },
+    {
+        "word": "really",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "truly",
+        "example_sentence_english": "I really like this song.",
+        "pos": "adverb",
+        "word_frequency": 100
+    },
+    {
+        "word": "right",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "correct",
+        "example_sentence_english": "That's the right answer.",
+        "pos": "adjective",
+        "word_frequency": 101
+    },
+    {
+        "word": "work",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "perform a task",
+        "example_sentence_english": "I work in an office.",
+        "pos": "verb",
+        "word_frequency": 102
+    },
+    {
+        "word": "year",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "period of 365 days",
+        "example_sentence_english": "Happy New Year!",
+        "pos": "noun",
+        "word_frequency": 103
+    },
+    {
+        "word": "day",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "period of 24 hours",
+        "example_sentence_english": "Have a good day!",
+        "pos": "noun",
+        "word_frequency": 104
+    },
+    {
+        "word": "too",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "also",
+        "example_sentence_english": "I want to come too.",
+        "pos": "adverb",
+        "word_frequency": 105
+    },
+    {
+        "word": "off",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "away from",
+        "example_sentence_english": "Turn the light off.",
+        "pos": "adverb",
+        "word_frequency": 107
+    },
+    {
+        "word": "why",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "for what reason",
+        "example_sentence_english": "Why are you late.",
+        "pos": "adverb",
+        "word_frequency": 108
+    },
+    {
+        "word": "take",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "grasp",
+        "example_sentence_english": "Please take a seat.",
+        "pos": "verb",
+        "word_frequency": 110
+    },
+    {
+        "word": "many",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large number of",
+        "example_sentence_english": "I have many friends.",
+        "pos": "adjective",
+        "word_frequency": 112
+    },
+    {
+        "word": "never",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "at no time",
+        "example_sentence_english": "I never eat meat.",
+        "pos": "adverb",
+        "word_frequency": 113
+    },
+    {
+        "word": "life",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "existence",
+        "example_sentence_english": "Life is beautiful.",
+        "pos": "noun",
+        "word_frequency": 115
+    },
+    {
+        "word": "world",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the Earth",
+        "example_sentence_english": "The world is a big place.",
+        "pos": "noun",
+        "word_frequency": 116
+    },
+    {
+        "word": "down",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to a lower position",
+        "example_sentence_english": "Sit down, please.",
+        "pos": "adverb",
+        "word_frequency": 117
+    },
+    {
+        "word": "great",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "excellent",
+        "example_sentence_english": "That's a great idea!",
+        "pos": "adjective",
+        "word_frequency": 118
+    },
+    {
+        "word": "last",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "final; previous",
+        "example_sentence_english": "This is the last piece of cake.",
+        "pos": "adjective",
+        "word_frequency": 120
+    },
+    {
+        "word": "love",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "feel deep affection for",
+        "example_sentence_english": "I love to read books.",
+        "pos": "verb",
+        "word_frequency": 124
+    },
+    {
+        "word": "man",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an adult male human being",
+        "example_sentence_english": "The man walked quickly.",
+        "pos": "noun",
+        "word_frequency": 125
+    },
+    {
+        "word": "home",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the place where one lives permanently",
+        "example_sentence_english": "I'm going home now.",
+        "pos": "noun",
+        "word_frequency": 126
+    },
+    {
+        "word": "long",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "measuring a great distance from end to end",
+        "example_sentence_english": "She has long hair.",
+        "pos": "adjective",
+        "word_frequency": 127
+    },
+    {
+        "word": "look",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "direct one's gaze",
+        "example_sentence_english": "Look at that beautiful bird!",
+        "pos": "verb",
+        "word_frequency": 128
+    },
+    {
+        "word": "use",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "take, hold, or deploy (something) as a means of accomplishing a purpose",
+        "example_sentence_english": "Can I use your pen?",
+        "pos": "verb",
+        "word_frequency": 130
+    },
+    {
+        "word": "same",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "identical; not different",
+        "example_sentence_english": "We have the same idea.",
+        "pos": "adjective",
+        "word_frequency": 131
+    },
+    {
+        "word": "come",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "move or travel towards or into a place",
+        "example_sentence_english": "Please come here.",
+        "pos": "verb",
+        "word_frequency": 135
+    },
+    {
+        "word": "always",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "at all times; on all occasions",
+        "example_sentence_english": "I always drink coffee in the morning.",
+        "pos": "adverb",
+        "word_frequency": 141
+    },
+    {
+        "word": "find",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "discover or perceive after a search",
+        "example_sentence_english": "I need to find my keys.",
+        "pos": "verb",
+        "word_frequency": 142
+    },
+    {
+        "word": "help",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "make it easier for (someone) to do something",
+        "example_sentence_english": "Can you help me?",
+        "pos": "verb",
+        "word_frequency": 144
+    },
+    {
+        "word": "high",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "of great or more than average extent, size, or amount",
+        "example_sentence_english": "The mountain is very high.",
+        "pos": "adjective",
+        "word_frequency": 145
+    },
+    {
+        "word": "little",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "small in size, amount, or degree",
+        "example_sentence_english": "I have a little dog.",
+        "pos": "adjective",
+        "word_frequency": 146
+    },
+    {
+        "word": "old",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "having lived for a long time; no longer young",
+        "example_sentence_english": "My grandfather is old.",
+        "pos": "adjective",
+        "word_frequency": 147
+    },
+    {
+        "word": "thing",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an inanimate object",
+        "example_sentence_english": "What is that thing?",
+        "pos": "noun",
+        "word_frequency": 151
+    },
+    {
+        "word": "game",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an activity or sport involving skill, chance, or endurance",
+        "example_sentence_english": "Let's play a game.",
+        "pos": "noun",
+        "word_frequency": 154
+    },
+    {
+        "word": "give",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "freely transfer the possession of (something) to (someone)",
+        "example_sentence_english": "Can you give me that book?",
+        "pos": "verb",
+        "word_frequency": 155
+    },
+    {
+        "word": "house",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a building for human habitation",
+        "example_sentence_english": "My house is big.",
+        "pos": "noun",
+        "word_frequency": 156
+    },
+    {
+        "word": "place",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a particular position, point, or area in space",
+        "example_sentence_english": "This is a nice place.",
+        "pos": "noun",
+        "word_frequency": 157
+    },
+    {
+        "word": "school",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an institution for educating children",
+        "example_sentence_english": "I go to school every day.",
+        "pos": "noun",
+        "word_frequency": 158
+    },
+    {
+        "word": "again",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "another time; once more",
+        "example_sentence_english": "Please say that again.",
+        "pos": "adverb",
+        "word_frequency": 159
+    },
+    {
+        "word": "next",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "following; coming immediately after",
+        "example_sentence_english": "The next train leaves in five minutes.",
+        "pos": "adjective",
+        "word_frequency": 160
+    },
+    {
+        "word": "each",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "every single",
+        "example_sentence_english": "Each student received a book.",
+        "pos": "adjective",
+        "word_frequency": 161
+    },
+    {
+        "word": "mr",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "Mister (title)",
+        "example_sentence_english": "Mr. Smith is our new teacher.",
+        "pos": "noun",
+        "word_frequency": 162
+    },
+    {
+        "word": "end",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the final part",
+        "example_sentence_english": "This is the end of the movie.",
+        "pos": "noun",
+        "word_frequency": 165
+    },
+    {
+        "word": "show",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to display; to present",
+        "example_sentence_english": "Can you show me your new phone?",
+        "pos": "verb",
+        "word_frequency": 167
+    },
+    {
+        "word": "big",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "large in size",
+        "example_sentence_english": "That's a very big dog.",
+        "pos": "adjective",
+        "word_frequency": 168
+    },
+    {
+        "word": "feel",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to experience an emotion or sensation",
+        "example_sentence_english": "I feel happy today.",
+        "pos": "verb",
+        "word_frequency": 169
+    },
+    {
+        "word": "family",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a group of related people",
+        "example_sentence_english": "My family lives in a small house.",
+        "pos": "noun",
+        "word_frequency": 173
+    },
+    {
+        "word": "put",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to place",
+        "example_sentence_english": "Please put the book on the table.",
+        "pos": "verb",
+        "word_frequency": 177
+    },
+    {
+        "word": "money",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "currency",
+        "example_sentence_english": "I need some money for the bus.",
+        "pos": "noun",
+        "word_frequency": 178
+    },
+    {
+        "word": "second",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "next after the first",
+        "example_sentence_english": "This is my second cup of coffee.",
+        "pos": "adjective",
+        "word_frequency": 180
+    },
+    {
+        "word": "left",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "on the side of the body that is to the west when one is facing north",
+        "example_sentence_english": "Turn left at the next corner.",
+        "pos": "adjective",
+        "word_frequency": 183
+    },
+    {
+        "word": "number",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a quantity or count",
+        "example_sentence_english": "What's your phone number?",
+        "pos": "noun",
+        "word_frequency": 184
+    },
+    {
+        "word": "city",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large town",
+        "example_sentence_english": "London is a big city.",
+        "pos": "noun",
+        "word_frequency": 185
+    },
+    {
+        "word": "lot",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large amount or number",
+        "example_sentence_english": "We have a lot of work to do.",
+        "pos": "noun",
+        "word_frequency": 186
+    },
+    {
+        "word": "name",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a word or term by which a person or thing is known",
+        "example_sentence_english": "My name is John.",
+        "pos": "noun",
+        "word_frequency": 187
+    },
+    {
+        "word": "night",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the period of darkness between sunset and sunrise",
+        "example_sentence_english": "I like to read at night.",
+        "pos": "noun",
+        "word_frequency": 188
+    },
+    {
+        "word": "play",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to engage in an activity for enjoyment",
+        "example_sentence_english": "Let's play a game.",
+        "pos": "verb",
+        "word_frequency": 189
+    },
+    {
+        "word": "let",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to allow",
+        "example_sentence_english": "Let me help you.",
+        "pos": "verb",
+        "word_frequency": 193
+    },
+    {
+        "word": "call",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to telephone; to name",
+        "example_sentence_english": "I will call you later.",
+        "pos": "verb",
+        "word_frequency": 196
+    },
+    {
+        "word": "group",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "collection of people/things",
+        "example_sentence_english": "We worked in a small group.",
+        "pos": "noun",
+        "word_frequency": 202
+    },
+    {
+        "word": "woman",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "adult female human",
+        "example_sentence_english": "The woman smiled at me.",
+        "pos": "noun",
+        "word_frequency": 205
+    },
+    {
+        "word": "start",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "begin",
+        "example_sentence_english": "Let's start the meeting.",
+        "pos": "verb",
+        "word_frequency": 208
+    },
+    {
+        "word": "week",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "period of seven days",
+        "example_sentence_english": "I will see you next week.",
+        "pos": "noun",
+        "word_frequency": 210
+    },
+    {
+        "word": "person",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "human being",
+        "example_sentence_english": "She is a kind person.",
+        "pos": "noun",
+        "word_frequency": 216
+    },
+    {
+        "word": "today",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "this day",
+        "example_sentence_english": "What are you doing today?",
+        "pos": "noun",
+        "word_frequency": 217
+    },
+    {
+        "word": "full",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "containing as much as possible",
+        "example_sentence_english": "The glass is full of water.",
+        "pos": "adjective",
+        "word_frequency": 221
+    },
+    {
+        "word": "live",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "reside; be alive",
+        "example_sentence_english": "I live in a big city.",
+        "pos": "verb",
+        "word_frequency": 222
+    },
+    {
+        "word": "read",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "interpret written words",
+        "example_sentence_english": "I love to read books.",
+        "pos": "verb",
+        "word_frequency": 224
+    },
+    {
+        "word": "tell",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "communicate information",
+        "example_sentence_english": "Please tell me your name.",
+        "pos": "verb",
+        "word_frequency": 225
+    },
+    {
+        "word": "bad",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "not good",
+        "example_sentence_english": "That was a bad idea.",
+        "pos": "adjective",
+        "word_frequency": 227
+    },
+    {
+        "word": "music",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "organized sound",
+        "example_sentence_english": "I like listening to music.",
+        "pos": "noun",
+        "word_frequency": 234
+    },
+    {
+        "word": "stop",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "cease movement or activity",
+        "example_sentence_english": "Please stop talking.",
+        "pos": "verb",
+        "word_frequency": 236
+    },
+    {
+        "word": "water",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "clear liquid",
+        "example_sentence_english": "I need a glass of water.",
+        "pos": "noun",
+        "word_frequency": 237
+    },
+    {
+        "word": "head",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "head",
+        "example_sentence_english": "My head hurts.",
+        "pos": "noun",
+        "word_frequency": 240
+    },
+    {
+        "word": "small",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "small",
+        "example_sentence_english": "I live in a small house.",
+        "pos": "adjective",
+        "word_frequency": 242
+    },
+    {
+        "word": "white",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "white",
+        "example_sentence_english": "The snow is white.",
+        "pos": "adjective",
+        "word_frequency": 243
+    },
+    {
+        "word": "job",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "job",
+        "example_sentence_english": "What is your job?",
+        "pos": "noun",
+        "word_frequency": 245
+    },
+    {
+        "word": "try",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "try",
+        "example_sentence_english": "I will try my best.",
+        "pos": "verb",
+        "word_frequency": 248
+    },
+    {
+        "word": "later",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "later",
+        "example_sentence_english": "See you later.",
+        "pos": "adverb",
+        "word_frequency": 252
+    },
+    {
+        "word": "run",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "run",
+        "example_sentence_english": "I like to run in the park.",
+        "pos": "verb",
+        "word_frequency": 256
+    },
+    {
+        "word": "country",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "country",
+        "example_sentence_english": "Which country are you from?",
+        "pos": "noun",
+        "word_frequency": 259
+    },
+    {
+        "word": "open",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "open",
+        "example_sentence_english": "The door is open.",
+        "pos": "adjective",
+        "word_frequency": 260
+    },
+    {
+        "word": "thank",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "thank",
+        "example_sentence_english": "I want to thank you for your help.",
+        "pos": "verb",
+        "word_frequency": 263
+    },
+    {
+        "word": "child",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "child",
+        "example_sentence_english": "She is a happy child.",
+        "pos": "noun",
+        "word_frequency": 264
+    },
+    {
+        "word": "black",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "black",
+        "example_sentence_english": "My cat is black.",
+        "pos": "adjective",
+        "word_frequency": 269
+    },
+    {
+        "word": "car",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "car",
+        "example_sentence_english": "I bought a new car.",
+        "pos": "noun",
+        "word_frequency": 276
+    },
+    {
+        "word": "face",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "face",
+        "example_sentence_english": "She has a beautiful face.",
+        "pos": "noun",
+        "word_frequency": 277
+    },
+    {
+        "word": "story",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "narrative",
+        "example_sentence_english": "Tell me a story.",
+        "pos": "noun",
+        "word_frequency": 283
+    },
+    {
+        "word": "hope",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "wish for",
+        "example_sentence_english": "I hope you have a good day.",
+        "pos": "verb",
+        "word_frequency": 286
+    },
+    {
+        "word": "important",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "significant",
+        "example_sentence_english": "This is an important decision.",
+        "pos": "adjective",
+        "word_frequency": 287
+    },
+    {
+        "word": "news",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "information about recent events",
+        "example_sentence_english": "Did you hear the news?",
+        "pos": "noun",
+        "word_frequency": 288
+    },
+    {
+        "word": "able",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "capable",
+        "example_sentence_english": "I am able to help you.",
+        "pos": "adjective",
+        "word_frequency": 290
+    },
+    {
+        "word": "book",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "written work",
+        "example_sentence_english": "I am reading a good book.",
+        "pos": "noun",
+        "word_frequency": 291
+    },
+    {
+        "word": "early",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "before the usual time",
+        "example_sentence_english": "We arrived early.",
+        "pos": "adjective",
+        "word_frequency": 292
+    },
+    {
+        "word": "friend",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "companion",
+        "example_sentence_english": "She is my best friend.",
+        "pos": "noun",
+        "word_frequency": 293
+    },
+    {
+        "word": "young",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "not old",
+        "example_sentence_english": "She has a young child.",
+        "pos": "adjective",
+        "word_frequency": 300
+    },
+    {
+        "word": "ago",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "in the past",
+        "example_sentence_english": "I saw him two days ago.",
+        "pos": "adverb",
+        "word_frequency": 301
+    },
+    {
+        "word": "talk",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "speak",
+        "example_sentence_english": "Let's talk about it.",
+        "pos": "verb",
+        "word_frequency": 303
+    },
+    {
+        "word": "half",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "one of two equal parts",
+        "example_sentence_english": "I'll take half of the cake.",
+        "pos": "noun",
+        "word_frequency": 308
+    },
+    {
+        "word": "hand",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "part of the body",
+        "example_sentence_english": "She raised her hand.",
+        "pos": "noun",
+        "word_frequency": 309
+    },
+    {
+        "word": "often",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "frequently",
+        "example_sentence_english": "I often go for a walk.",
+        "pos": "adverb",
+        "word_frequency": 312
+    },
+    {
+        "word": "become",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "grow into",
+        "example_sentence_english": "He wants to become a doctor.",
+        "pos": "verb",
+        "word_frequency": 314
+    },
+    {
+        "word": "body",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "physical structure",
+        "example_sentence_english": "The human body is amazing.",
+        "pos": "noun",
+        "word_frequency": 315
+    },
+    {
+        "word": "food",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "edible substance",
+        "example_sentence_english": "I need some food.",
+        "pos": "noun",
+        "word_frequency": 318
+    },
+    {
+        "word": "hour",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "60 minutes",
+        "example_sentence_english": "The meeting lasted an hour.",
+        "pos": "noun",
+        "word_frequency": 319
+    },
+    {
+        "word": "office",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a place where people work",
+        "example_sentence_english": "I go to the office every day.",
+        "pos": "noun",
+        "word_frequency": 320
+    },
+    {
+        "word": "pay",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to give money for something",
+        "example_sentence_english": "I need to pay for the groceries.",
+        "pos": "verb",
+        "word_frequency": 321
+    },
+    {
+        "word": "problem",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a difficulty",
+        "example_sentence_english": "We have a big problem to solve.",
+        "pos": "noun",
+        "word_frequency": 322
+    },
+    {
+        "word": "south",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "one of the four main points of the compass",
+        "example_sentence_english": "The birds fly south for the winter.",
+        "pos": "noun",
+        "word_frequency": 323
+    },
+    {
+        "word": "true",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "in accordance with fact or reality",
+        "example_sentence_english": "Is that story true?",
+        "pos": "adjective",
+        "word_frequency": 324
+    },
+    {
+        "word": "almost",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "very nearly",
+        "example_sentence_english": "I almost forgot my keys.",
+        "pos": "adverb",
+        "word_frequency": 325
+    },
+    {
+        "word": "large",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "of considerable or relatively great size",
+        "example_sentence_english": "That's a large dog.",
+        "pos": "adjective",
+        "word_frequency": 328
+    },
+    {
+        "word": "lose",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to no longer have something",
+        "example_sentence_english": "Don't lose your passport.",
+        "pos": "verb",
+        "word_frequency": 329
+    },
+    {
+        "word": "room",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a part of a building enclosed by walls",
+        "example_sentence_english": "My room is on the second floor.",
+        "pos": "noun",
+        "word_frequency": 332
+    },
+    {
+        "word": "win",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to be successful in a competition",
+        "example_sentence_english": "I hope we win the game.",
+        "pos": "verb",
+        "word_frequency": 335
+    },
+    {
+        "word": "wrong",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "incorrect or mistaken",
+        "example_sentence_english": "That answer is wrong.",
+        "pos": "adjective",
+        "word_frequency": 336
+    },
+    {
+        "word": "girl",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a female child or young woman",
+        "example_sentence_english": "The little girl is playing.",
+        "pos": "noun",
+        "word_frequency": 340
+    },
+    {
+        "word": "pretty",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "attractive in a delicate way",
+        "example_sentence_english": "She has a pretty dress.",
+        "pos": "adjective",
+        "word_frequency": 343
+    },
+    {
+        "word": "remember",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to recall from memory",
+        "example_sentence_english": "I can't remember his name.",
+        "pos": "verb",
+        "word_frequency": 344
+    },
+    {
+        "word": "air",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the invisible gaseous substance surrounding the Earth",
+        "example_sentence_english": "The air is fresh today.",
+        "pos": "noun",
+        "word_frequency": 345
+    },
+    {
+        "word": "hit",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to strike with a blow",
+        "example_sentence_english": "He hit the ball very hard.",
+        "pos": "verb",
+        "word_frequency": 347
+    },
+    {
+        "word": "nice",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "pleasant or agreeable",
+        "example_sentence_english": "Have a nice day!",
+        "pos": "adjective",
+        "word_frequency": 348
+    },
+    {
+        "word": "understand",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to perceive the meaning of",
+        "example_sentence_english": "Do you understand the instructions?",
+        "pos": "verb",
+        "word_frequency": 350
+    },
+    {
+        "word": "class",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a group of students taught together",
+        "example_sentence_english": "I have a math class at 10 AM.",
+        "pos": "noun",
+        "word_frequency": 353
+    },
+    {
+        "word": "close",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a short distance away",
+        "example_sentence_english": "The store is very close to my house.",
+        "pos": "adjective",
+        "word_frequency": 354
+    },
+    {
+        "word": "idea",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a thought or suggestion",
+        "example_sentence_english": "That's a great idea!",
+        "pos": "noun",
+        "word_frequency": 355
+    },
+    {
+        "word": "happy",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "feeling pleasure or contentment",
+        "example_sentence_english": "She was very happy with her new car.",
+        "pos": "adjective",
+        "word_frequency": 362
+    },
+    {
+        "word": "month",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a period of about 30 days",
+        "example_sentence_english": "There are twelve months in a year.",
+        "pos": "noun",
+        "word_frequency": 365
+    },
+    {
+        "word": "move",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "change position",
+        "example_sentence_english": "Please move your car.",
+        "pos": "verb",
+        "word_frequency": 366
+    },
+    {
+        "word": "question",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a sentence asking for information",
+        "example_sentence_english": "Do you have any questions?",
+        "pos": "noun",
+        "word_frequency": 367
+    },
+    {
+        "word": "wait",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "stay in one place until something happens",
+        "example_sentence_english": "Please wait for me.",
+        "pos": "verb",
+        "word_frequency": 370
+    },
+    {
+        "word": "ask",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to put a question to someone",
+        "example_sentence_english": "I need to ask you a question.",
+        "pos": "verb",
+        "word_frequency": 371
+    },
+    {
+        "word": "late",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "after the usual or expected time",
+        "example_sentence_english": "He was late for the meeting.",
+        "pos": "adjective",
+        "word_frequency": 374
+    },
+    {
+        "word": "leave",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "go away from",
+        "example_sentence_english": "I have to leave now.",
+        "pos": "verb",
+        "word_frequency": 375
+    },
+    {
+        "word": "watch",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "look at or observe attentively",
+        "example_sentence_english": "Let's watch a movie tonight.",
+        "pos": "verb",
+        "word_frequency": 378
+    },
+    {
+        "word": "light",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the natural agent that stimulates sight",
+        "example_sentence_english": "Turn on the light, please.",
+        "pos": "noun",
+        "word_frequency": 382
+    },
+    {
+        "word": "low",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "not high",
+        "example_sentence_english": "The water level is very low.",
+        "pos": "adjective",
+        "word_frequency": 383
+    },
+    {
+        "word": "morning",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the period of time between midnight and noon",
+        "example_sentence_english": "I wake up early every morning.",
+        "pos": "noun",
+        "word_frequency": 385
+    },
+    {
+        "word": "short",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "having little length",
+        "example_sentence_english": "He is quite short for his age.",
+        "pos": "adjective",
+        "word_frequency": 387
+    },
+    {
+        "word": "stay",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "remain in a place",
+        "example_sentence_english": "I want to stay home tonight.",
+        "pos": "verb",
+        "word_frequency": 388
+    },
+    {
+        "word": "age",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the length of time that a person has lived",
+        "example_sentence_english": "What is your age?",
+        "pos": "noun",
+        "word_frequency": 389
+    },
+    {
+        "word": "buy",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "obtain in exchange for payment",
+        "example_sentence_english": "I need to buy some groceries.",
+        "pos": "verb",
+        "word_frequency": 390
+    },
+    {
+        "word": "red",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a primary color",
+        "example_sentence_english": "Her favorite color is red.",
+        "pos": "adjective",
+        "word_frequency": 394
+    },
+    {
+        "word": "soon",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "in a short time",
+        "example_sentence_english": "I'll be there soon.",
+        "pos": "adverb",
+        "word_frequency": 396
+    },
+    {
+        "word": "third",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "coming after the second",
+        "example_sentence_english": "This is my third cup of coffee.",
+        "pos": "adjective",
+        "word_frequency": 397
+    },
+    {
+        "word": "turn",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "move in a circular direction",
+        "example_sentence_english": "Turn left at the next corner.",
+        "pos": "verb",
+        "word_frequency": 398
+    },
+    {
+        "word": "minute",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "sixty seconds",
+        "example_sentence_english": "I'll be ready in a minute.",
+        "pos": "noun",
+        "word_frequency": 406
+    },
+    {
+        "word": "fire",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "combustion, flames",
+        "example_sentence_english": "Be careful with fire.",
+        "pos": "noun",
+        "word_frequency": 412
+    },
+    {
+        "word": "fun",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "enjoyment, amusement",
+        "example_sentence_english": "We had a lot of fun at the party.",
+        "pos": "noun",
+        "word_frequency": 413
+    },
+    {
+        "word": "phone",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "telephone",
+        "example_sentence_english": "Can I use your phone?",
+        "pos": "noun",
+        "word_frequency": 416
+    },
+    {
+        "word": "easy",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "not difficult",
+        "example_sentence_english": "This test is very easy.",
+        "pos": "adjective",
+        "word_frequency": 421
+    },
+    {
+        "word": "near",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "close to",
+        "example_sentence_english": "The park is near my house.",
+        "pos": "adjective",
+        "word_frequency": 424
+    },
+    {
+        "word": "front",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the forward part",
+        "example_sentence_english": "The car is parked in front of the house.",
+        "pos": "noun",
+        "word_frequency": 437
+    },
+    {
+        "word": "kid",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "child",
+        "example_sentence_english": "The kids are playing in the garden.",
+        "pos": "noun",
+        "word_frequency": 438
+    },
+    {
+        "word": "ready",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "prepared",
+        "example_sentence_english": "Are you ready to go?",
+        "pos": "adjective",
+        "word_frequency": 440
+    },
+    {
+        "word": "sometimes",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "occasionally",
+        "example_sentence_english": "Sometimes I like to read a book.",
+        "pos": "adverb",
+        "word_frequency": 441
+    },
+    {
+        "word": "son",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "male child",
+        "example_sentence_english": "My son is five years old.",
+        "pos": "noun",
+        "word_frequency": 442
+    },
+    {
+        "word": "street",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "road",
+        "example_sentence_english": "The shop is on the main street.",
+        "pos": "noun",
+        "word_frequency": 443
+    },
+    {
+        "word": "bring",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "carry, take",
+        "example_sentence_english": "Please bring your book tomorrow.",
+        "pos": "verb",
+        "word_frequency": 445
+    },
+    {
+        "word": "hear",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "perceive sound",
+        "example_sentence_english": "Can you hear me?",
+        "pos": "verb",
+        "word_frequency": 450
+    },
+    {
+        "word": "meet",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "encounter, get to know",
+        "example_sentence_english": "Nice to meet you.",
+        "pos": "verb",
+        "word_frequency": 452
+    },
+    {
+        "word": "baby",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "infant",
+        "example_sentence_english": "The baby is sleeping.",
+        "pos": "noun",
+        "word_frequency": 455
+    },
+    {
+        "word": "father",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "male parent",
+        "example_sentence_english": "My father works in an office.",
+        "pos": "noun",
+        "word_frequency": 457
+    },
+    {
+        "word": "song",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "musical composition",
+        "example_sentence_english": "She sang a beautiful song.",
+        "pos": "noun",
+        "word_frequency": 460
+    },
+    {
+        "word": "word",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "unit of language",
+        "example_sentence_english": "Please spell the word.",
+        "pos": "noun",
+        "word_frequency": 462
+    },
+    {
+        "word": "student",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "person who is studying",
+        "example_sentence_english": "I am a student.",
+        "pos": "noun",
+        "word_frequency": 469
+    },
+    {
+        "word": "cut",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "divide with a sharp tool",
+        "example_sentence_english": "Be careful not to cut yourself.",
+        "pos": "verb",
+        "word_frequency": 472
+    },
+    {
+        "word": "hold",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "grasp, keep",
+        "example_sentence_english": "Please hold my hand.",
+        "pos": "verb",
+        "word_frequency": 475
+    },
+    {
+        "word": "mother",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "female parent",
+        "example_sentence_english": "My mother is a teacher.",
+        "pos": "noun",
+        "word_frequency": 479
+    },
+    {
+        "word": "road",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "road",
+        "example_sentence_english": "The road was long and winding.",
+        "pos": "noun",
+        "word_frequency": 480
+    },
+    {
+        "word": "town",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "town",
+        "example_sentence_english": "We live in a small town.",
+        "pos": "noun",
+        "word_frequency": 482
+    },
+    {
+        "word": "fine",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "good, acceptable",
+        "example_sentence_english": "I feel fine today.",
+        "pos": "adjective",
+        "word_frequency": 487
+    },
+    {
+        "word": "summer",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "summer",
+        "example_sentence_english": "We go on holiday in the summer.",
+        "pos": "noun",
+        "word_frequency": 495
+    },
+    {
+        "word": "wife",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "wife",
+        "example_sentence_english": "My wife is a doctor.",
+        "pos": "noun",
+        "word_frequency": 497
+    },
+    {
+        "word": "beautiful",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "beautiful",
+        "example_sentence_english": "She has a beautiful smile.",
+        "pos": "adjective",
+        "word_frequency": 500
+    },
+    {
+        "word": "eye",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "eye",
+        "example_sentence_english": "She has blue eyes.",
+        "pos": "noun",
+        "word_frequency": 513
+    },
+    {
+        "word": "parent",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "parent",
+        "example_sentence_english": "My parents are visiting next week.",
+        "pos": "noun",
+        "word_frequency": 515
+    },
+    {
+        "word": "film",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a movie; a thin layer",
+        "example_sentence_english": "We watched a good film last night.",
+        "pos": "noun",
+        "word_frequency": 526
+    },
+    {
+        "word": "happen",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to occur",
+        "example_sentence_english": "What happened to your car?",
+        "pos": "verb",
+        "word_frequency": 527
+    },
+    {
+        "word": "tv",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "television",
+        "example_sentence_english": "I like to watch TV in the evenings.",
+        "pos": "noun",
+        "word_frequency": 536
+    },
+    {
+        "word": "test",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an examination; a trial",
+        "example_sentence_english": "I have a math test tomorrow.",
+        "pos": "noun",
+        "word_frequency": 551
+    },
+    {
+        "word": "sorry",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "feeling regret; apologetic",
+        "example_sentence_english": "I'm sorry for the delay.",
+        "pos": "adjective",
+        "word_frequency": 559
+    },
+    {
+        "word": "answer",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a reply or solution",
+        "example_sentence_english": "Do you know the answer to the question?",
+        "pos": "noun",
+        "word_frequency": 563
+    },
+    {
+        "word": "boy",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a male child",
+        "example_sentence_english": "The boy is playing in the park.",
+        "pos": "noun",
+        "word_frequency": 564
+    },
+    {
+        "word": "learn",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to gain knowledge or skill",
+        "example_sentence_english": "I want to learn a new language.",
+        "pos": "verb",
+        "word_frequency": 572
+    },
+    {
+        "word": "add",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to join something to something else",
+        "example_sentence_english": "Please add sugar to my coffee.",
+        "pos": "verb",
+        "word_frequency": 575
+    },
+    {
+        "word": "bank",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a financial institution",
+        "example_sentence_english": "I need to go to the bank.",
+        "pos": "noun",
+        "word_frequency": 579
+    },
+    {
+        "word": "east",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the direction toward the point of the horizon where the sun rises",
+        "example_sentence_english": "The sun rises in the east.",
+        "pos": "noun",
+        "word_frequency": 582
+    },
+    {
+        "word": "hot",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "having a high temperature",
+        "example_sentence_english": "Be careful, the plate is hot.",
+        "pos": "adjective",
+        "word_frequency": 583
+    },
+    {
+        "word": "movie",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a film or motion picture",
+        "example_sentence_english": "Let's watch a movie tonight.",
+        "pos": "noun",
+        "word_frequency": 585
+    },
+    {
+        "word": "park",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large public green area in a town, used for recreation",
+        "example_sentence_english": "The children are playing in the park.",
+        "pos": "noun",
+        "word_frequency": 587
+    },
+    {
+        "word": "send",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to cause to go or be taken to a destination",
+        "example_sentence_english": "I will send you an email.",
+        "pos": "verb",
+        "word_frequency": 592
+    },
+    {
+        "word": "cool",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "of or at a fairly low temperature",
+        "example_sentence_english": "It's a cool evening.",
+        "pos": "adjective",
+        "word_frequency": 596
+    },
+    {
+        "word": "ground",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the solid surface of the earth",
+        "example_sentence_english": "The ball fell to the ground.",
+        "pos": "noun",
+        "word_frequency": 599
+    },
+    {
+        "word": "september",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "September",
+        "example_sentence_english": "My birthday is in September.",
+        "pos": "noun",
+        "word_frequency": 604
+    },
+    {
+        "word": "stand",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "be upright, tolerate",
+        "example_sentence_english": "Please stand up.",
+        "pos": "verb",
+        "word_frequency": 616
+    },
+    {
+        "word": "blue",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "blue",
+        "example_sentence_english": "The sky is blue.",
+        "pos": "adjective",
+        "word_frequency": 621
+    },
+    {
+        "word": "eat",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "consume food",
+        "example_sentence_english": "I want to eat pizza.",
+        "pos": "verb",
+        "word_frequency": 624
+    },
+    {
+        "word": "fast",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "quick, rapid",
+        "example_sentence_english": "He is a fast runner.",
+        "pos": "adjective",
+        "word_frequency": 626
+    },
+    {
+        "word": "green",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "green",
+        "example_sentence_english": "The grass is green.",
+        "pos": "adjective",
+        "word_frequency": 628
+    },
+    {
+        "word": "picture",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "image, photograph",
+        "example_sentence_english": "I took a picture of the sunset.",
+        "pos": "noun",
+        "word_frequency": 634
+    },
+    {
+        "word": "size",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "dimensions, magnitude",
+        "example_sentence_english": "What size shoes do you wear?",
+        "pos": "noun",
+        "word_frequency": 635
+    },
+    {
+        "word": "key",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a tool for opening locks",
+        "example_sentence_english": "I lost my house key.",
+        "pos": "noun",
+        "word_frequency": 642
+    },
+    {
+        "word": "mom",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "mother",
+        "example_sentence_english": "My mom is a great cook.",
+        "pos": "noun",
+        "word_frequency": 643
+    },
+    {
+        "word": "page",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a side of a sheet of paper",
+        "example_sentence_english": "Please turn to page 20.",
+        "pos": "noun",
+        "word_frequency": 645
+    },
+    {
+        "word": "brother",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a male sibling",
+        "example_sentence_english": "My brother is older than me.",
+        "pos": "noun",
+        "word_frequency": 654
+    },
+    {
+        "word": "cup",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a small, round container for drinking",
+        "example_sentence_english": "Would you like a cup of tea?",
+        "pos": "noun",
+        "word_frequency": 658
+    },
+    {
+        "word": "football",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a team sport played with a ball",
+        "example_sentence_english": "They play football every Saturday.",
+        "pos": "noun",
+        "word_frequency": 659
+    },
+    {
+        "word": "dog",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a common domesticated carnivorous mammal",
+        "example_sentence_english": "My dog loves to play fetch.",
+        "pos": "noun",
+        "word_frequency": 675
+    },
+    {
+        "word": "language",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "language",
+        "example_sentence_english": "English is a global language.",
+        "pos": "noun",
+        "word_frequency": 680
+    },
+    {
+        "word": "november",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "November",
+        "example_sentence_english": "My birthday is in November.",
+        "pos": "noun",
+        "word_frequency": 682
+    },
+    {
+        "word": "enjoy",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "enjoy",
+        "example_sentence_english": "I really enjoy reading books.",
+        "pos": "verb",
+        "word_frequency": 695
+    },
+    {
+        "word": "french",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "French",
+        "example_sentence_english": "She speaks French fluently.",
+        "pos": "adjective",
+        "word_frequency": 697
+    },
+    {
+        "word": "january",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "January",
+        "example_sentence_english": "January is the first month of the year.",
+        "pos": "noun",
+        "word_frequency": 698
+    },
+    {
+        "word": "write",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "write",
+        "example_sentence_english": "I need to write an email.",
+        "pos": "verb",
+        "word_frequency": 705
+    },
+    {
+        "word": "door",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "door",
+        "example_sentence_english": "Please close the door.",
+        "pos": "noun",
+        "word_frequency": 713
+    },
+    {
+        "word": "hair",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "hair",
+        "example_sentence_english": "She has long, brown hair.",
+        "pos": "noun",
+        "word_frequency": 719
+    },
+    {
+        "word": "seven",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "7",
+        "example_sentence_english": "There are seven days in a week.",
+        "pos": "numeral",
+        "word_frequency": 725
+    },
+    {
+        "word": "simple",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "easy, not complicated",
+        "example_sentence_english": "The instructions were very simple to follow.",
+        "pos": "adjective",
+        "word_frequency": 727
+    },
+    {
+        "word": "walk",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "stroll, journey on foot",
+        "example_sentence_english": "Let's go for a walk in the park.",
+        "pos": "noun",
+        "word_frequency": 732
+    },
+    {
+        "word": "bed",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "furniture for sleeping",
+        "example_sentence_english": "I'm going to bed now.",
+        "pos": "noun",
+        "word_frequency": 734
+    },
+    {
+        "word": "begin",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "start",
+        "example_sentence_english": "The movie begins at 7 PM.",
+        "pos": "verb",
+        "word_frequency": 735
+    },
+    {
+        "word": "daughter",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "female child",
+        "example_sentence_english": "My daughter is learning to read.",
+        "pos": "noun",
+        "word_frequency": 739
+    },
+    {
+        "word": "december",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "12th month",
+        "example_sentence_english": "Christmas is in December.",
+        "pos": "noun",
+        "word_frequency": 740
+    },
+    {
+        "word": "difficult",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "hard, not easy",
+        "example_sentence_english": "This math problem is very difficult.",
+        "pos": "adjective",
+        "word_frequency": 741
+    },
+    {
+        "word": "paper",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "material for writing/printing",
+        "example_sentence_english": "Please write your name on the paper.",
+        "pos": "noun",
+        "word_frequency": 746
+    },
+    {
+        "word": "forget",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "fail to remember",
+        "example_sentence_english": "Don't forget to lock the door.",
+        "pos": "verb",
+        "word_frequency": 756
+    },
+    {
+        "word": "listen",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to hear with attention",
+        "example_sentence_english": "Please listen carefully to the instructions.",
+        "pos": "verb",
+        "word_frequency": 761
+    },
+    {
+        "word": "sea",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the ocean",
+        "example_sentence_english": "We went for a swim in the sea.",
+        "pos": "noun",
+        "word_frequency": 765
+    },
+    {
+        "word": "sir",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a polite term of address for a man",
+        "example_sentence_english": "Excuse me, sir, can you help me?",
+        "pos": "noun",
+        "word_frequency": 766
+    },
+    {
+        "word": "sleep",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to rest in a state of unconsciousness",
+        "example_sentence_english": "I need to sleep for at least eight hours.",
+        "pos": "verb",
+        "word_frequency": 782
+    },
+    {
+        "word": "table",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a piece of furniture with a flat top and one or more legs",
+        "example_sentence_english": "Please put the books on the table.",
+        "pos": "noun",
+        "word_frequency": 783
+    },
+    {
+        "word": "ten",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the number 10",
+        "example_sentence_english": "There are ten apples in the basket.",
+        "pos": "numeral",
+        "word_frequency": 784
+    },
+    {
+        "word": "ball",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a round object used in games",
+        "example_sentence_english": "The child played with a red ball.",
+        "pos": "noun",
+        "word_frequency": 786
+    },
+    {
+        "word": "box",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a container with flat sides and a lid",
+        "example_sentence_english": "He put the gift in a small box.",
+        "pos": "noun",
+        "word_frequency": 787
+    },
+    {
+        "word": "card",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a piece of thick stiff paper or plastic",
+        "example_sentence_english": "I sent her a birthday card.",
+        "pos": "noun",
+        "word_frequency": 788
+    },
+    {
+        "word": "dark",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "with little or no light",
+        "example_sentence_english": "It gets dark early in winter.",
+        "pos": "adjective",
+        "word_frequency": 789
+    },
+    {
+        "word": "visit",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an act of going to see a person or place",
+        "example_sentence_english": "We paid a visit to our grandparents.",
+        "pos": "noun",
+        "word_frequency": 802
+    },
+    {
+        "word": "wall",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a continuous vertical brick or stone structure",
+        "example_sentence_english": "The room has four walls.",
+        "pos": "noun",
+        "word_frequency": 803
+    },
+    {
+        "word": "river",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large natural stream of water flowing in a channel to the sea, a lake, or another river",
+        "example_sentence_english": "The city is located by a big river.",
+        "pos": "noun",
+        "word_frequency": 817
+    },
+    {
+        "word": "rock",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large mass of stone forming a hill, cliff, or peak",
+        "example_sentence_english": "We climbed over the rocks.",
+        "pos": "noun",
+        "word_frequency": 818
+    },
+    {
+        "word": "speak",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to say words; to talk",
+        "example_sentence_english": "Can you speak louder?",
+        "pos": "verb",
+        "word_frequency": 820
+    },
+    {
+        "word": "tonight",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "on the evening of the present day",
+        "example_sentence_english": "I'm going out tonight.",
+        "pos": "adverb",
+        "word_frequency": 823
+    },
+    {
+        "word": "cold",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "at a low temperature",
+        "example_sentence_english": "It's very cold outside today.",
+        "pos": "adjective",
+        "word_frequency": 828
+    },
+    {
+        "word": "spend",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to use money or time",
+        "example_sentence_english": "I like to spend time with my family.",
+        "pos": "verb",
+        "word_frequency": 840
+    },
+    {
+        "word": "store",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a shop",
+        "example_sentence_english": "I bought milk at the store.",
+        "pos": "noun",
+        "word_frequency": 841
+    },
+    {
+        "word": "tomorrow",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the day after today",
+        "example_sentence_english": "I will see you tomorrow.",
+        "pos": "adverb",
+        "word_frequency": 842
+    },
+    {
+        "word": "brown",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a color",
+        "example_sentence_english": "The dog has brown fur.",
+        "pos": "adjective",
+        "word_frequency": 851
+    },
+    {
+        "word": "chinese",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "relating to China",
+        "example_sentence_english": "She is learning Chinese culture.",
+        "pos": "adjective",
+        "word_frequency": 853
+    },
+    {
+        "word": "radio",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a device for listening to broadcasts",
+        "example_sentence_english": "I listen to the radio in the car.",
+        "pos": "noun",
+        "word_frequency": 865
+    },
+    {
+        "word": "russian",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "relating to Russia",
+        "example_sentence_english": "She is studying Russian history.",
+        "pos": "adjective",
+        "word_frequency": 866
+    },
+    {
+        "word": "station",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a place where trains or buses stop",
+        "example_sentence_english": "We met at the train station.",
+        "pos": "noun",
+        "word_frequency": 867
+    },
+    {
+        "word": "foot",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the lower extremity of the leg",
+        "example_sentence_english": "My foot hurts after running.",
+        "pos": "noun",
+        "word_frequency": 906
+    },
+    {
+        "word": "welcome",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "gladly received",
+        "example_sentence_english": "You are always welcome in our home.",
+        "pos": "adjective",
+        "word_frequency": 912
+    },
+    {
+        "word": "clean",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "not dirty",
+        "example_sentence_english": "Please keep your room clean.",
+        "pos": "adjective",
+        "word_frequency": 926
+    },
+    {
+        "word": "computer",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "electronic device for processing data",
+        "example_sentence_english": "I use my computer for work.",
+        "pos": "noun",
+        "word_frequency": 927
+    },
+    {
+        "word": "photo",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a photograph",
+        "example_sentence_english": "She took a beautiful photo of the sunset.",
+        "pos": "noun",
+        "word_frequency": 935
+    },
+    {
+        "word": "sun",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the star that the Earth orbits",
+        "example_sentence_english": "The sun is shining brightly today.",
+        "pos": "noun",
+        "word_frequency": 940
+    },
+    {
+        "word": "dad",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "father",
+        "example_sentence_english": "My dad is a great cook.",
+        "pos": "noun",
+        "word_frequency": 958
+    },
+    {
+        "word": "german",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "German",
+        "example_sentence_english": "She is learning the German language.",
+        "pos": "adjective",
+        "word_frequency": 963
+    },
+    {
+        "word": "hotel",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "hotel",
+        "example_sentence_english": "We booked a hotel room for the night.",
+        "pos": "noun",
+        "word_frequency": 966
+    },
+    {
+        "word": "letter",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "letter",
+        "example_sentence_english": "I received a letter from my friend.",
+        "pos": "noun",
+        "word_frequency": 971
+    },
+    {
+        "word": "sister",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "sister",
+        "example_sentence_english": "My sister lives in another city.",
+        "pos": "noun",
+        "word_frequency": 979
+    },
+    {
+        "word": "finish",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to finish",
+        "example_sentence_english": "I need to finish my homework.",
+        "pos": "verb",
+        "word_frequency": 990
+    },
+    {
+        "word": "floor",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "floor",
+        "example_sentence_english": "The book fell on the floor.",
+        "pos": "noun",
+        "word_frequency": 991
+    },
+    {
+        "word": "sport",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an activity involving physical exertion and skill",
+        "example_sentence_english": "My favorite sport is basketball.",
+        "pos": "noun",
+        "word_frequency": 1004
+    },
+    {
+        "word": "dance",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a series of steps and movements that match the speed and rhythm of a piece of music",
+        "example_sentence_english": "Let's go to the dance tonight.",
+        "pos": "noun",
+        "word_frequency": 1013
+    },
+    {
+        "word": "weekend",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "Saturday and Sunday",
+        "example_sentence_english": "What are your plans for the weekend.",
+        "pos": "noun",
+        "word_frequency": 1023
+    },
+    {
+        "word": "beach",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a sandy or pebbly shore by the sea or a lake",
+        "example_sentence_english": "We spent the day at the beach.",
+        "pos": "noun",
+        "word_frequency": 1028
+    },
+    {
+        "word": "wear",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to have clothes on your body",
+        "example_sentence_english": "She likes to wear colorful dresses.",
+        "pos": "verb",
+        "word_frequency": 1045
+    },
+    {
+        "word": "color",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the property of objects that depends on the light they reflect",
+        "example_sentence_english": "Red is my favorite color.",
+        "pos": "noun",
+        "word_frequency": 1052
+    },
+    {
+        "word": "yesterday",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "on the day before today",
+        "example_sentence_english": "I saw her yesterday.",
+        "pos": "adverb",
+        "word_frequency": 1075
+    },
+    {
+        "word": "doctor",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "physician",
+        "example_sentence_english": "I need to see a doctor.",
+        "pos": "noun",
+        "word_frequency": 1081
+    },
+    {
+        "word": "drink",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "beverage",
+        "example_sentence_english": "Would you like a drink?",
+        "pos": "noun",
+        "word_frequency": 1083
+    },
+    {
+        "word": "fish",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "aquatic animal",
+        "example_sentence_english": "We saw many colorful fish in the ocean.",
+        "pos": "noun",
+        "word_frequency": 1086
+    },
+    {
+        "word": "sit",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "take a seat",
+        "example_sentence_english": "Please sit down.",
+        "pos": "verb",
+        "word_frequency": 1094
+    },
+    {
+        "word": "carry",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "transport, hold",
+        "example_sentence_english": "Can you help me carry these bags?",
+        "pos": "verb",
+        "word_frequency": 1099
+    },
+    {
+        "word": "plant",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "living organism (e.g., tree, flower)",
+        "example_sentence_english": "She watered the plant every day.",
+        "pos": "noun",
+        "word_frequency": 1108
+    },
+    {
+        "word": "winter",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "coldest season of the year",
+        "example_sentence_english": "Winter is my favorite season.",
+        "pos": "noun",
+        "word_frequency": 1114
+    },
+    {
+        "word": "shop",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a building or part of a building where goods or services are sold",
+        "example_sentence_english": "I need to go to the shop to buy some milk.",
+        "pos": "noun",
+        "word_frequency": 1132
+    },
+    {
+        "word": "sick",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "feeling unwell; ill",
+        "example_sentence_english": "She felt sick after eating too much candy.",
+        "pos": "adjective",
+        "word_frequency": 1133
+    },
+    {
+        "word": "teacher",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a person who teaches, especially in a school",
+        "example_sentence_english": "My favorite teacher taught us about history.",
+        "pos": "noun",
+        "word_frequency": 1134
+    },
+    {
+        "word": "camera",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a device for recording visual images",
+        "example_sentence_english": "He took a picture with his new camera.",
+        "pos": "noun",
+        "word_frequency": 1139
+    },
+    {
+        "word": "nine",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the number equivalent to the sum of eight and one",
+        "example_sentence_english": "There are nine apples in the basket.",
+        "pos": "numeral",
+        "word_frequency": 1150
+    },
+    {
+        "word": "saturday",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the day of the week before Sunday and after Friday",
+        "example_sentence_english": "We usually go shopping on Saturday.",
+        "pos": "noun",
+        "word_frequency": 1154
+    },
+    {
+        "word": "weather",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the state of the atmosphere at a particular place and time as regards heat, cloudiness, dryness, sunshine, wind, rain, etc.",
+        "example_sentence_english": "The weather is beautiful today.",
+        "pos": "noun",
+        "word_frequency": 1159
+    },
+    {
+        "word": "coffee",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "coffee",
+        "example_sentence_english": "Would you like a cup of coffee?",
+        "pos": "noun",
+        "word_frequency": 1162
+    },
+    {
+        "word": "evening",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "evening",
+        "example_sentence_english": "We usually eat dinner in the evening.",
+        "pos": "noun",
+        "word_frequency": 1165
+    },
+    {
+        "word": "library",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "library",
+        "example_sentence_english": "I borrowed a book from the library.",
+        "pos": "noun",
+        "word_frequency": 1171
+    },
+    {
+        "word": "fat",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "having a lot of flesh",
+        "example_sentence_english": "The cat was very fat.",
+        "pos": "adjective",
+        "word_frequency": 1184
+    },
+    {
+        "word": "glass",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "hard, brittle substance; a drinking vessel",
+        "example_sentence_english": "Please pour me a glass of water.",
+        "pos": "noun",
+        "word_frequency": 1185
+    },
+    {
+        "word": "slow",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "moving or operating at a low speed",
+        "example_sentence_english": "The internet connection is very slow today.",
+        "pos": "adjective",
+        "word_frequency": 1197
+    },
+    {
+        "word": "tree",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a tall plant with a trunk and branches",
+        "example_sentence_english": "There is a big tree in the garden.",
+        "pos": "noun",
+        "word_frequency": 1201
+    },
+    {
+        "word": "airport",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a place where aircraft take off and land",
+        "example_sentence_english": "I need to go to the airport to catch my flight.",
+        "pos": "noun",
+        "word_frequency": 1204
+    },
+    {
+        "word": "animal",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a living organism that feeds on organic matter",
+        "example_sentence_english": "My favorite animal is a dog.",
+        "pos": "noun",
+        "word_frequency": 1205
+    },
+    {
+        "word": "sad",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "feeling or showing sorrow; unhappy",
+        "example_sentence_english": "She felt sad when her pet left.",
+        "pos": "adjective",
+        "word_frequency": 1216
+    },
+    {
+        "word": "bus",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large motor vehicle carrying passengers by road",
+        "example_sentence_english": "I take the bus to work every day.",
+        "pos": "noun",
+        "word_frequency": 1228
+    },
+    {
+        "word": "count",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to determine the total number of a collection of items",
+        "example_sentence_english": "Can you count to ten.",
+        "pos": "verb",
+        "word_frequency": 1231
+    },
+    {
+        "word": "mouth",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the opening in the lower part of the human face, surrounded by the lips, through which food is taken in and from which sounds and speech are emitted.",
+        "example_sentence_english": "Open your mouth wide.",
+        "pos": "noun",
+        "word_frequency": 1240
+    },
+    {
+        "word": "arm",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "each of the two upper limbs of the human body from the shoulder to the hand.",
+        "example_sentence_english": "He broke his arm.",
+        "pos": "noun",
+        "word_frequency": 1256
+    },
+    {
+        "word": "pull",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to exert force on (someone or something) so as to cause movement toward oneself or the thing exerting the force.",
+        "example_sentence_english": "Pull the door open.",
+        "pos": "verb",
+        "word_frequency": 1273
+    },
+    {
+        "word": "push",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to exert force on (someone or something) in order to move them away from oneself.",
+        "example_sentence_english": "Push the button to start.",
+        "pos": "verb",
+        "word_frequency": 1274
+    },
+    {
+        "word": "seat",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a thing made or used for sitting on.",
+        "example_sentence_english": "Take a seat, please.",
+        "pos": "noun",
+        "word_frequency": 1276
+    },
+    {
+        "word": "draw",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to make a picture with a pencil or pen",
+        "example_sentence_english": "Can you draw a picture of a house?",
+        "pos": "verb",
+        "word_frequency": 1286
+    },
+    {
+        "word": "enter",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to come or go into",
+        "example_sentence_english": "Please enter the room quietly.",
+        "pos": "verb",
+        "word_frequency": 1289
+    },
+    {
+        "word": "adult",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a person who is fully grown or developed",
+        "example_sentence_english": "Children must be accompanied by an adult.",
+        "pos": "noun",
+        "word_frequency": 1305
+    },
+    {
+        "word": "healthy",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "in good health",
+        "example_sentence_english": "Eating fruits and vegetables helps you stay healthy.",
+        "pos": "adjective",
+        "word_frequency": 1312
+    },
+    {
+        "word": "window",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "window",
+        "example_sentence_english": "Please close the window, it's cold.",
+        "pos": "noun",
+        "word_frequency": 1326
+    },
+    {
+        "word": "arrive",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "arrive",
+        "example_sentence_english": "What time will you arrive?",
+        "pos": "verb",
+        "word_frequency": 1328
+    },
+    {
+        "word": "bag",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "bag",
+        "example_sentence_english": "She carried a small bag.",
+        "pos": "noun",
+        "word_frequency": 1329
+    },
+    {
+        "word": "television",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "television",
+        "example_sentence_english": "We watched a movie on television.",
+        "pos": "noun",
+        "word_frequency": 1348
+    },
+    {
+        "word": "cat",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "cat",
+        "example_sentence_english": "My cat loves to sleep.",
+        "pos": "noun",
+        "word_frequency": 1355
+    },
+    {
+        "word": "dinner",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "dinner",
+        "example_sentence_english": "What's for dinner tonight?",
+        "pos": "noun",
+        "word_frequency": 1357
+    },
+    {
+        "word": "dollar",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "dollar",
+        "example_sentence_english": "This book costs ten dollars.",
+        "pos": "noun",
+        "word_frequency": 1358
+    },
+    {
+        "word": "wood",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "wood",
+        "example_sentence_english": "The table is made of wood.",
+        "pos": "noun",
+        "word_frequency": 1377
+    },
+    {
+        "word": "garden",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "garden",
+        "example_sentence_english": "She spends a lot of time working in her garden.",
+        "pos": "noun",
+        "word_frequency": 1385
+    },
+    {
+        "word": "apple",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a common fruit",
+        "example_sentence_english": "She ate a red apple for a snack.",
+        "pos": "noun",
+        "word_frequency": 1407
+    },
+    {
+        "word": "birthday",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "anniversary of birth",
+        "example_sentence_english": "Happy birthday! I hope you have a great day.",
+        "pos": "noun",
+        "word_frequency": 1409
+    },
+    {
+        "word": "dress",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a piece of clothing",
+        "example_sentence_english": "She wore a beautiful blue dress to the party.",
+        "pos": "noun",
+        "word_frequency": 1413
+    },
+    {
+        "word": "horse",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large animal",
+        "example_sentence_english": "The horse galloped across the field.",
+        "pos": "noun",
+        "word_frequency": 1416
+    },
+    {
+        "word": "map",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a drawing of an area",
+        "example_sentence_english": "We used a map to find our way.",
+        "pos": "noun",
+        "word_frequency": 1419
+    },
+    {
+        "word": "busy",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "occupied, active",
+        "example_sentence_english": "I'm too busy to talk right now.",
+        "pos": "adjective",
+        "word_frequency": 1429
+    },
+    {
+        "word": "corner",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "where two lines or surfaces meet",
+        "example_sentence_english": "The book fell off the corner of the table.",
+        "pos": "noun",
+        "word_frequency": 1432
+    },
+    {
+        "word": "farm",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "land used for growing crops or raising animals",
+        "example_sentence_english": "My grandparents live on a farm.",
+        "pos": "noun",
+        "word_frequency": 1437
+    },
+    {
+        "word": "dry",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "free from moisture or liquid",
+        "example_sentence_english": "The clothes are dry now.",
+        "pos": "adjective",
+        "word_frequency": 1463
+    },
+    {
+        "word": "mountain",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large natural elevation of the earth's surface",
+        "example_sentence_english": "We climbed to the top of the mountain.",
+        "pos": "noun",
+        "word_frequency": 1496
+    },
+    {
+        "word": "tea",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a hot drink made from tea leaves",
+        "example_sentence_english": "Would you like a cup of tea?",
+        "pos": "noun",
+        "word_frequency": 1506
+    },
+    {
+        "word": "afternoon",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the period between noon and evening",
+        "example_sentence_english": "I will meet you in the afternoon.",
+        "pos": "noun",
+        "word_frequency": 1508
+    },
+    {
+        "word": "clothes",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "items of dress",
+        "example_sentence_english": "I need to buy some new clothes.",
+        "pos": "noun",
+        "word_frequency": 1513
+    },
+    {
+        "word": "hello",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a greeting",
+        "example_sentence_english": "She said hello to her friend.",
+        "pos": "interjection",
+        "word_frequency": 1522
+    },
+    {
+        "word": "mail",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "letters and packages",
+        "example_sentence_english": "I received a lot of mail today.",
+        "pos": "noun",
+        "word_frequency": 1528
+    },
+    {
+        "word": "plane",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an aircraft",
+        "example_sentence_english": "We took a plane to travel across the country.",
+        "pos": "noun",
+        "word_frequency": 1531
+    },
+    {
+        "word": "sky",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the area above the earth",
+        "example_sentence_english": "The sky was clear and blue.",
+        "pos": "noun",
+        "word_frequency": 1540
+    },
+    {
+        "word": "teach",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to impart knowledge",
+        "example_sentence_english": "She wants to teach English abroad.",
+        "pos": "verb",
+        "word_frequency": 1541
+    },
+    {
+        "word": "boat",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a small vessel for traveling on water",
+        "example_sentence_english": "We went for a ride on the boat.",
+        "pos": "noun",
+        "word_frequency": 1553
+    },
+    {
+        "word": "hundred",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "100",
+        "example_sentence_english": "There are one hundred pages in this book.",
+        "pos": "numeral",
+        "word_frequency": 1562
+    },
+    {
+        "word": "rain",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "precipitation",
+        "example_sentence_english": "The rain started falling heavily.",
+        "pos": "noun",
+        "word_frequency": 1571
+    },
+    {
+        "word": "warm",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "moderately hot",
+        "example_sentence_english": "The tea is still warm.",
+        "pos": "adjective",
+        "word_frequency": 1577
+    },
+    {
+        "word": "building",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a structure with walls and a roof",
+        "example_sentence_english": "That tall building is an office.",
+        "pos": "noun",
+        "word_frequency": 1609
+    },
+    {
+        "word": "chair",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a seat for one person",
+        "example_sentence_english": "Please sit on the chair.",
+        "pos": "noun",
+        "word_frequency": 1610
+    },
+    {
+        "word": "jump",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to push oneself off the ground",
+        "example_sentence_english": "The cat likes to jump on the table.",
+        "pos": "verb",
+        "word_frequency": 1618
+    },
+    {
+        "word": "yellow",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a primary color",
+        "example_sentence_english": "The sun is yellow.",
+        "pos": "adjective",
+        "word_frequency": 1631
+    },
+    {
+        "word": "restaurant",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a place where meals are served",
+        "example_sentence_english": "Let's eat at the new restaurant.",
+        "pos": "noun",
+        "word_frequency": 1649
+    },
+    {
+        "word": "sugar",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a sweet crystalline substance",
+        "example_sentence_english": "Do you take sugar in your coffee?",
+        "pos": "noun",
+        "word_frequency": 1653
+    },
+    {
+        "word": "leg",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a limb used for walking or standing",
+        "example_sentence_english": "My leg hurts after running.",
+        "pos": "noun",
+        "word_frequency": 1670
+    },
+    {
+        "word": "shoe",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "footwear",
+        "example_sentence_english": "I need a new pair of shoes.",
+        "pos": "noun",
+        "word_frequency": 1682
+    },
+    {
+        "word": "angry",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "feeling or showing anger",
+        "example_sentence_english": "She was very angry about the delay.",
+        "pos": "adjective",
+        "word_frequency": 1687
+    },
+    {
+        "word": "holiday",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a day of celebration or rest",
+        "example_sentence_english": "We're going on holiday next week.",
+        "pos": "noun",
+        "word_frequency": 1697
+    },
+    {
+        "word": "laugh",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "make sounds of amusement",
+        "example_sentence_english": "She started to laugh at the joke.",
+        "pos": "verb",
+        "word_frequency": 1703
+    },
+    {
+        "word": "lunch",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "midday meal",
+        "example_sentence_english": "What are you having for lunch?",
+        "pos": "noun",
+        "word_frequency": 1706
+    },
+    {
+        "word": "milk",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "white liquid from mammals",
+        "example_sentence_english": "Would you like some milk in your coffee?",
+        "pos": "noun",
+        "word_frequency": 1708
+    },
+    {
+        "word": "snow",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "frozen precipitation",
+        "example_sentence_english": "It started to snow heavily.",
+        "pos": "noun",
+        "word_frequency": 1713
+    },
+    {
+        "word": "apartment",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "apartment",
+        "example_sentence_english": "They live in a small apartment in the city.",
+        "pos": "noun",
+        "word_frequency": 1722
+    },
+    {
+        "word": "cook",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "cook",
+        "example_sentence_english": "I like to cook dinner every evening.",
+        "pos": "verb",
+        "word_frequency": 1728
+    },
+    {
+        "word": "kitchen",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "kitchen",
+        "example_sentence_english": "The kitchen is the heart of the home.",
+        "pos": "noun",
+        "word_frequency": 1735
+    },
+    {
+        "word": "flower",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the part of a plant that blossoms",
+        "example_sentence_english": "She picked a beautiful red flower from the garden.",
+        "pos": "noun",
+        "word_frequency": 1763
+    },
+    {
+        "word": "smile",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a facial expression indicating pleasure",
+        "example_sentence_english": "Her warm smile made everyone feel welcome.",
+        "pos": "noun",
+        "word_frequency": 1774
+    },
+    {
+        "word": "truck",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large road vehicle for carrying goods",
+        "example_sentence_english": "The delivery truck arrived early this morning.",
+        "pos": "noun",
+        "word_frequency": 1780
+    },
+    {
+        "word": "bird",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a feathered animal that can fly",
+        "example_sentence_english": "A small bird landed on the window sill.",
+        "pos": "noun",
+        "word_frequency": 1784
+    },
+    {
+        "word": "bowl",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a round, deep dish",
+        "example_sentence_english": "She filled the bowl with soup.",
+        "pos": "noun",
+        "word_frequency": 1787
+    },
+    {
+        "word": "chicken",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a common farm bird or its meat",
+        "example_sentence_english": "We had roasted chicken for dinner.",
+        "pos": "noun",
+        "word_frequency": 1788
+    },
+    {
+        "word": "ma",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "mother (informal)",
+        "example_sentence_english": "My ma always bakes the best cookies.",
+        "pos": "noun",
+        "word_frequency": 1799
+    },
+    {
+        "word": "meat",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "meat",
+        "example_sentence_english": "I don't eat meat.",
+        "pos": "noun",
+        "word_frequency": 1800
+    },
+    {
+        "word": "shirt",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "shirt",
+        "example_sentence_english": "He put on a clean shirt.",
+        "pos": "noun",
+        "word_frequency": 1806
+    },
+    {
+        "word": "tuesday",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "Tuesday",
+        "example_sentence_english": "We have a meeting on Tuesday.",
+        "pos": "noun",
+        "word_frequency": 1810
+    },
+    {
+        "word": "zero",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "zero",
+        "example_sentence_english": "The temperature dropped to zero degrees.",
+        "pos": "numeral",
+        "word_frequency": 1813
+    },
+    {
+        "word": "orange",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "orange",
+        "example_sentence_english": "She wore an orange dress.",
+        "pos": "adjective",
+        "word_frequency": 1832
+    },
+    {
+        "word": "thursday",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "Thursday",
+        "example_sentence_english": "We have a meeting every Thursday morning.",
+        "pos": "noun",
+        "word_frequency": 1840
+    },
+    {
+        "word": "breakfast",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the first meal of the day",
+        "example_sentence_english": "What do you usually have for breakfast?",
+        "pos": "noun",
+        "word_frequency": 1850
+    },
+    {
+        "word": "ticket",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a piece of paper or card that gives the holder a certain right",
+        "example_sentence_english": "Do you have your train ticket?",
+        "pos": "noun",
+        "word_frequency": 1872
+    },
+    {
+        "word": "newspaper",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a daily or weekly publication",
+        "example_sentence_english": "I read the newspaper every morning.",
+        "pos": "noun",
+        "word_frequency": 1887
+    },
+    {
+        "word": "salt",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a white crystalline substance used as a seasoning",
+        "example_sentence_english": "Please pass the salt.",
+        "pos": "noun",
+        "word_frequency": 1892
+    },
+    {
+        "word": "bell",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a hollow, cup-shaped metal object that rings when struck",
+        "example_sentence_english": "The school bell rang.",
+        "pos": "noun",
+        "word_frequency": 1903
+    },
+    {
+        "word": "cry",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "shed tears",
+        "example_sentence_english": "The baby started to cry.",
+        "pos": "verb",
+        "word_frequency": 1910
+    },
+    {
+        "word": "sing",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to make musical sounds with the voice",
+        "example_sentence_english": "She loves to sing in the shower.",
+        "pos": "verb",
+        "word_frequency": 1929
+    },
+    {
+        "word": "tooth",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a hard white structure in the mouth",
+        "example_sentence_english": "My baby is getting a new tooth.",
+        "pos": "noun",
+        "word_frequency": 1965
+    },
+    {
+        "word": "bottle",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a container, typically made of glass or plastic",
+        "example_sentence_english": "Please recycle this plastic bottle.",
+        "pos": "noun",
+        "word_frequency": 1976
+    },
+    {
+        "word": "cheese",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a food made from the pressed curds of milk",
+        "example_sentence_english": "Would you like some cheese with your bread?",
+        "pos": "noun",
+        "word_frequency": 1980
+    },
+    {
+        "word": "fruit",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the sweet and fleshy product of a tree or other plant",
+        "example_sentence_english": "Apples are my favourite fruit.",
+        "pos": "noun",
+        "word_frequency": 1987
+    },
+    {
+        "word": "yard",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "garden, unit of measurement",
+        "example_sentence_english": "The children are playing in the yard.",
+        "pos": "noun",
+        "word_frequency": 2012
+    },
+    {
+        "word": "basketball",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a sport",
+        "example_sentence_english": "Do you want to play basketball?",
+        "pos": "noun",
+        "word_frequency": 2015
+    },
+    {
+        "word": "button",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "fastener, control",
+        "example_sentence_english": "Press the red button to start.",
+        "pos": "noun",
+        "word_frequency": 2016
+    },
+    {
+        "word": "golf",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a sport",
+        "example_sentence_english": "Do you play golf?",
+        "pos": "noun",
+        "word_frequency": 2033
+    },
+    {
+        "word": "object",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a material thing that can be seen and touched",
+        "example_sentence_english": "There was a strange object floating in the water.",
+        "pos": "noun",
+        "word_frequency": 2041
+    },
+    {
+        "word": "circle",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a round plane figure",
+        "example_sentence_english": "Draw a circle on the paper.",
+        "pos": "noun",
+        "word_frequency": 2062
+    },
+    {
+        "word": "dirty",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "not clean",
+        "example_sentence_english": "Your hands are very dirty.",
+        "pos": "adjective",
+        "word_frequency": 2068
+    },
+    {
+        "word": "noise",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "sound",
+        "example_sentence_english": "There was a loud noise outside.",
+        "pos": "noun",
+        "word_frequency": 2084
+    },
+    {
+        "word": "plate",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a flat dish",
+        "example_sentence_english": "Please put the food on the plate.",
+        "pos": "noun",
+        "word_frequency": 2089
+    },
+    {
+        "word": "rice",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a type of grain",
+        "example_sentence_english": "We had rice with our dinner.",
+        "pos": "noun",
+        "word_frequency": 2093
+    },
+    {
+        "word": "bathroom",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a room with a toilet and sink",
+        "example_sentence_english": "Where is the bathroom?",
+        "pos": "noun",
+        "word_frequency": 2101
+    },
+    {
+        "word": "wet",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "covered or saturated with water or another liquid",
+        "example_sentence_english": "Don't sit on the wet grass.",
+        "pos": "adjective",
+        "word_frequency": 2129
+    },
+    {
+        "word": "bike",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a bicycle or motorcycle",
+        "example_sentence_english": "I ride my bike to work every day.",
+        "pos": "noun",
+        "word_frequency": 2134
+    },
+    {
+        "word": "cake",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a sweet baked food",
+        "example_sentence_english": "She baked a delicious chocolate cake.",
+        "pos": "noun",
+        "word_frequency": 2137
+    },
+    {
+        "word": "hat",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a covering for the head",
+        "example_sentence_english": "She wore a red hat.",
+        "pos": "noun",
+        "word_frequency": 2146
+    },
+    {
+        "word": "loud",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "producing or capable of producing much noise",
+        "example_sentence_english": "The music was very loud.",
+        "pos": "adjective",
+        "word_frequency": 2150
+    },
+    {
+        "word": "pink",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a pale red color",
+        "example_sentence_english": "Her favorite color is pink.",
+        "pos": "adjective",
+        "word_frequency": 2198
+    },
+    {
+        "word": "singer",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a person who sings",
+        "example_sentence_english": "My favorite singer is performing tonight.",
+        "pos": "noun",
+        "word_frequency": 2204
+    },
+    {
+        "word": "tall",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "of great height",
+        "example_sentence_english": "He is a very tall man.",
+        "pos": "adjective",
+        "word_frequency": 2207
+    },
+    {
+        "word": "nose",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the part of the face used for smelling and breathing",
+        "example_sentence_english": "He has a small nose.",
+        "pos": "noun",
+        "word_frequency": 2233
+    },
+    {
+        "word": "bread",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a staple food made from flour and water",
+        "example_sentence_english": "I bought a loaf of bread.",
+        "pos": "noun",
+        "word_frequency": 2250
+    },
+    {
+        "word": "egg",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an oval or round object laid by a female bird, reptile, insect, or fish",
+        "example_sentence_english": "I had an egg for breakfast.",
+        "pos": "noun",
+        "word_frequency": 2252
+    },
+    {
+        "word": "finger",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "each of the five digits at the end of the hand",
+        "example_sentence_english": "He pointed with his finger.",
+        "pos": "noun",
+        "word_frequency": 2257
+    },
+    {
+        "word": "chocolate",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a sweet food made from cocoa",
+        "example_sentence_english": "I love eating chocolate.",
+        "pos": "noun",
+        "word_frequency": 2290
+    },
+    {
+        "word": "smell",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to perceive odor",
+        "example_sentence_english": "I can smell the fresh bread.",
+        "pos": "verb",
+        "word_frequency": 2320
+    },
+    {
+        "word": "gray",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a color between black and white",
+        "example_sentence_english": "The sky was gray and cloudy.",
+        "pos": "adjective",
+        "word_frequency": 2331
+    },
+    {
+        "word": "meal",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an occasion when food is eaten",
+        "example_sentence_english": "We had a delicious meal for dinner.",
+        "pos": "noun",
+        "word_frequency": 2337
+    },
+    {
+        "word": "soccer",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a game played with a ball between two teams of 11 players",
+        "example_sentence_english": "My favorite sport is soccer.",
+        "pos": "noun",
+        "word_frequency": 2355
+    },
+    {
+        "word": "clothing",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "garments collectively",
+        "example_sentence_english": "She bought some new clothing for her trip.",
+        "pos": "noun",
+        "word_frequency": 2367
+    },
+    {
+        "word": "lesson",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a period of learning or teaching",
+        "example_sentence_english": "We had a math lesson this morning.",
+        "pos": "noun",
+        "word_frequency": 2386
+    },
+    {
+        "word": "bedroom",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a room used for sleeping",
+        "example_sentence_english": "My bedroom is on the second floor.",
+        "pos": "noun",
+        "word_frequency": 2408
+    },
+    {
+        "word": "cloud",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a visible mass of water droplets in the air",
+        "example_sentence_english": "There isn't a single cloud in the sky today.",
+        "pos": "noun",
+        "word_frequency": 2413
+    },
+    {
+        "word": "wash",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to clean with water and usually soap",
+        "example_sentence_english": "Please wash your hands before dinner.",
+        "pos": "verb",
+        "word_frequency": 2445
+    },
+    {
+        "word": "hungry",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "feeling or showing the need for food",
+        "example_sentence_english": "I'm so hungry, I could eat a horse!",
+        "pos": "adjective",
+        "word_frequency": 2467
+    },
+    {
+        "word": "pet",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a domestic or tamed animal kept for companionship or pleasure",
+        "example_sentence_english": "Do you have any pets at home.",
+        "pos": "noun",
+        "word_frequency": 2477
+    },
+    {
+        "word": "uncle",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "uncle",
+        "example_sentence_english": "My uncle lives in New York.",
+        "pos": "noun",
+        "word_frequency": 2488
+    },
+    {
+        "word": "bath",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "bath",
+        "example_sentence_english": "I like to take a hot bath after work.",
+        "pos": "noun",
+        "word_frequency": 2495
+    },
+    {
+        "word": "p.m",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "afternoon/evening",
+        "example_sentence_english": "The meeting is at 3 p.m.",
+        "pos": "noun",
+        "word_frequency": 2520
+    },
+    {
+        "word": "clock",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an instrument for measuring time",
+        "example_sentence_english": "The clock on the wall shows the time.",
+        "pos": "noun",
+        "word_frequency": 2540
+    },
+    {
+        "word": "desk",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a piece of furniture with a flat top and drawers",
+        "example_sentence_english": "She sat at her desk to work.",
+        "pos": "noun",
+        "word_frequency": 2546
+    },
+    {
+        "word": "ear",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the organ of hearing",
+        "example_sentence_english": "He whispered something in her ear.",
+        "pos": "noun",
+        "word_frequency": 2547
+    },
+    {
+        "word": "pizza",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "pizza",
+        "example_sentence_english": "Let's order a large pizza for dinner.",
+        "pos": "noun",
+        "word_frequency": 2562
+    },
+    {
+        "word": "swim",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to move through water using your body",
+        "example_sentence_english": "I love to swim in the ocean during summer.",
+        "pos": "verb",
+        "word_frequency": 2567
+    },
+    {
+        "word": "min",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "minute (abbreviation)",
+        "example_sentence_english": "I'll be there in five min.",
+        "pos": "noun",
+        "word_frequency": 2601
+    },
+    {
+        "word": "mum",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "mother (informal)",
+        "example_sentence_english": "My mum always bakes a cake for my birthday.",
+        "pos": "noun",
+        "word_frequency": 2646
+    },
+    {
+        "word": "telephone",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a system for transmitting voices over a distance",
+        "example_sentence_english": "Can I use your telephone to make a call?",
+        "pos": "noun",
+        "word_frequency": 2656
+    },
+    {
+        "word": "butter",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a pale yellow edible fatty substance made by churning cream",
+        "example_sentence_english": "Please pass the butter for the toast.",
+        "pos": "noun",
+        "word_frequency": 2671
+    },
+    {
+        "word": "nurse",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a person trained to care for the sick",
+        "example_sentence_english": "The nurse checked the patient's temperature.",
+        "pos": "noun",
+        "word_frequency": 2695
+    },
+    {
+        "word": "bench",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a long seat",
+        "example_sentence_english": "We sat on a park bench.",
+        "pos": "noun",
+        "word_frequency": 2718
+    },
+    {
+        "word": "grass",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "green plant covering ground",
+        "example_sentence_english": "The grass is green in spring.",
+        "pos": "noun",
+        "word_frequency": 2776
+    },
+    {
+        "word": "pen",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "writing instrument",
+        "example_sentence_english": "Can I borrow your pen?",
+        "pos": "noun",
+        "word_frequency": 2788
+    },
+    {
+        "word": "nov",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "November",
+        "example_sentence_english": "The meeting is scheduled for Nov 15th.",
+        "pos": "noun",
+        "word_frequency": 2826
+    },
+    {
+        "word": "coat",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an outer garment",
+        "example_sentence_english": "It's cold, put on your coat.",
+        "pos": "noun",
+        "word_frequency": 2853
+    },
+    {
+        "word": "daddy",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "father (informal)",
+        "example_sentence_english": "My daddy reads me a story every night.",
+        "pos": "noun",
+        "word_frequency": 2856
+    },
+    {
+        "word": "juice",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the liquid part of a fruit or vegetable",
+        "example_sentence_english": "I'd like a glass of orange juice.",
+        "pos": "noun",
+        "word_frequency": 2870
+    },
+    {
+        "word": "tennis",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a racket sport",
+        "example_sentence_english": "Do you want to play tennis this weekend?",
+        "pos": "noun",
+        "word_frequency": 2933
+    },
+    {
+        "word": "knee",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the joint between the thigh and the lower leg",
+        "example_sentence_english": "He hurt his knee playing football.",
+        "pos": "noun",
+        "word_frequency": 3004
+    },
+    {
+        "word": "jacket",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an outer garment extending to the waist or hips, with sleeves, a collar, and an opening down the front",
+        "example_sentence_english": "Please hang your jacket on the hook.",
+        "pos": "noun",
+        "word_frequency": 3053
+    },
+    {
+        "word": "purple",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a color intermediate between blue and red",
+        "example_sentence_english": "Her favorite color is purple.",
+        "pos": "adjective",
+        "word_frequency": 3065
+    },
+    {
+        "word": "mouse",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a small rodent; a computer pointing device",
+        "example_sentence_english": "The cat chased the mouse.",
+        "pos": "noun",
+        "word_frequency": 3119
+    },
+    {
+        "word": "piano",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "piano",
+        "example_sentence_english": "She plays the piano very well.",
+        "pos": "noun",
+        "word_frequency": 3121
+    },
+    {
+        "word": "tiger",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large striped cat",
+        "example_sentence_english": "The tiger is a powerful predator.",
+        "pos": "noun",
+        "word_frequency": 3182
+    },
+    {
+        "word": "toy",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an object for children to play with",
+        "example_sentence_english": "The child played with his new toy car.",
+        "pos": "noun",
+        "word_frequency": 3183
+    },
+    {
+        "word": "candy",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a sweet food",
+        "example_sentence_english": "Children love to eat candy.",
+        "pos": "noun",
+        "word_frequency": 3191
+    },
+    {
+        "word": "fifty",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the number 50",
+        "example_sentence_english": "There are fifty states in the USA.",
+        "pos": "numeral",
+        "word_frequency": 3212
+    },
+    {
+        "word": "breathe",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "take air into and expel it from the lungs",
+        "example_sentence_english": "It's important to breathe deeply when you exercise.",
+        "pos": "verb",
+        "word_frequency": 3250
+    },
+    {
+        "word": "autumn",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the season after summer and before winter",
+        "example_sentence_english": "The leaves turn beautiful colors in autumn.",
+        "pos": "noun",
+        "word_frequency": 3349
+    },
+    {
+        "word": "coin",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a flat, typically round piece of metal with an official stamp, used as money",
+        "example_sentence_english": "I found a rare old coin in my grandfather's collection.",
+        "pos": "noun",
+        "word_frequency": 3356
+    },
+    {
+        "word": "menu",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a list of dishes available in a restaurant",
+        "example_sentence_english": "Can I see the menu, please?",
+        "pos": "noun",
+        "word_frequency": 3376
+    },
+    {
+        "word": "lion",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large wild cat",
+        "example_sentence_english": "The lion roared loudly in the savanna.",
+        "pos": "noun",
+        "word_frequency": 3424
+    },
+    {
+        "word": "grandfather",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "grandfather",
+        "example_sentence_english": "My grandfather loves to tell stories about his youth.",
+        "pos": "noun",
+        "word_frequency": 3472
+    },
+    {
+        "word": "mama",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "mom, mother",
+        "example_sentence_english": "The child called out for his mama.",
+        "pos": "noun",
+        "word_frequency": 3479
+    },
+    {
+        "word": "laptop",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a portable computer",
+        "example_sentence_english": "I bought a new laptop for work.",
+        "pos": "noun",
+        "word_frequency": 3543
+    },
+    {
+        "word": "dish",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "plate; prepared food",
+        "example_sentence_english": "Please put the dirty dishes in the sink.",
+        "pos": "noun",
+        "word_frequency": 3655
+    },
+    {
+        "word": "duck",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "water bird",
+        "example_sentence_english": "A duck swam across the pond.",
+        "pos": "noun",
+        "word_frequency": 3658
+    },
+    {
+        "word": "forty",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the number equivalent to the product of four and ten; 40",
+        "example_sentence_english": "There are forty students in the class.",
+        "pos": "numeral",
+        "word_frequency": 3719
+    },
+    {
+        "word": "pie",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a baked dish",
+        "example_sentence_english": "My grandmother bakes the best apple pie.",
+        "pos": "noun",
+        "word_frequency": 3789
+    },
+    {
+        "word": "taxi",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a car for hire",
+        "example_sentence_english": "Let's take a taxi to the airport.",
+        "pos": "noun",
+        "word_frequency": 3807
+    },
+    {
+        "word": "soap",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a substance used for washing",
+        "example_sentence_english": "Please use soap to wash your hands.",
+        "pos": "noun",
+        "word_frequency": 3875
+    },
+    {
+        "word": "aunt",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the sister of one's father or mother or the wife of one's uncle",
+        "example_sentence_english": "My aunt lives in Canada.",
+        "pos": "noun",
+        "word_frequency": 3956
+    },
+    {
+        "word": "sunshine",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "direct sunlight",
+        "example_sentence_english": "We enjoyed the warm sunshine on the beach.",
+        "pos": "noun",
+        "word_frequency": 4008
+    },
+    {
+        "word": "classroom",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a room in a school or college where classes are taught",
+        "example_sentence_english": "The students gathered in the classroom for their lesson.",
+        "pos": "noun",
+        "word_frequency": 4023
+    },
+    {
+        "word": "salad",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a dish of mixed raw vegetables",
+        "example_sentence_english": "I had a fresh salad for lunch.",
+        "pos": "noun",
+        "word_frequency": 4050
+    },
+    {
+        "word": "soup",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "liquid food",
+        "example_sentence_english": "I like to eat hot soup on a cold day.",
+        "pos": "noun",
+        "word_frequency": 4052
+    },
+    {
+        "word": "vegetable",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a plant or part of a plant used as food",
+        "example_sentence_english": "Eating fresh vegetables is good for your health.",
+        "pos": "noun",
+        "word_frequency": 4062
+    },
+    {
+        "word": "bean",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an edible seed",
+        "example_sentence_english": "I like to add black beans to my chili.",
+        "pos": "noun",
+        "word_frequency": 4075
+    },
+    {
+        "word": "cow",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large farm animal",
+        "example_sentence_english": "The cow grazed peacefully in the field.",
+        "pos": "noun",
+        "word_frequency": 4081
+    },
+    {
+        "word": "fifteen",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the number 15",
+        "example_sentence_english": "There are fifteen students in the class.",
+        "pos": "numeral",
+        "word_frequency": 4088
+    },
+    {
+        "word": "grandmother",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the mother of one's father or mother",
+        "example_sentence_english": "My grandmother bakes delicious cookies.",
+        "pos": "noun",
+        "word_frequency": 4090
+    },
+    {
+        "word": "pig",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "pig",
+        "example_sentence_english": "The pig rolled in the mud.",
+        "pos": "noun",
+        "word_frequency": 4120
+    },
+    {
+        "word": "zoo",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "zoo",
+        "example_sentence_english": "We went to the zoo to see the animals.",
+        "pos": "noun",
+        "word_frequency": 4138
+    },
+    {
+        "word": "homework",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "homework",
+        "example_sentence_english": "I need to finish my homework before dinner.",
+        "pos": "noun",
+        "word_frequency": 4169
+    },
+    {
+        "word": "less",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "less",
+        "example_sentence_english": "I have less time today than yesterday.",
+        "pos": "adjective",
+        "word_frequency": 4175
+    },
+    {
+        "word": "sandwich",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "sandwich",
+        "example_sentence_english": "I'll have a ham sandwich for lunch.",
+        "pos": "noun",
+        "word_frequency": 4198
+    },
+    {
+        "word": "cookie",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a small sweet cake",
+        "example_sentence_english": "I baked some chocolate chip cookies.",
+        "pos": "noun",
+        "word_frequency": 4221
+    },
+    {
+        "word": "eleven",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the number 11",
+        "example_sentence_english": "There are eleven players on a soccer team.",
+        "pos": "numeral",
+        "word_frequency": 4230
+    },
+    {
+        "word": "grandma",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "grandmother",
+        "example_sentence_english": "My grandma bakes the best cookies.",
+        "pos": "noun",
+        "word_frequency": 4290
+    },
+    {
+        "word": "keyboard",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a set of keys on a piano or computer",
+        "example_sentence_english": "She typed the letter on her computer keyboard.",
+        "pos": "noun",
+        "word_frequency": 4298
+    },
+    {
+        "word": "noon",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "twelve o'clock in the daytime; midday",
+        "example_sentence_english": "Let's meet for lunch at noon.",
+        "pos": "noun",
+        "word_frequency": 4304
+    },
+    {
+        "word": "potato",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a starchy plant tuber eaten as a vegetable",
+        "example_sentence_english": "I like to eat baked potato with cheese.",
+        "pos": "noun",
+        "word_frequency": 4311
+    },
+    {
+        "word": "lemon",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a yellow, oval citrus fruit with thick skin and fragrant, acidic juice",
+        "example_sentence_english": "I like to add a slice of lemon to my tea.",
+        "pos": "noun",
+        "word_frequency": 4359
+    },
+    {
+        "word": "jeans",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "trousers made from denim",
+        "example_sentence_english": "I like to wear blue jeans.",
+        "pos": "noun",
+        "word_frequency": 4412
+    },
+    {
+        "word": "elephant",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "A very large plant-eating mammal with a trunk, tusks, and large ears.",
+        "example_sentence_english": "We saw an elephant at the zoo.",
+        "pos": "noun",
+        "word_frequency": 4470
+    },
+    {
+        "word": "basket",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a container made of woven material",
+        "example_sentence_english": "She put the apples in the basket.",
+        "pos": "noun",
+        "word_frequency": 4528
+    },
+    {
+        "word": "blanket",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large piece of woolen or similar material used as a covering",
+        "example_sentence_english": "I pulled the blanket over me to stay warm.",
+        "pos": "noun",
+        "word_frequency": 4531
+    },
+    {
+        "word": "burger",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a patty of ground meat, typically beef, served in a bun",
+        "example_sentence_english": "I ordered a cheeseburger and fries for lunch.",
+        "pos": "noun",
+        "word_frequency": 4533
+    },
+    {
+        "word": "ninth",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "ninth",
+        "example_sentence_english": "He finished in ninth place.",
+        "pos": "numeral",
+        "word_frequency": 4566
+    },
+    {
+        "word": "shorts",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "shorts",
+        "example_sentence_english": "It's hot, so I'm wearing shorts today.",
+        "pos": "noun",
+        "word_frequency": 4582
+    },
+    {
+        "word": "sunny",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "sunny",
+        "example_sentence_english": "It's a beautiful sunny day.",
+        "pos": "adjective",
+        "word_frequency": 4587
+    },
+    {
+        "word": "toe",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "toe",
+        "example_sentence_english": "I stubbed my toe on the table leg.",
+        "pos": "noun",
+        "word_frequency": 4590
+    },
+    {
+        "word": "doll",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a toy figure of a human",
+        "example_sentence_english": "The child played with her new doll.",
+        "pos": "noun",
+        "word_frequency": 4614
+    },
+    {
+        "word": "grocery",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "food and household supplies",
+        "example_sentence_english": "I need to go to the store to buy groceries.",
+        "pos": "noun",
+        "word_frequency": 4622
+    },
+    {
+        "word": "unhappy",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "not happy",
+        "example_sentence_english": "She was unhappy with the results.",
+        "pos": "adj",
+        "word_frequency": 4662
+    },
+    {
+        "word": "lamp",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a device for giving light",
+        "example_sentence_english": "She turned on the lamp to read her book.",
+        "pos": "n",
+        "word_frequency": 4696
+    },
+    {
+        "word": "rabbit",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a burrowing, gregarious, plant-eating mammal with long ears",
+        "example_sentence_english": "A rabbit hopped across the garden.",
+        "pos": "n",
+        "word_frequency": 4715
+    },
+    {
+        "word": "o'clock",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "used after a number from one to twelve to indicate the hour of the day",
+        "example_sentence_english": "The meeting starts at nine o'clock.",
+        "pos": "n",
+        "word_frequency": 4781
+    },
+    {
+        "word": "soda",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a carbonated soft drink",
+        "example_sentence_english": "Would you like a glass of soda with your meal?",
+        "pos": "n",
+        "word_frequency": 4796
+    },
+    {
+        "word": "fork",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an eating utensil with prongs",
+        "example_sentence_english": "Please pass me a fork for my salad.",
+        "pos": "n",
+        "word_frequency": 4826
+    },
+    {
+        "word": "sock",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "garment for the foot",
+        "example_sentence_english": "I can't find my other sock.",
+        "pos": "n",
+        "word_frequency": 4862
+    },
+    {
+        "word": "thumb",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the short, thick first digit of the human hand",
+        "example_sentence_english": "He gave me a thumbs up.",
+        "pos": "noun",
+        "word_frequency": 5013
+    },
+    {
+        "word": "wrist",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the joint connecting the hand with the forearm",
+        "example_sentence_english": "She wears a watch on her wrist.",
+        "pos": "noun",
+        "word_frequency": 5025
+    },
+    {
+        "word": "banana",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a long curved fruit which grows in clusters and has a soft pulpy flesh and yellow skin when ripe",
+        "example_sentence_english": "I like to eat a banana for breakfast.",
+        "pos": "noun",
+        "word_frequency": 5031
+    },
+    {
+        "word": "chin",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the part of the face below the mouth",
+        "example_sentence_english": "He rested his chin on his hand.",
+        "pos": "noun",
+        "word_frequency": 5041
+    },
+    {
+        "word": "puppy",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a young dog",
+        "example_sentence_english": "My new puppy loves to play in the garden.",
+        "pos": "noun",
+        "word_frequency": 5084
+    },
+    {
+        "word": "bicycle",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a vehicle with two wheels, propelled by pedals",
+        "example_sentence_english": "He rides his bicycle to work every day.",
+        "pos": "noun",
+        "word_frequency": 5177
+    },
+    {
+        "word": "toast",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "sliced bread browned by heat",
+        "example_sentence_english": "I had toast and coffee for breakfast.",
+        "pos": "noun",
+        "word_frequency": 5386
+    },
+    {
+        "word": "pencil",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a writing implement",
+        "example_sentence_english": "Can I borrow your pencil?",
+        "pos": "noun",
+        "word_frequency": 5453
+    },
+    {
+        "word": "sixteen",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the number 16",
+        "example_sentence_english": "There are sixteen students in the class.",
+        "pos": "numeral",
+        "word_frequency": 5471
+    },
+    {
+        "word": "towel",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a piece of absorbent fabric used for drying",
+        "example_sentence_english": "Please grab a clean towel from the cupboard.",
+        "pos": "noun",
+        "word_frequency": 5547
+    },
+    {
+        "word": "airplane",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a powered flying vehicle with fixed wings",
+        "example_sentence_english": "We traveled by airplane to our vacation destination.",
+        "pos": "noun",
+        "word_frequency": 5646
+    },
+    {
+        "word": "pasta",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "Italian food made from dough",
+        "example_sentence_english": "We had pasta for dinner last night.",
+        "pos": "noun",
+        "word_frequency": 5695
+    },
+    {
+        "word": "papa",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "father (informal)",
+        "example_sentence_english": "My papa always tells the best stories.",
+        "pos": "noun",
+        "word_frequency": 5777
+    },
+    {
+        "word": "balloon",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an inflatable bag",
+        "example_sentence_english": "The child held a red balloon.",
+        "pos": "noun",
+        "word_frequency": 5815
+    },
+    {
+        "word": "tomato",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a soft, red or yellow, pulpy fruit eaten as a vegetable",
+        "example_sentence_english": "I like to eat tomatoes in my salad.",
+        "pos": "noun",
+        "word_frequency": 5900
+    },
+    {
+        "word": "frog",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a small, tailless amphibian with a short squat body and long hind legs for leaping",
+        "example_sentence_english": "A frog jumped into the pond.",
+        "pos": "noun",
+        "word_frequency": 5936
+    },
+    {
+        "word": "mommy",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "mother (informal, used by children)",
+        "example_sentence_english": "The little girl ran to her mommy.",
+        "pos": "noun",
+        "word_frequency": 5959
+    },
+    {
+        "word": "onion",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "onion",
+        "example_sentence_english": "I chopped an onion for the soup.",
+        "pos": "noun",
+        "word_frequency": 5966
+    },
+    {
+        "word": "thirteen",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "thirteen",
+        "example_sentence_english": "There are thirteen students in the class.",
+        "pos": "numeral",
+        "word_frequency": 5979
+    },
+    {
+        "word": "fourteen",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the number 14",
+        "example_sentence_english": "There are fourteen students in the class.",
+        "pos": "numeral",
+        "word_frequency": 6012
+    },
+    {
+        "word": "grandparent",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a parent of one's parent",
+        "example_sentence_english": "My grandparents live in a different city.",
+        "pos": "noun",
+        "word_frequency": 6018
+    },
+    {
+        "word": "spoon",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an eating utensil",
+        "example_sentence_english": "Please pass me a spoon for my soup.",
+        "pos": "noun",
+        "word_frequency": 6060
+    },
+    {
+        "word": "neighbour",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a person living next door to or very near the speaker or person referred to",
+        "example_sentence_english": "Our neighbour helped us with our garden.",
+        "pos": "noun",
+        "word_frequency": 6118
+    },
+    {
+        "word": "reading",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the action or skill of reading",
+        "example_sentence_english": "Reading is a great way to learn new things.",
+        "pos": "noun",
+        "word_frequency": 6308
+    },
+    {
+        "word": "mat",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a piece of material for covering a floor or other surface",
+        "example_sentence_english": "Please wipe your feet on the mat.",
+        "pos": "noun",
+        "word_frequency": 6368
+    },
+    {
+        "word": "ruler",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a straight strip of material used for measuring",
+        "example_sentence_english": "Can I borrow your ruler to draw a straight line?",
+        "pos": "noun",
+        "word_frequency": 6383
+    },
+    {
+        "word": "pumpkin",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large round orange squash",
+        "example_sentence_english": "We carved a pumpkin for Halloween.",
+        "pos": "noun",
+        "word_frequency": 6472
+    },
+    {
+        "word": "eighteen",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the number 18",
+        "example_sentence_english": "She will be eighteen years old next month.",
+        "pos": "numeral",
+        "word_frequency": 6622
+    },
+    {
+        "word": "sofa",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a long upholstered seat with a back and arms",
+        "example_sentence_english": "I like to relax on the sofa after work.",
+        "pos": "noun",
+        "word_frequency": 6673
+    },
+    {
+        "word": "grandpa",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "grandfather",
+        "example_sentence_english": "My grandpa always tells the best stories.",
+        "pos": "noun",
+        "word_frequency": 6726
+    },
+    {
+        "word": "supermarket",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a large self-service shop selling food and household goods",
+        "example_sentence_english": "I need to go to the supermarket to buy groceries.",
+        "pos": "noun",
+        "word_frequency": 6969
+    },
+    {
+        "word": "sweater",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a warm piece of clothing, usually made of wool",
+        "example_sentence_english": "It's cold outside, so wear a warm sweater.",
+        "pos": "noun",
+        "word_frequency": 6970
+    },
+    {
+        "word": "café",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a small restaurant serving drinks and light meals",
+        "example_sentence_english": "Let's meet at the café for coffee.",
+        "pos": "noun",
+        "word_frequency": 7197
+    },
+    {
+        "word": "eighty",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the number 80",
+        "example_sentence_english": "She will be eighty next year.",
+        "pos": "numeral",
+        "word_frequency": 7206
+    },
+    {
+        "word": "cereal",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a grain used for food, such as wheat, oats, or corn; a breakfast food",
+        "example_sentence_english": "I usually eat cereal for breakfast.",
+        "pos": "noun",
+        "word_frequency": 7301
+    },
+    {
+        "word": "cola",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a sweet carbonated drink",
+        "example_sentence_english": "Would you like a glass of cola with your meal?",
+        "pos": "noun",
+        "word_frequency": 7304
+    },
+    {
+        "word": "drying",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the process of becoming dry",
+        "example_sentence_english": "The clothes are drying on the line.",
+        "pos": "verb",
+        "word_frequency": 7313
+    },
+    {
+        "word": "notebook",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a book of blank pages for writing notes",
+        "example_sentence_english": "Please write your answers in your notebook.",
+        "pos": "noun",
+        "word_frequency": 7353
+    },
+    {
+        "word": "policeman",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a male police officer",
+        "example_sentence_english": "The policeman directed traffic at the intersection.",
+        "pos": "noun",
+        "word_frequency": 7359
+    },
+    {
+        "word": "thirsty",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "feeling a need to drink",
+        "example_sentence_english": "I'm so thirsty, I need a glass of water.",
+        "pos": "adjective",
+        "word_frequency": 7385
+    },
+    {
+        "word": "grape",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "grape",
+        "example_sentence_english": "I like to eat green grapes.",
+        "pos": "noun",
+        "word_frequency": 7442
+    },
+    {
+        "word": "downstairs",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to or on a lower floor",
+        "example_sentence_english": "He went downstairs to get a drink.",
+        "pos": "adverb",
+        "word_frequency": 7537
+    },
+    {
+        "word": "strawberry",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "A sweet soft red fruit with a seed-studded surface.",
+        "example_sentence_english": "I love eating fresh strawberries with cream.",
+        "pos": "noun",
+        "word_frequency": 7593
+    },
+    {
+        "word": "ninety",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "90",
+        "example_sentence_english": "She will be ninety years old next month.",
+        "pos": "numeral",
+        "word_frequency": 7695
+    },
+    {
+        "word": "alphabet",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a set of letters or symbols in a fixed order",
+        "example_sentence_english": "The English alphabet has 26 letters.",
+        "pos": "noun",
+        "word_frequency": 7750
+    },
+    {
+        "word": "sleepy",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "needing sleep; tired",
+        "example_sentence_english": "The baby was very sleepy after a long day of playing.",
+        "pos": "adjective",
+        "word_frequency": 8054
+    },
+    {
+        "word": "bakery",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a place where bread and cakes are made or sold",
+        "example_sentence_english": "I bought fresh bread at the bakery.",
+        "pos": "noun",
+        "word_frequency": 8085
+    },
+    {
+        "word": "eng",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "English (abbreviation)",
+        "example_sentence_english": "My favorite subject is Eng.",
+        "pos": "noun",
+        "word_frequency": 8239
+    },
+    {
+        "word": "cellphone",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "A mobile phone.",
+        "example_sentence_english": "I left my cellphone on the table.",
+        "pos": "noun",
+        "word_frequency": 8332
+    },
+    {
+        "word": "pea",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a small spherical green seed",
+        "example_sentence_english": "She likes to eat green peas with her dinner.",
+        "pos": "noun",
+        "word_frequency": 8409
+    },
+    {
+        "word": "spaghetti",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a type of pasta in the form of long, thin strings",
+        "example_sentence_english": "I cooked spaghetti with tomato sauce.",
+        "pos": "noun",
+        "word_frequency": 8425
+    },
+    {
+        "word": "kitten",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a young cat",
+        "example_sentence_english": "The kitten played with a ball of yarn.",
+        "pos": "noun",
+        "word_frequency": 8499
+    },
+    {
+        "word": "carrot",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an orange root vegetable",
+        "example_sentence_english": "Rabbits love to eat carrots.",
+        "pos": "noun",
+        "word_frequency": 8578
+    },
+    {
+        "word": "yogurt",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a semi-solid food made from fermented milk",
+        "example_sentence_english": "I eat yogurt for breakfast every day.",
+        "pos": "noun",
+        "word_frequency": 8678
+    },
+    {
+        "word": "noun",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a word that refers to a person, place, thing, or idea",
+        "example_sentence_english": "A 'table' is an example of a noun.",
+        "pos": "noun",
+        "word_frequency": 8874
+    },
+    {
+        "word": "refrigerator",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an appliance for keeping food cold",
+        "example_sentence_english": "Please put the milk back in the refrigerator.",
+        "pos": "noun",
+        "word_frequency": 8896
+    },
+    {
+        "word": "waiter",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a person whose job is to serve customers at their tables in a restaurant",
+        "example_sentence_english": "The waiter brought us the menu.",
+        "pos": "noun",
+        "word_frequency": 8927
+    },
+    {
+        "word": "biscuit",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a small, flat, baked cake, typically crisp and sweet",
+        "example_sentence_english": "Would you like a biscuit with your tea?",
+        "pos": "noun",
+        "word_frequency": 8952
+    },
+    {
+        "word": "nineteen",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "The number 19.",
+        "example_sentence_english": "There are nineteen students in the class.",
+        "pos": "numeral",
+        "word_frequency": 9141
+    },
+    {
+        "word": "pancake",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "A flat cake, often thin and round, prepared from a batter.",
+        "example_sentence_english": "I had pancakes for breakfast.",
+        "pos": "noun",
+        "word_frequency": 9148
+    },
+    {
+        "word": "hen",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "female chicken",
+        "example_sentence_english": "The hen laid an egg this morning.",
+        "pos": "noun",
+        "word_frequency": 9481
+    },
+    {
+        "word": "mister",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a title used before a man's surname or full name",
+        "example_sentence_english": "Good morning, Mister Smith, how are you today?",
+        "pos": "noun",
+        "word_frequency": 9500
+    },
+    {
+        "word": "kite",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a toy consisting of a light frame covered with paper or cloth, flown in the wind at the end of a long string",
+        "example_sentence_english": "The child flew a colorful kite in the park.",
+        "pos": "noun",
+        "word_frequency": 9631
+    },
+    {
+        "word": "pear",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a sweet, juicy fruit, typically with a rounded base and tapering top",
+        "example_sentence_english": "I like to eat a fresh pear for a snack.",
+        "pos": "noun",
+        "word_frequency": 10823
+    },
+    {
+        "word": "ketchup",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a savory sauce made from tomatoes, vinegar, sugar, and spices",
+        "example_sentence_english": "Would you like some ketchup with your fries?",
+        "pos": "noun",
+        "word_frequency": 10933
+    },
+    {
+        "word": "donut",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a small fried cake of sweetened dough",
+        "example_sentence_english": "I bought a chocolate donut for breakfast.",
+        "pos": "noun",
+        "word_frequency": 11045
+    },
+    {
+        "word": "hamburger",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a patty of ground beef, usually served in a bun",
+        "example_sentence_english": "I ordered a hamburger with cheese and fries.",
+        "pos": "noun",
+        "word_frequency": 11066
+    },
+    {
+        "word": "men",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "adult human males (plural of man)",
+        "example_sentence_english": "Two men were waiting at the bus stop.",
+        "pos": "noun",
+        "word_frequency": 11095
+    },
+    {
+        "word": "cupboard",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a cabinet with shelves for storing things",
+        "example_sentence_english": "The plates are in the kitchen cupboard.",
+        "pos": "noun",
+        "word_frequency": 11176
+    },
+    {
+        "word": "lemonade",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a drink made from lemons, sugar, and water",
+        "example_sentence_english": "I'd like a glass of lemonade, please.",
+        "pos": "noun",
+        "word_frequency": 11219
+    },
+    {
+        "word": "zebra",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an African wild horse with black-and-white stripes",
+        "example_sentence_english": "Zebras are known for their distinctive stripes.",
+        "pos": "noun",
+        "word_frequency": 11908
+    },
+    {
+        "word": "toothbrush",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a brush for cleaning teeth",
+        "example_sentence_english": "I need a new toothbrush.",
+        "pos": "noun",
+        "word_frequency": 12204
+    },
+    {
+        "word": "lunchtime",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the time at which lunch is eaten",
+        "example_sentence_english": "I usually eat lunch at lunchtime, around 1 PM.",
+        "pos": "noun",
+        "word_frequency": 13038
+    },
+    {
+        "word": "toaster",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an electrical appliance for toasting bread",
+        "example_sentence_english": "I put two slices of bread in the toaster.",
+        "pos": "noun",
+        "word_frequency": 13102
+    },
+    {
+        "word": "mamma",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "mother (informal)",
+        "example_sentence_english": "The baby called out for his mamma.",
+        "pos": "noun",
+        "word_frequency": 13217
+    },
+    {
+        "word": "weekday",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "any day of the week except Sunday and Saturday",
+        "example_sentence_english": "I usually work during the weekday.",
+        "pos": "noun",
+        "word_frequency": 13470
+    },
+    {
+        "word": "moo",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the characteristic low sound made by a cow",
+        "example_sentence_english": "We heard the cow's loud moo from the field.",
+        "pos": "noun",
+        "word_frequency": 16544
+    },
+    {
+        "word": "cheeseburger",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a hamburger with cheese",
+        "example_sentence_english": "He ordered a cheeseburger and fries.",
+        "pos": "noun",
+        "word_frequency": 17081
+    },
+    {
+        "word": "rollin",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "to move by turning over and over",
+        "example_sentence_english": "The ball started to roll down the hill.",
+        "pos": "verb",
+        "word_frequency": 17420
+    },
+    {
+        "word": "grey",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "grey (color)",
+        "example_sentence_english": "The sky was a dull grey before the storm.",
+        "pos": "noun",
+        "word_frequency": 18321
+    },
+    {
+        "word": "zed",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "the letter Z",
+        "example_sentence_english": "In British English, the last letter of the alphabet is called zed.",
+        "pos": "noun",
+        "word_frequency": 19733
+    },
+    {
+        "word": "doggie",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a small dog",
+        "example_sentence_english": "Look at the cute little doggie!",
+        "pos": "noun",
+        "word_frequency": 20051
+    },
+    {
+        "word": "centimetre",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a unit of length, equal to one hundredth of a metre",
+        "example_sentence_english": "The ruler was 30 centimetres long.",
+        "pos": "noun",
+        "word_frequency": 20279
+    },
+    {
+        "word": "eraser",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a piece of rubber or plastic used to remove pencil marks",
+        "example_sentence_english": "Can I borrow your eraser?",
+        "pos": "noun",
+        "word_frequency": 21630
+    },
+    {
+        "word": "werent",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "were not",
+        "example_sentence_english": "They weren't at the party last night.",
+        "pos": "verb",
+        "word_frequency": 22414
+    },
+    {
+        "word": "fell",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "past tense of fall; to cut down (a tree)",
+        "example_sentence_english": "He fell off his bike and scraped his knee.",
+        "pos": "verb",
+        "word_frequency": 23979
+    },
+    {
+        "word": "more",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an additional amount or quantity",
+        "example_sentence_english": "Can I have some more?",
+        "pos": "noun",
+        "word_frequency": 25241
+    },
+    {
+        "word": "merci",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "thank you (French loanword)",
+        "example_sentence_english": "She said 'merci' after I helped her with her bags.",
+        "pos": "interjection",
+        "word_frequency": 26519
+    },
+    {
+        "word": "realy",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "in fact; actually",
+        "example_sentence_english": "I'm realy sorry for the mistake.",
+        "pos": "adverb",
+        "word_frequency": 27249
+    },
+    {
+        "word": "hallo",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "an exclamation used as a greeting or to attract attention",
+        "example_sentence_english": "Hallo, how are you today?",
+        "pos": "interjection",
+        "word_frequency": 27439
+    },
+    {
+        "word": "lyin",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "telling untruths; resting in a horizontal position",
+        "example_sentence_english": "He was caught lying about his age.",
+        "pos": "verb",
+        "word_frequency": 27489
+    },
+    {
+        "word": "got",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "received; obtained; became",
+        "example_sentence_english": "I got a new phone yesterday.",
+        "pos": "v",
+        "word_frequency": 28727
+    },
+    {
+        "word": "tshirt",
+        "useful_for_flashcard": true,
+        "cefr_level": "A1",
+        "english_translation": "a type of shirt",
+        "example_sentence_english": "He wore a plain white tshirt.",
+        "pos": "noun",
+        "word_frequency": 29267
+    }
+]

@@ -1,2 +1,7 @@
 elcards_backend/.env
 elcards_backend/.venv/
+elcards_backend/elcard.db
+elcards_backend/.agents/
+.claude/
+*.db
+__pycache__/

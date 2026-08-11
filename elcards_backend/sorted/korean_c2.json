@@ -1,0 +1,2989 @@
+[
+    {
+        "word": "고자",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "eunuch;impotent person",
+        "romanization": "goja",
+        "example_sentence_native": "",
+        "example_sentence_english": "",
+        "definitions": [
+            {
+                "gloss": "eunuch, impotent person",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 1205
+    },
+    {
+        "word": "씨발",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "fuck;shit (expletive)",
+        "romanization": "ssibal",
+        "example_sentence_native": "씨발, 이게 뭐야?",
+        "example_sentence_english": "Fuck, what is this?",
+        "definitions": [
+            {
+                "gloss": "(vulgar) fuck, shit",
+                "hanja": null
+            }
+        ],
+        "pos": "interjection",
+        "word_frequency": 2007
+    },
+    {
+        "word": "해리",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "dissociation;nautical mile",
+        "romanization": "haeri",
+        "example_sentence_native": "해리 현상은 심리학에서 중요한 개념입니다.",
+        "example_sentence_english": "Dissociation is an important concept in psychology.",
+        "definitions": [
+            {
+                "gloss": "dissociation",
+                "hanja": "解離"
+            },
+            {
+                "gloss": "nautical mile",
+                "hanja": "海里"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 2915
+    },
+    {
+        "word": "좆",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "penis (vulgar)",
+        "romanization": "jot",
+        "example_sentence_native": "그는 좆도 모른다.",
+        "example_sentence_english": "He knows absolutely nothing.",
+        "definitions": [
+            {
+                "gloss": "penis (vulgar)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 3151
+    },
+    {
+        "word": "폴리",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "poly (short for polymer;polyester;etc.)",
+        "romanization": "polli",
+        "example_sentence_native": "이 옷은 폴리 소재로 만들어졌다.",
+        "example_sentence_english": "This clothing is made of poly material.",
+        "definitions": [
+            {
+                "gloss": "poly (short for polymer, polyester)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 3821
+    },
+    {
+        "word": "련",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "(military) company;string;chain (archaic;specialized)",
+        "romanization": "ryeon",
+        "example_sentence_native": "한 련의 병사들이 행진했다.",
+        "example_sentence_english": "A company of soldiers marched.",
+        "definitions": [
+            {
+                "gloss": "(military) company",
+                "hanja": "連"
+            },
+            {
+                "gloss": "string, chain (archaic/specialized)",
+                "hanja": "連"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 4698
+    },
+    {
+        "word": "비아",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "non-self;other",
+        "romanization": "bia",
+        "example_sentence_native": "불교에서는 자아와 비아의 구분을 중요하게 생각한다.",
+        "example_sentence_english": "In Buddhism, the distinction between self and non-self is considered important.",
+        "definitions": [
+            {
+                "gloss": "non-self; other",
+                "hanja": "非我"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 5150
+    },
+    {
+        "word": "썅",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "damn;shit (expletive)",
+        "romanization": "ssang",
+        "example_sentence_native": "썅, 늦었어!",
+        "example_sentence_english": "Damn, I'm late!",
+        "definitions": [
+            {
+                "gloss": "damn, shit (expletive)",
+                "hanja": null
+            }
+        ],
+        "pos": "interjection",
+        "word_frequency": 6015
+    },
+    {
+        "word": "낭",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "bag;sack",
+        "romanization": "nang",
+        "example_sentence_native": "그는 낭에 책을 넣었다.",
+        "example_sentence_english": "He put books in the bag.",
+        "definitions": [
+            {
+                "gloss": "bag, sack",
+                "hanja": "囊"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 7378
+    },
+    {
+        "word": "라가",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "raga",
+        "romanization": "raga",
+        "example_sentence_native": "인도의 전통 음악인 라가는 복잡한 선율 구조를 가지고 있다.",
+        "example_sentence_english": "Raga, a traditional Indian music, has a complex melodic structure.",
+        "definitions": [
+            {
+                "gloss": "raga (Indian classical music term)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 7387
+    },
+    {
+        "word": "우시",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "cattle market",
+        "romanization": "usi",
+        "example_sentence_native": "옛날에는 우시에서 소를 사고팔았습니다.",
+        "example_sentence_english": "In the past, cattle were bought and sold at the cattle market.",
+        "definitions": [
+            {
+                "gloss": "cattle market",
+                "hanja": "牛市"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 7785
+    },
+    {
+        "word": "륜",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "wheel;ring",
+        "romanization": "ryun",
+        "example_sentence_native": "수레의 륜이 낡았다.",
+        "example_sentence_english": "The wheel of the cart is old.",
+        "definitions": [
+            {
+                "gloss": "wheel",
+                "hanja": "輪"
+            },
+            {
+                "gloss": "ring",
+                "hanja": "輪"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 8228
+    },
+    {
+        "word": "깁",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "a type of traditional Korean fabric",
+        "romanization": "gip",
+        "example_sentence_native": "이불은 깁으로 만들어졌다.",
+        "example_sentence_english": "The blanket was made of gib fabric.",
+        "definitions": [
+            {
+                "gloss": "a type of traditional Korean fabric",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 8445
+    },
+    {
+        "word": "자분",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "self-exertion;self-encouragement",
+        "romanization": "jabun",
+        "example_sentence_native": "그는 자분하여 학업에 매진했다.",
+        "example_sentence_english": "He exerted himself and devoted himself to his studies.",
+        "definitions": [
+            {
+                "gloss": "self-exertion, self-encouragement",
+                "hanja": "自奮"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 8653
+    },
+    {
+        "word": "삭",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "new moon;first day of the lunar month",
+        "romanization": "sak",
+        "example_sentence_native": "삭은 음력 초하루를 의미한다.",
+        "example_sentence_english": "Sak means the first day of the lunar month.",
+        "definitions": [
+            {
+                "gloss": "new moon",
+                "hanja": "朔"
+            },
+            {
+                "gloss": "first day of the lunar month",
+                "hanja": "朔"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 9014
+    },
+    {
+        "word": "제치",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "removal;setting aside",
+        "romanization": "jechi",
+        "example_sentence_native": "그 안건은 제치 대상이 되었다.",
+        "example_sentence_english": "That agenda item became a subject for removal.",
+        "definitions": [
+            {
+                "gloss": "removal; setting aside",
+                "hanja": "除置"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 9171
+    },
+    {
+        "word": "선거관리위원회",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "National Election Commission",
+        "romanization": "seongeogwanwiwonhoe",
+        "example_sentence_native": "선거관리위원회는 선거의 공정성을 감독합니다.",
+        "example_sentence_english": "The National Election Commission oversees the fairness of elections.",
+        "definitions": [
+            {
+                "gloss": "National Election Commission",
+                "hanja": "選擧管理委員會"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 9408
+    },
+    {
+        "word": "노바",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "Nova",
+        "romanization": "Noba",
+        "example_sentence_native": "초신성 노바는 밤하늘에서 갑자기 밝아지는 별입니다.",
+        "example_sentence_english": "A supernova nova is a star that suddenly brightens in the night sky.",
+        "definitions": [
+            {
+                "gloss": "Nova (astronomical phenomenon)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 9500
+    },
+    {
+        "word": "미친년",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "crazy bitch (derogatory)",
+        "romanization": "michinnyeon",
+        "example_sentence_native": "",
+        "example_sentence_english": "",
+        "definitions": [
+            {
+                "gloss": "crazy bitch (derogatory term for a crazy woman)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 9537
+    },
+    {
+        "word": "시공간",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "spacetime",
+        "romanization": "sigonggan",
+        "example_sentence_native": "아인슈타인의 상대성 이론은 시공간의 개념을 바꾸었다.",
+        "example_sentence_english": "Einstein's theory of relativity changed the concept of spacetime.",
+        "definitions": [
+            {
+                "gloss": "spacetime",
+                "hanja": "時空間"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 9562
+    },
+    {
+        "word": "좆같다",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "shitty;fucked up (vulgar)",
+        "romanization": "jotgatda",
+        "example_sentence_native": "이 상황은 정말 좆같다.",
+        "example_sentence_english": "This situation is really fucked up.",
+        "definitions": [
+            {
+                "gloss": "shitty, fucked up (vulgar, offensive)",
+                "hanja": null
+            }
+        ],
+        "pos": "adjective",
+        "word_frequency": 9723
+    },
+    {
+        "word": "모라",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "mora (linguistics)",
+        "romanization": "mora",
+        "example_sentence_native": "한국어는 음절 박자 언어이지만, 모라의 개념도 중요합니다.",
+        "example_sentence_english": "Korean is a syllable-timed language, but the concept of mora is also important.",
+        "definitions": [
+            {
+                "gloss": "mora (linguistics)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 9802
+    },
+    {
+        "word": "과하",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "(archaic) passing the summer",
+        "romanization": "gwaha",
+        "example_sentence_native": "과하주는 여름에 마시기 좋은 술이다.",
+        "example_sentence_english": "Gwaha-ju is a good liquor to drink in summer.",
+        "definitions": [
+            {
+                "gloss": "passing the summer",
+                "hanja": "過夏"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 10243
+    },
+    {
+        "word": "긋",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "a line;a stroke (of a character)",
+        "romanization": "geut",
+        "example_sentence_native": "한 긋도 틀리지 않고 그렸다.",
+        "example_sentence_english": "I drew it without a single mistake.",
+        "definitions": [
+            {
+                "gloss": "a line",
+                "hanja": null
+            },
+            {
+                "gloss": "a stroke (of a character)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 10409
+    },
+    {
+        "word": "가람",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "river (archaic;literary)",
+        "romanization": "garam",
+        "example_sentence_native": "옛 시에서는 가람이라는 표현을 자주 썼다.",
+        "example_sentence_english": "In old poems, the expression 'garam' was often used.",
+        "definitions": [
+            {
+                "gloss": "river (archaic/literary)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 10537
+    },
+    {
+        "word": "기무사",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "Defense Security Command (former)",
+        "romanization": "gimusa",
+        "example_sentence_native": "기무사는 2018년에 해체되었다.",
+        "example_sentence_english": "The Defense Security Command was disbanded in 2018.",
+        "definitions": [
+            {
+                "gloss": "Defense Security Command (former)",
+                "hanja": "機務司"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 10881
+    },
+    {
+        "word": "개년",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "(derogatory) bitch;individual year",
+        "romanization": "gaenyeon",
+        "example_sentence_native": "이 통계는 개년별로 분석되었다.",
+        "example_sentence_english": "This statistic was analyzed by individual year.",
+        "definitions": [
+            {
+                "gloss": "individual year (technical, formal)",
+                "hanja": "個年"
+            },
+            {
+                "gloss": "(derogatory) bitch, slut",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 11038
+    },
+    {
+        "word": "전능",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "omnipotence;all-powerfulness",
+        "romanization": "jeonneung",
+        "example_sentence_native": "신의 전능함을 믿는다.",
+        "example_sentence_english": "I believe in God's omnipotence.",
+        "definitions": [
+            {
+                "gloss": "omnipotence; all-powerfulness",
+                "hanja": "全能"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 11184
+    },
+    {
+        "word": "집행유예",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "suspended sentence;probation",
+        "romanization": "jippaengyuye",
+        "example_sentence_native": "그는 징역 2년에 집행유예 3년을 선고받았다.",
+        "example_sentence_english": "He was sentenced to two years in prison with three years of suspended sentence.",
+        "definitions": [
+            {
+                "gloss": "suspended sentence, probation",
+                "hanja": "執行猶豫"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 11347
+    },
+    {
+        "word": "시여",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "a type of classical Chinese poetry",
+        "romanization": "siyeo",
+        "example_sentence_native": "그는 시여를 연구하는 학자이다.",
+        "example_sentence_english": "He is a scholar who studies classical Chinese poetry (siyŏ).",
+        "definitions": [
+            {
+                "gloss": "a type of classical Chinese poetry",
+                "hanja": "詩餘"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 11802
+    },
+    {
+        "word": "중생",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "living things;sentient beings (Buddhism)",
+        "romanization": "jungsaeng",
+        "example_sentence_native": "불교에서는 모든 중생이 평등하다고 가르친다.",
+        "example_sentence_english": "In Buddhism, it is taught that all sentient beings are equal.",
+        "definitions": [
+            {
+                "gloss": "living things; sentient beings",
+                "hanja": "衆生"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 11835
+    },
+    {
+        "word": "클리",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "clitoris",
+        "romanization": "keulli",
+        "example_sentence_native": "클리는 여성의 성감대 중 하나입니다.",
+        "example_sentence_english": "The clitoris is one of the erogenous zones of women.",
+        "definitions": [
+            {
+                "gloss": "clitoris",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 12021
+    },
+    {
+        "word": "국판",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "crown octavo (paper size)",
+        "romanization": "gukpan",
+        "example_sentence_native": "이 책은 국판 사이즈로 인쇄되었다.",
+        "example_sentence_english": "This book was printed in crown octavo size.",
+        "definitions": [
+            {
+                "gloss": "crown octavo (a specific paper size, approx. 152x227mm)",
+                "hanja": "菊版"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 12066
+    },
+    {
+        "word": "음경",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "penis",
+        "romanization": "eumgyeong",
+        "example_sentence_native": "음경은 남성 생식기의 일부입니다.",
+        "example_sentence_english": "The penis is part of the male reproductive system.",
+        "definitions": [
+            {
+                "gloss": "penis",
+                "hanja": "陰莖"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 12160
+    },
+    {
+        "word": "남조선",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "South Korea (North Korean term)",
+        "romanization": "Namjoseon",
+        "example_sentence_native": "북한에서는 대한민국을 남조선이라고 부른다.",
+        "example_sentence_english": "In North Korea, they call the Republic of Korea Namjoseon.",
+        "definitions": [
+            {
+                "gloss": "South Korea (term used by North Korea)",
+                "hanja": "南朝鮮"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 12250
+    },
+    {
+        "word": "인회",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "gathering of people;meeting",
+        "romanization": "inhoe",
+        "example_sentence_native": "그들은 인회를 통해 의견을 교환했다.",
+        "example_sentence_english": "They exchanged opinions through the gathering.",
+        "definitions": [
+            {
+                "gloss": "gathering of people; meeting",
+                "hanja": "人會"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 12539
+    },
+    {
+        "word": "지양",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "sublation (Hegelian);transcendence;overcoming",
+        "romanization": "jiyang",
+        "example_sentence_native": "우리는 과거의 오류를 지양하고 새로운 미래를 향해 나아가야 한다.",
+        "example_sentence_english": "We must sublimate past errors and move towards a new future.",
+        "definitions": [
+            {
+                "gloss": "sublation (Hegelian concept)",
+                "hanja": "止揚"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 12733
+    },
+    {
+        "word": "멤",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "(informal) member;(informal) memory",
+        "romanization": "mem",
+        "example_sentence_native": "우리 멤 다 모였어?",
+        "example_sentence_english": "Are all our members here?",
+        "definitions": [
+            {
+                "gloss": "(informal) member",
+                "hanja": null
+            },
+            {
+                "gloss": "(informal) memory",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 12822
+    },
+    {
+        "word": "선미",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "stern (of a ship)",
+        "romanization": "seonmi",
+        "example_sentence_native": "배의 선미에는 깃발이 펄럭이고 있었다.",
+        "example_sentence_english": "A flag was fluttering at the stern of the ship.",
+        "definitions": [
+            {
+                "gloss": "the rear part of a ship or boat",
+                "hanja": "船尾"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 12865
+    },
+    {
+        "word": "연호",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "era name;regnal year",
+        "romanization": "yeonho",
+        "example_sentence_native": "일본은 지금 레이와 연호를 사용하고 있다.",
+        "example_sentence_english": "Japan is currently using the Reiwa era name.",
+        "definitions": [
+            {
+                "gloss": "era name",
+                "hanja": "年號"
+            },
+            {
+                "gloss": "regnal year",
+                "hanja": "年號"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 12894
+    },
+    {
+        "word": "유전체",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "genome",
+        "romanization": "yujeonche",
+        "example_sentence_native": "인간 유전체 프로젝트는 생명 과학에 큰 발전을 가져왔습니다.",
+        "example_sentence_english": "The Human Genome Project brought great advancements to life sciences.",
+        "definitions": [
+            {
+                "gloss": "genome",
+                "hanja": "遺傳體"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 13094
+    },
+    {
+        "word": "응력",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "stress (in physics;engineering)",
+        "romanization": "eungnyeok",
+        "example_sentence_native": "재료의 응력은 파괴 강도를 결정하는 중요한 요소입니다.",
+        "example_sentence_english": "The stress of a material is an important factor in determining its fracture strength.",
+        "definitions": [
+            {
+                "gloss": "stress (in physics/engineering)",
+                "hanja": "應力"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 13099
+    },
+    {
+        "word": "기라",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "glitter;sparkle (often used in '기라성' meaning 'galaxy of stars' or 'brilliant figures')",
+        "romanization": "gira",
+        "example_sentence_native": "그 시상식에는 영화계의 기라성 같은 배우들이 총출동했다.",
+        "example_sentence_english": "Brilliant actors from the film industry gathered at the awards ceremony.",
+        "definitions": [
+            {
+                "gloss": "glitter; sparkle (often used in '기라성' meaning 'galaxy of stars' or 'brilliant figures')",
+                "hanja": "綺羅"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 13379
+    },
+    {
+        "word": "상국",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "prime minister (historical);chancellor",
+        "romanization": "sangguk",
+        "example_sentence_native": "고려 시대에는 상국이 중요한 역할을 했습니다.",
+        "example_sentence_english": "In the Goryeo Dynasty, the prime minister played an important role.",
+        "definitions": [
+            {
+                "gloss": "prime minister (historical)",
+                "hanja": "相國"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 13441
+    },
+    {
+        "word": "서경",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "Seogyeong (Western Capital;historical name for Pyongyang)",
+        "romanization": "seogyeong",
+        "example_sentence_native": "고려 시대에는 개경과 서경이 중요한 도시였습니다.",
+        "example_sentence_english": "During the Goryeo Dynasty, Gaegyeong and Seogyeong were important cities.",
+        "definitions": [
+            {
+                "gloss": "Seogyeong (Western Capital, historical name for Pyongyang)",
+                "hanja": "西京"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 13443
+    },
+    {
+        "word": "가타",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "others;other things (often in the phrase '가타부타')",
+        "romanization": "gata",
+        "example_sentence_native": "그는 가타부타 말이 없었다.",
+        "example_sentence_english": "He said nothing either way.",
+        "definitions": [
+            {
+                "gloss": "others, other things (often used in the phrase '가타부타')",
+                "hanja": "加他"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 13551
+    },
+    {
+        "word": "어주",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "royal wine;wine for the king",
+        "romanization": "eoju",
+        "example_sentence_native": "왕은 어주를 마셨다.",
+        "example_sentence_english": "The king drank royal wine.",
+        "definitions": [
+            {
+                "gloss": "royal wine; wine for the king",
+                "hanja": "御酒"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 13665
+    },
+    {
+        "word": "와카",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "waka (Japanese poetry)",
+        "romanization": "waka",
+        "example_sentence_native": "와카는 일본의 전통 시가 형식입니다.",
+        "example_sentence_english": "Waka is a traditional Japanese poetic form.",
+        "definitions": [
+            {
+                "gloss": "waka (Japanese poetry)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 14102
+    },
+    {
+        "word": "자이",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "masturbation",
+        "romanization": "jai",
+        "example_sentence_native": "자이는 성적 만족을 위한 자연스러운 행위입니다.",
+        "example_sentence_english": "Masturbation is a natural act for sexual satisfaction.",
+        "definitions": [
+            {
+                "gloss": "masturbation",
+                "hanja": "自慰"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 14118
+    },
+    {
+        "word": "주공",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "lord;master (historical)",
+        "romanization": "jugong",
+        "example_sentence_native": "신하들은 주공의 명령에 따랐다.",
+        "example_sentence_english": "The vassals obeyed the lord's command.",
+        "definitions": [
+            {
+                "gloss": "lord, master",
+                "hanja": "主公"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 14131
+    },
+    {
+        "word": "진아",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "true self;true ego",
+        "romanization": "jina",
+        "example_sentence_native": "명상을 통해 진아를 찾아가는 과정을 겪었다.",
+        "example_sentence_english": "Through meditation, I went through the process of finding my true self.",
+        "definitions": [
+            {
+                "gloss": "true self, true ego",
+                "hanja": "眞我"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 14134
+    },
+    {
+        "word": "표상",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "representation;symbol",
+        "romanization": "pyosang",
+        "example_sentence_native": "그 그림은 자유의 표상으로 여겨집니다.",
+        "example_sentence_english": "That painting is considered a symbol of freedom.",
+        "definitions": [
+            {
+                "gloss": "representation, symbol",
+                "hanja": "表象"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 14168
+    },
+    {
+        "word": "고환",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "testicle",
+        "romanization": "gohwan",
+        "example_sentence_native": "고환은 남성 생식 기관의 일부이다.",
+        "example_sentence_english": "The testicle is part of the male reproductive system.",
+        "definitions": [
+            {
+                "gloss": "testicle",
+                "hanja": "睾丸"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 14194
+    },
+    {
+        "word": "마로",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "forehead (archaic)",
+        "romanization": "maro",
+        "example_sentence_native": "그녀의 마로에는 땀방울이 맺혔다.",
+        "example_sentence_english": "Sweat drops formed on her forehead.",
+        "definitions": [
+            {
+                "gloss": "forehead",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 14241
+    },
+    {
+        "word": "석학",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "eminent scholar;great scholar",
+        "romanization": "seokhak",
+        "example_sentence_native": "그는 그 분야의 석학으로 존경받고 있다.",
+        "example_sentence_english": "He is respected as an eminent scholar in that field.",
+        "definitions": [
+            {
+                "gloss": "eminent scholar, great scholar",
+                "hanja": "碩學"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 14668
+    },
+    {
+        "word": "쇼타",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "shota (young boy;often in specific contexts)",
+        "romanization": "syota",
+        "example_sentence_native": "그 만화에는 쇼타 캐릭터가 많이 등장한다.",
+        "example_sentence_english": "Many shota characters appear in that comic.",
+        "definitions": [
+            {
+                "gloss": "young boy (often in anime/manga context)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 14680
+    },
+    {
+        "word": "스탄",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "-stan (suffix for country names)",
+        "romanization": "seutan",
+        "example_sentence_native": "중앙아시아 국가들은 대부분 이름에 '스탄'이 들어간다.",
+        "example_sentence_english": "Most Central Asian countries have '-stan' in their names.",
+        "definitions": [
+            {
+                "gloss": "-stan (suffix for country names, e.g., Kazakhstan)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 14688
+    },
+    {
+        "word": "티티",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "titi (monkey)",
+        "romanization": "titi",
+        "example_sentence_native": "티티원숭이는 남아메리카에 서식하는 작은 원숭이입니다.",
+        "example_sentence_english": "The titi monkey is a small monkey that lives in South America.",
+        "definitions": [
+            {
+                "gloss": "titi (monkey)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 14978
+    },
+    {
+        "word": "뇌출혈",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "cerebral hemorrhage",
+        "romanization": "noe chulhyeol",
+        "example_sentence_native": "그는 뇌출혈로 쓰러졌다.",
+        "example_sentence_english": "He collapsed due to a cerebral hemorrhage.",
+        "definitions": [
+            {
+                "gloss": "cerebral hemorrhage, brain hemorrhage",
+                "hanja": "腦出血"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 15035
+    },
+    {
+        "word": "바루",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "(monk's) bowl",
+        "romanization": "baru",
+        "example_sentence_native": "스님은 바루에 밥을 담았다.",
+        "example_sentence_english": "The monk put rice in his bowl.",
+        "definitions": [
+            {
+                "gloss": "(monk's) bowl",
+                "hanja": "鉢盂"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 15073
+    },
+    {
+        "word": "적과",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "fruit thinning",
+        "romanization": "jeokgwa",
+        "example_sentence_native": "사과나무의 적과 작업이 필요하다.",
+        "example_sentence_english": "Fruit thinning is necessary for apple trees.",
+        "definitions": [
+            {
+                "gloss": "fruit thinning",
+                "hanja": "摘果"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 15168
+    },
+    {
+        "word": "구균",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "coccus (bacterium)",
+        "romanization": "gugyun",
+        "example_sentence_native": "포도상 구균은 식중독을 일으킬 수 있는 박테리아이다.",
+        "example_sentence_english": "Staphylococcus coccus is a bacterium that can cause food poisoning.",
+        "definitions": [
+            {
+                "gloss": "coccus (a spherical bacterium)",
+                "hanja": "球菌"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 15235
+    },
+    {
+        "word": "다뇨",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "polyuria;frequent urination",
+        "romanization": "danyo",
+        "example_sentence_native": "당뇨병의 주요 증상 중 하나는 다뇨이다.",
+        "example_sentence_english": "One of the main symptoms of diabetes is polyuria.",
+        "definitions": [
+            {
+                "gloss": "polyuria; frequent urination",
+                "hanja": "多尿"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 15253
+    },
+    {
+        "word": "권능",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "power;authority;divine power",
+        "romanization": "gwonneung",
+        "example_sentence_native": "신의 권능은 무한합니다.",
+        "example_sentence_english": "God's power is infinite.",
+        "definitions": [
+            {
+                "gloss": "power; authority; divine power",
+                "hanja": "權能"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 15456
+    },
+    {
+        "word": "번뇌",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "agony;anguish;worldly desires (Buddhism)",
+        "romanization": "beonnoe",
+        "example_sentence_native": "그는 삶의 번뇌에서 벗어나고 싶어 했다.",
+        "example_sentence_english": "He wanted to escape from the agony of life.",
+        "definitions": [
+            {
+                "gloss": "agony; anguish; worldly desires (Buddhism)",
+                "hanja": "煩惱"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 15516
+    },
+    {
+        "word": "영회",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "eternal remembrance;cherished memory",
+        "romanization": "yeonghoe",
+        "example_sentence_native": "그의 영회는 우리 마음속에 영원히 살아있을 것입니다.",
+        "example_sentence_english": "His eternal remembrance will live forever in our hearts.",
+        "definitions": [
+            {
+                "gloss": "eternal remembrance",
+                "hanja": "永懷"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 15580
+    },
+    {
+        "word": "초토",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "scorched earth;devastated land",
+        "romanization": "choto",
+        "example_sentence_native": "전쟁으로 인해 도시는 초토가 되었다.",
+        "example_sentence_english": "The city became scorched earth due to the war.",
+        "definitions": [
+            {
+                "gloss": "scorched earth, devastated land",
+                "hanja": "焦土"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 15615
+    },
+    {
+        "word": "통사",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "syntax",
+        "romanization": "tongsa",
+        "example_sentence_native": "이 책은 한국어 통사에 대해 자세히 설명하고 있습니다.",
+        "example_sentence_english": "This book explains Korean syntax in detail.",
+        "definitions": [
+            {
+                "gloss": "the arrangement of words and phrases to create well-formed sentences in a language",
+                "hanja": "統辭"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 15856
+    },
+    {
+        "word": "니미",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "damn it;hell (vulgar)",
+        "romanization": "nimi",
+        "example_sentence_native": "니미, 이게 뭐야!",
+        "example_sentence_english": "Damn it, what is this!",
+        "definitions": [
+            {
+                "gloss": "damn it (vulgar expletive)",
+                "hanja": null
+            }
+        ],
+        "pos": "interjection",
+        "word_frequency": 16144
+    },
+    {
+        "word": "병단",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "military unit;corps (historical)",
+        "romanization": "byeongdan",
+        "example_sentence_native": "그 병단은 전투에서 큰 공을 세웠다.",
+        "example_sentence_english": "That military unit achieved great merit in battle.",
+        "definitions": [
+            {
+                "gloss": "military unit, corps (historical)",
+                "hanja": "兵團"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 16182
+    },
+    {
+        "word": "지그",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "jig (tool)",
+        "romanization": "jigeu",
+        "example_sentence_native": "기계 부품을 고정하기 위해 지그를 사용했다.",
+        "example_sentence_english": "They used a jig to fix the machine parts.",
+        "definitions": [
+            {
+                "gloss": "jig (tool)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 16246
+    },
+    {
+        "word": "늄",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "niobium (Nb)",
+        "romanization": "nyum",
+        "example_sentence_native": "늄은 희귀 금속 중 하나이다.",
+        "example_sentence_english": "Niobium is one of the rare metals.",
+        "definitions": [
+            {
+                "gloss": "niobium (Nb)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 16332
+    },
+    {
+        "word": "다이오드",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "diode",
+        "romanization": "daiodeu",
+        "example_sentence_native": "이 회로는 다이오드를 사용합니다.",
+        "example_sentence_english": "This circuit uses a diode.",
+        "definitions": [
+            {
+                "gloss": "an electronic component that conducts current primarily in one direction",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 16553
+    },
+    {
+        "word": "온지",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "warm place;warm ground",
+        "romanization": "onji",
+        "example_sentence_native": "겨울에는 온지를 찾아 이동하는 동물들이 많다.",
+        "example_sentence_english": "In winter, many animals migrate to warm places.",
+        "definitions": [
+            {
+                "gloss": "warm place; warm ground",
+                "hanja": "溫地"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 16669
+    },
+    {
+        "word": "원부",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "original register;ledger;original document",
+        "romanization": "wonbu",
+        "example_sentence_native": "그 서류는 원부에 기록되어 있다.",
+        "example_sentence_english": "The document is recorded in the original register.",
+        "definitions": [
+            {
+                "gloss": "original register; original ledger; original document",
+                "hanja": "原簿"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 16677
+    },
+    {
+        "word": "배임",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "breach of trust",
+        "romanization": "baeim",
+        "example_sentence_native": "그는 회사 자금을 횡령하여 배임 혐의로 기소되었다.",
+        "example_sentence_english": "He was indicted on charges of breach of trust for embezzling company funds.",
+        "definitions": [
+            {
+                "gloss": "breach of trust",
+                "hanja": "背任"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 16827
+    },
+    {
+        "word": "모에",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "moe (Japanese term)",
+        "romanization": "moe",
+        "example_sentence_native": "그 캐릭터는 많은 팬들에게 모에 요소로 인기를 얻었다.",
+        "example_sentence_english": "That character gained popularity among many fans for its moe elements.",
+        "definitions": [
+            {
+                "gloss": "moe (a Japanese term referring to a strong feeling of affection or attraction towards characters in anime, manga, or video games)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17039
+    },
+    {
+        "word": "선영",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "ancestral grave;(common female name) Seonyeong",
+        "romanization": "seonyeong",
+        "example_sentence_native": "우리는 설날에 선영을 찾아 성묘를 했다.",
+        "example_sentence_english": "We visited our ancestral graves on Lunar New Year's Day to pay respects.",
+        "definitions": [
+            {
+                "gloss": "ancestral grave",
+                "hanja": "先塋"
+            },
+            {
+                "gloss": "(common female name) Seonyeong",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17068
+    },
+    {
+        "word": "기시",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "flag signal",
+        "romanization": "gisi",
+        "example_sentence_native": "선박은 기시로 다른 배에 메시지를 보냈다.",
+        "example_sentence_english": "The ship sent a message to another ship by flag signal.",
+        "definitions": [
+            {
+                "gloss": "flag signal",
+                "hanja": "旗示"
+            },
+            {
+                "gloss": "futures market",
+                "hanja": "期市"
+            },
+            {
+                "gloss": "(as in 기시감) already seen",
+                "hanja": "旣視"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17225
+    },
+    {
+        "word": "도야",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "self-cultivation;forging (of character)",
+        "romanization": "doya",
+        "example_sentence_native": "그는 끊임없는 도야를 통해 인격을 완성했다.",
+        "example_sentence_english": "He perfected his character through continuous self-cultivation.",
+        "definitions": [
+            {
+                "gloss": "self-cultivation",
+                "hanja": "陶冶"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17243
+    },
+    {
+        "word": "봉하",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "respectful congratulations (archaic)",
+        "romanization": "bongha",
+        "example_sentence_native": "그는 스승의 생신에 봉하의 뜻을 전했다.",
+        "example_sentence_english": "He conveyed his respectful congratulations on his teacher's birthday.",
+        "definitions": [
+            {
+                "gloss": "respectful congratulations",
+                "hanja": "奉賀"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17275
+    },
+    {
+        "word": "칸트",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "Kant (Immanuel Kant)",
+        "romanization": "Kanteu",
+        "example_sentence_native": "칸트는 독일의 유명한 철학자였다.",
+        "example_sentence_english": "Kant was a famous German philosopher.",
+        "definitions": [
+            {
+                "gloss": "Kant (Immanuel Kant)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17359
+    },
+    {
+        "word": "판시",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "ruling;judgment (by a court)",
+        "romanization": "pansi",
+        "example_sentence_native": "법원은 그 사건에 대해 판시를 내렸다.",
+        "example_sentence_english": "The court made a ruling on the case.",
+        "definitions": [
+            {
+                "gloss": "ruling; judgment (by a court)",
+                "hanja": "判示"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17373
+    },
+    {
+        "word": "괴사",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "necrosis",
+        "romanization": "goesa",
+        "example_sentence_native": "당뇨병은 발가락 괴사를 유발할 수 있다.",
+        "example_sentence_english": "Diabetes can cause toe necrosis.",
+        "definitions": [
+            {
+                "gloss": "necrosis",
+                "hanja": "壞死"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17416
+    },
+    {
+        "word": "문지",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "family background;social standing",
+        "romanization": "munji",
+        "example_sentence_native": "그는 좋은 문지에서 태어났다.",
+        "example_sentence_english": "He was born into a good family background.",
+        "definitions": [
+            {
+                "gloss": "family background; social standing",
+                "hanja": "門地"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17468
+    },
+    {
+        "word": "아데노신",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "adenosine",
+        "romanization": "adenosin",
+        "example_sentence_native": "아데노신은 세포 에너지 대사에 중요한 역할을 한다.",
+        "example_sentence_english": "Adenosine plays an important role in cellular energy metabolism.",
+        "definitions": [
+            {
+                "gloss": "adenosine (a nucleoside)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17527
+    },
+    {
+        "word": "연준",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Federal Reserve",
+        "romanization": "yeonjun",
+        "example_sentence_native": "연준의 금리 인상 결정이 시장에 큰 영향을 미쳤다.",
+        "example_sentence_english": "The Federal Reserve's decision to raise interest rates had a significant impact on the market.",
+        "definitions": [
+            {
+                "gloss": "Federal Reserve (often referring to the US Federal Reserve)",
+                "hanja": "聯準"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17549
+    },
+    {
+        "word": "저어",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "hesitation;reluctance",
+        "romanization": "jeoeo",
+        "example_sentence_native": "그는 아무런 저어 없이 그 일을 받아들였다.",
+        "example_sentence_english": "He accepted the task without any hesitation.",
+        "definitions": [
+            {
+                "gloss": "hesitation; reluctance",
+                "hanja": "沮齬"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17586
+    },
+    {
+        "word": "정은",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "kindness;affection and grace",
+        "romanization": "jeongeun",
+        "example_sentence_native": "그는 나에게 많은 정은을 베풀었다.",
+        "example_sentence_english": "He showed me much kindness.",
+        "definitions": [
+            {
+                "gloss": "kindness; affection and grace",
+                "hanja": "情恩"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17591
+    },
+    {
+        "word": "종인",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "clan member;kinsman (especially of a royal or noble clan)",
+        "romanization": "jongin",
+        "example_sentence_native": "왕실의 종인들이 모두 모였다.",
+        "example_sentence_english": "All the kinsmen of the royal family gathered.",
+        "definitions": [
+            {
+                "gloss": "clan member; kinsman (especially of a royal or noble clan)",
+                "hanja": "宗人"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17595
+    },
+    {
+        "word": "호리",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "a very small unit of measurement",
+        "romanization": "hori",
+        "example_sentence_native": "아주 작은 차이를 호리라고 부르기도 했다.",
+        "example_sentence_english": "A very small difference was sometimes called a 'hori'.",
+        "definitions": [
+            {
+                "gloss": "a traditional unit of measurement, 1/1000 of a '분' (bun)",
+                "hanja": "厘"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17659
+    },
+    {
+        "word": "꼴리다",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "to feel like (doing something) (vulgar);to get aroused (vulgar)",
+        "romanization": "kkollida",
+        "example_sentence_native": "뭐 꼴리는 대로 해.",
+        "example_sentence_english": "Do whatever you feel like.",
+        "definitions": [
+            {
+                "gloss": "to feel like (doing something) (vulgar)",
+                "hanja": null
+            },
+            {
+                "gloss": "to get aroused (vulgar)",
+                "hanja": null
+            }
+        ],
+        "pos": "verb",
+        "word_frequency": 17704
+    },
+    {
+        "word": "꼴통",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "blockhead;idiot;stubborn person (derogatory)",
+        "romanization": "kkoltong",
+        "example_sentence_native": "그 꼴통 때문에 일이 다 망쳤어.",
+        "example_sentence_english": "That blockhead ruined everything.",
+        "definitions": [
+            {
+                "gloss": "blockhead (derogatory)",
+                "hanja": null
+            },
+            {
+                "gloss": "idiot (derogatory)",
+                "hanja": null
+            },
+            {
+                "gloss": "stubborn person (derogatory)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17705
+    },
+    {
+        "word": "후장",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "anus;rear",
+        "romanization": "hujang",
+        "example_sentence_native": "의사는 후장 검사를 진행했습니다.",
+        "example_sentence_english": "The doctor performed an anal examination.",
+        "definitions": [
+            {
+                "gloss": "the opening at the end of the alimentary canal through which solid waste matter leaves the body",
+                "hanja": "後腸"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 17919
+    },
+    {
+        "word": "경원",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "respectful avoidance;keeping at a respectful distance",
+        "romanization": "gyeongwon",
+        "example_sentence_native": "그는 스승을 경원시했다.",
+        "example_sentence_english": "He kept his teacher at a respectful distance.",
+        "definitions": [
+            {
+                "gloss": "respectful avoidance; keeping at a respectful distance",
+                "hanja": "敬遠"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 18176
+    },
+    {
+        "word": "씨발놈",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "son of a bitch;bastard (offensive)",
+        "romanization": "ssiballom",
+        "example_sentence_native": "",
+        "example_sentence_english": "",
+        "definitions": [
+            {
+                "gloss": "son of a bitch, bastard (offensive)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 18293
+    },
+    {
+        "word": "장시",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "traditional market;periodic market",
+        "romanization": "jangsi",
+        "example_sentence_native": "옛날에는 장시가 열리는 날에 사람들이 모여 물건을 사고팔았다.",
+        "example_sentence_english": "In the past, people gathered to buy and sell goods on the days the traditional market opened.",
+        "definitions": [
+            {
+                "gloss": "traditional market, periodic market",
+                "hanja": "場市"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 18344
+    },
+    {
+        "word": "법인세",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "corporate tax",
+        "romanization": "beobinse",
+        "example_sentence_native": "정부는 법인세 인하를 고려하고 있다.",
+        "example_sentence_english": "The government is considering a corporate tax cut.",
+        "definitions": [
+            {
+                "gloss": "corporate tax",
+                "hanja": "法人稅"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 18494
+    },
+    {
+        "word": "유천",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "milky spring;spring of milk",
+        "romanization": "yucheon",
+        "example_sentence_native": "전설에 따르면 그 산에는 유천이 흐른다고 한다.",
+        "example_sentence_english": "According to legend, a milky spring flows in that mountain.",
+        "definitions": [
+            {
+                "gloss": "milky spring, spring of milk",
+                "hanja": "乳泉"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 18855
+    },
+    {
+        "word": "주리",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "stocks (torture device)",
+        "romanization": "juri",
+        "example_sentence_native": "죄인은 주리에 묶여 고통받았다.",
+        "example_sentence_english": "The criminal was tied to the stocks and suffered.",
+        "definitions": [
+            {
+                "gloss": "stocks (torture device)",
+                "hanja": "桎"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 18881
+    },
+    {
+        "word": "파시즘",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "fascism",
+        "romanization": "pasijeum",
+        "example_sentence_native": "그는 파시즘의 위험성에 대해 경고했다.",
+        "example_sentence_english": "He warned about the dangers of fascism.",
+        "definitions": [
+            {
+                "gloss": "a political philosophy, movement, or regime that exalts nation and often race above the individual and that stands for a centralized autocratic government headed by a dictatorial leader, severe economic and social regimentation, and forcible suppression of opposition.",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 18909
+    },
+    {
+        "word": "회도",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "ash and soil",
+        "romanization": "hoedo",
+        "example_sentence_native": "이 지역의 토양은 회도가 많아 작물 재배에 적합하지 않다.",
+        "example_sentence_english": "The soil in this area has a lot of ash and soil, making it unsuitable for crop cultivation.",
+        "definitions": [
+            {
+                "gloss": "ash and soil",
+                "hanja": "灰土"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 18932
+    },
+    {
+        "word": "매독",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "syphilis",
+        "romanization": "Maedok",
+        "example_sentence_native": "매독은 성병의 일종입니다.",
+        "example_sentence_english": "Syphilis is a type of sexually transmitted disease.",
+        "definitions": [
+            {
+                "gloss": "syphilis (a sexually transmitted disease)",
+                "hanja": "梅毒"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 18997
+    },
+    {
+        "word": "보부",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "peddler;itinerant merchant",
+        "romanization": "bobu",
+        "example_sentence_native": "조선 시대에는 보부상들이 전국을 돌아다니며 물건을 팔았다.",
+        "example_sentence_english": "During the Joseon Dynasty, peddlers traveled nationwide selling goods.",
+        "definitions": [
+            {
+                "gloss": "peddler, itinerant merchant",
+                "hanja": "褓負"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 19022
+    },
+    {
+        "word": "봉수",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "beacon fire;signal fire",
+        "romanization": "bongsu",
+        "example_sentence_native": "옛날에는 봉수를 이용하여 적의 침입을 알렸다.",
+        "example_sentence_english": "In ancient times, beacon fires were used to signal enemy invasions.",
+        "definitions": [
+            {
+                "gloss": "beacon fire, signal fire",
+                "hanja": "烽燧"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 19026
+    },
+    {
+        "word": "시알",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "sial (geological term)",
+        "romanization": "sial",
+        "example_sentence_native": "지구의 지각은 시알과 시마로 구성되어 있습니다.",
+        "example_sentence_english": "The Earth's crust is composed of sial and sima.",
+        "definitions": [
+            {
+                "gloss": "sial (geological term for the upper layer of the Earth's crust, rich in silicon and aluminum)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 19055
+    },
+    {
+        "word": "신우",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "renal pelvis",
+        "romanization": "sinu",
+        "example_sentence_native": "신우염은 신우에 염증이 생기는 질환입니다.",
+        "example_sentence_english": "Pyelonephritis is a disease where inflammation occurs in the renal pelvis.",
+        "definitions": [
+            {
+                "gloss": "renal pelvis",
+                "hanja": "腎盂"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 19057
+    },
+    {
+        "word": "예성",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "artistic voice",
+        "romanization": "yesong",
+        "example_sentence_native": "그의 예성은 청중을 사로잡았다.",
+        "example_sentence_english": "His artistic voice captivated the audience.",
+        "definitions": [
+            {
+                "gloss": "artistic voice",
+                "hanja": "藝聲"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 19079
+    },
+    {
+        "word": "림프종",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "lymphoma",
+        "romanization": "nimpeujong",
+        "example_sentence_native": "그는 림프종 진단을 받았습니다.",
+        "example_sentence_english": "He was diagnosed with lymphoma.",
+        "definitions": [
+            {
+                "gloss": "lymphoma",
+                "hanja": "淋巴腫"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 19256
+    },
+    {
+        "word": "불출마",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "not running for election;non-candidacy",
+        "romanization": "bulchulma",
+        "example_sentence_native": "그는 다음 선거에 불출마를 선언했다.",
+        "example_sentence_english": "He declared his non-candidacy for the next election.",
+        "definitions": [
+            {
+                "gloss": "not running for election, non-candidacy",
+                "hanja": "不出馬"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 19298
+    },
+    {
+        "word": "부신",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "adrenal gland",
+        "romanization": "busin",
+        "example_sentence_native": "부신은 호르몬을 분비하는 중요한 기관이다.",
+        "example_sentence_english": "The adrenal gland is an important organ that secretes hormones.",
+        "definitions": [
+            {
+                "gloss": "adrenal gland",
+                "hanja": "副腎"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 19558
+    },
+    {
+        "word": "성훈",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "sacred teachings;holy precepts",
+        "romanization": "seonghun",
+        "example_sentence_native": "왕은 백성들에게 성훈을 내렸다.",
+        "example_sentence_english": "The king issued sacred teachings to his people.",
+        "definitions": [
+            {
+                "gloss": "sacred teachings; holy precepts",
+                "hanja": "聖訓"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 19577
+    },
+    {
+        "word": "신민",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "subject (of a monarch)",
+        "romanization": "sinmin",
+        "example_sentence_native": "왕은 모든 신민을 공평하게 대해야 한다.",
+        "example_sentence_english": "The king should treat all subjects fairly.",
+        "definitions": [
+            {
+                "gloss": "subject (of a monarch)",
+                "hanja": "臣民"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 19872
+    },
+    {
+        "word": "총궐기",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "general uprising;mass mobilization",
+        "romanization": "chonggwolgi",
+        "example_sentence_native": "시민들은 부당한 정책에 맞서 총궐기했다.",
+        "example_sentence_english": "The citizens launched a general uprising against the unjust policy.",
+        "definitions": [
+            {
+                "gloss": "general uprising",
+                "hanja": "總蹶起"
+            },
+            {
+                "gloss": "mass mobilization",
+                "hanja": "總蹶起"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 19944
+    },
+    {
+        "word": "대보",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "great treasure",
+        "romanization": "daebo",
+        "example_sentence_native": "그 유물은 국가의 대보로 지정되었다.",
+        "example_sentence_english": "That artifact was designated as a great national treasure.",
+        "definitions": [
+            {
+                "gloss": "great treasure",
+                "hanja": "大寶"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 20039
+    },
+    {
+        "word": "륵",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "rib;costa",
+        "romanization": "reuk",
+        "example_sentence_native": "늑골은 흉곽을 형성하는 뼈입니다.",
+        "example_sentence_english": "Ribs are bones that form the rib cage.",
+        "definitions": [
+            {
+                "gloss": "rib; costa",
+                "hanja": "肋"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 20058
+    },
+    {
+        "word": "정약용",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "Jeong Yak-yong (a prominent Joseon scholar)",
+        "romanization": "Jeong Yak-yong",
+        "example_sentence_native": "정약용은 조선 후기의 실학자였다.",
+        "example_sentence_english": "Jeong Yak-yong was a Silhak scholar of the late Joseon Dynasty.",
+        "definitions": null,
+        "pos": "noun",
+        "word_frequency": 20177
+    },
+    {
+        "word": "중합체",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "polymer",
+        "romanization": "junghapche",
+        "example_sentence_native": "플라스틱은 다양한 중합체로 만들어집니다.",
+        "example_sentence_english": "Plastics are made from various polymers.",
+        "definitions": [
+            {
+                "gloss": "polymer",
+                "hanja": "重合體"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 20188
+    },
+    {
+        "word": "이더넷",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "Ethernet",
+        "romanization": "ideonet",
+        "example_sentence_native": "이더넷 케이블을 연결해야 합니다.",
+        "example_sentence_english": "You need to connect an Ethernet cable.",
+        "definitions": [
+            {
+                "gloss": "Ethernet",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 20440
+    },
+    {
+        "word": "인버터",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "inverter",
+        "romanization": "inbeoteo",
+        "example_sentence_native": "태양광 패널에는 인버터가 필수적입니다.",
+        "example_sentence_english": "An inverter is essential for solar panels.",
+        "definitions": [
+            {
+                "gloss": "inverter",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 20445
+    },
+    {
+        "word": "여래",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "Tathagata (a title for a Buddha)",
+        "romanization": "yeorae",
+        "example_sentence_native": "불교에서 여래는 깨달음을 얻은 자를 의미한다.",
+        "example_sentence_english": "In Buddhism, Tathagata refers to one who has attained enlightenment.",
+        "definitions": [
+            {
+                "gloss": "Tathagata (a title for a Buddha)",
+                "hanja": "如來"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 20701
+    },
+    {
+        "word": "영일",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "long day (archaic)",
+        "romanization": "yeongil",
+        "example_sentence_native": "봄날의 영일은 한가로이 흘러갔다.",
+        "example_sentence_english": "The long day of spring passed idly.",
+        "definitions": [
+            {
+                "gloss": "long day",
+                "hanja": "永日"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 20704
+    },
+    {
+        "word": "조선총독부",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "Government-General of Joseon",
+        "romanization": "Joseonchongdokbu",
+        "example_sentence_native": "조선총독부는 일제 강점기 동안 조선을 통치했습니다.",
+        "example_sentence_english": "The Government-General of Joseon governed Joseon during the Japanese colonial period.",
+        "definitions": [
+            {
+                "gloss": "Government-General of Joseon (historical administrative body)",
+                "hanja": "朝鮮總督府"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 20753
+    },
+    {
+        "word": "세로토닌",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "serotonin",
+        "romanization": "serotonin",
+        "example_sentence_native": "세로토닌은 기분과 수면을 조절하는 신경전달물질이다.",
+        "example_sentence_english": "Serotonin is a neurotransmitter that regulates mood and sleep.",
+        "definitions": [
+            {
+                "gloss": "serotonin",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 20941
+    },
+    {
+        "word": "아민",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "amine",
+        "romanization": "amin",
+        "example_sentence_native": "아민은 유기 화합물의 한 종류이다.",
+        "example_sentence_english": "Amine is a type of organic compound.",
+        "definitions": [
+            {
+                "gloss": "amine (chemical compound)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 20965
+    },
+    {
+        "word": "연녀",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "beautiful woman;woman in love",
+        "romanization": "yeonnyeo",
+        "example_sentence_native": "그는 연녀를 만나 사랑에 빠졌다.",
+        "example_sentence_english": "He met a beautiful woman and fell in love.",
+        "definitions": [
+            {
+                "gloss": "beautiful woman",
+                "hanja": "妍女"
+            },
+            {
+                "gloss": "woman in love",
+                "hanja": "戀女"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 20981
+    },
+    {
+        "word": "이데아",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "idea (Platonic Idea)",
+        "romanization": "idea",
+        "example_sentence_native": "플라톤은 이데아론을 주장했다.",
+        "example_sentence_english": "Plato asserted the theory of Ideas.",
+        "definitions": [
+            {
+                "gloss": "idea (Platonic concept)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 21002
+    },
+    {
+        "word": "주체사상",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Juche idea (North Korean ideology of self-reliance)",
+        "romanization": "juchesasang",
+        "example_sentence_native": "주체사상은 북한의 통치 이념이다.",
+        "example_sentence_english": "The Juche idea is North Korea's ruling ideology.",
+        "definitions": [
+            {
+                "gloss": "Juche idea (North Korean ideology of self-reliance)",
+                "hanja": "主體思想"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 21027
+    },
+    {
+        "word": "오행",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Five Elements",
+        "romanization": "ohaeng",
+        "example_sentence_native": "동양 철학에서는 오행이 우주의 근본 원리라고 본다.",
+        "example_sentence_english": "In Eastern philosophy, the Five Elements are considered the fundamental principles of the universe.",
+        "definitions": [
+            {
+                "gloss": "Five Elements (Wood, Fire, Earth, Metal, Water)",
+                "hanja": "五行"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 21267
+    },
+    {
+        "word": "좃",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "penis (vulgar)",
+        "romanization": "jot",
+        "example_sentence_native": "",
+        "example_sentence_english": "",
+        "definitions": [
+            {
+                "gloss": "penis (vulgar)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 21307
+    },
+    {
+        "word": "획단",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "decisive judgment;determination",
+        "romanization": "hoekdan",
+        "example_sentence_native": "그의 획단은 역사의 흐름을 바꾸었다.",
+        "example_sentence_english": "His decisive judgment changed the course of history.",
+        "definitions": [
+            {
+                "gloss": "decisive judgment, determination",
+                "hanja": "劃斷"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 21372
+    },
+    {
+        "word": "가트",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "GATT (General Agreement on Tariffs and Trade)",
+        "romanization": "gateu",
+        "example_sentence_native": "가트 체제는 세계 무역에 큰 영향을 미쳤다.",
+        "example_sentence_english": "The GATT system had a significant impact on world trade.",
+        "definitions": [
+            {
+                "gloss": "GATT (General Agreement on Tariffs and Trade)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 21379
+    },
+    {
+        "word": "보문",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "universal gate (Buddhist term)",
+        "romanization": "bomun",
+        "example_sentence_native": "불교에서는 보문시현을 통해 중생을 구제한다고 믿는다.",
+        "example_sentence_english": "In Buddhism, it is believed that sentient beings are saved through the manifestation of the universal gate.",
+        "definitions": [
+            {
+                "gloss": "universal gate",
+                "hanja": "普門"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 21470
+    },
+    {
+        "word": "장하",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "midsummer",
+        "romanization": "jangha",
+        "example_sentence_native": "장하의 뜨거운 햇살이 내리쬐었다.",
+        "example_sentence_english": "The hot sun of midsummer shone down.",
+        "definitions": [
+            {
+                "gloss": "midsummer (literary, archaic)",
+                "hanja": "壯夏"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 21563
+    },
+    {
+        "word": "경화증",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "sclerosis",
+        "romanization": "gyeonghwajeung",
+        "example_sentence_native": "그는 동맥 경화증 진단을 받았다.",
+        "example_sentence_english": "He was diagnosed with arteriosclerosis.",
+        "definitions": [
+            {
+                "gloss": "sclerosis",
+                "hanja": "硬化症"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 21653
+    },
+    {
+        "word": "관부",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "government office;public office",
+        "romanization": "gwanbu",
+        "example_sentence_native": "그는 관부에 서류를 제출했다.",
+        "example_sentence_english": "He submitted the documents to the government office.",
+        "definitions": [
+            {
+                "gloss": "government office",
+                "hanja": "官府"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 21967
+    },
+    {
+        "word": "교두보",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "bridgehead;foothold",
+        "romanization": "gyodubo",
+        "example_sentence_native": "그 회사는 해외 시장 진출의 교두보를 마련했다.",
+        "example_sentence_english": "The company secured a bridgehead for entering overseas markets.",
+        "definitions": [
+            {
+                "gloss": "bridgehead, foothold",
+                "hanja": "橋頭堡"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 21968
+    },
+    {
+        "word": "교살",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "strangulation;throttling",
+        "romanization": "gyosal",
+        "example_sentence_native": "그는 교살로 사망했다.",
+        "example_sentence_english": "He died by strangulation.",
+        "definitions": [
+            {
+                "gloss": "strangulation",
+                "hanja": "絞殺"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 21969
+    },
+    {
+        "word": "금오",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "golden crow (mythological)",
+        "romanization": "geumo",
+        "example_sentence_native": "고대 신화에서 금오는 태양을 상징했다.",
+        "example_sentence_english": "In ancient myths, the golden crow symbolized the sun.",
+        "definitions": [
+            {
+                "gloss": "golden crow (mythological bird symbolizing the sun)",
+                "hanja": "金烏"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 21976
+    },
+    {
+        "word": "시해",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "regicide;assassination (of a monarch)",
+        "romanization": "Sihae",
+        "example_sentence_native": "역사상 많은 왕들이 시해당했다.",
+        "example_sentence_english": "Many kings were assassinated throughout history.",
+        "definitions": [
+            {
+                "gloss": "regicide; assassination (of a monarch)",
+                "hanja": "弑害"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 22085
+    },
+    {
+        "word": "호지",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "pasted paper;papering",
+        "romanization": "hoji",
+        "example_sentence_native": "벽에 호지를 바르다.",
+        "example_sentence_english": "To paste paper on the wall.",
+        "definitions": [
+            {
+                "gloss": "pasted paper; papering",
+                "hanja": "糊紙"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 22215
+    },
+    {
+        "word": "가라사대",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "thus spoke;it is said",
+        "romanization": "garasadae",
+        "example_sentence_native": "성경에 가라사대, \"사랑은 오래 참고...\"",
+        "example_sentence_english": "The Bible says, \"Love is patient...\"",
+        "definitions": [
+            {
+                "gloss": "thus spoke; it is said",
+                "hanja": null
+            }
+        ],
+        "pos": "interjection",
+        "word_frequency": 22223
+    },
+    {
+        "word": "국회법",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "National Assembly Act",
+        "romanization": "gukhoebeop",
+        "example_sentence_native": "국회법에 따라 회의가 진행되었다.",
+        "example_sentence_english": "The meeting proceeded according to the National Assembly Act.",
+        "definitions": [
+            {
+                "gloss": "National Assembly Act",
+                "hanja": "國會法"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 22559
+    },
+    {
+        "word": "네크로",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "necro- (prefix meaning death or dead)",
+        "romanization": "nekeuro",
+        "example_sentence_native": "'네크로'는 죽음과 관련된 단어에 사용되는 접두사입니다.",
+        "example_sentence_english": "'Necro' is a prefix used in words related to death.",
+        "definitions": [
+            {
+                "gloss": "necro- (prefix meaning death or dead)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 22579
+    },
+    {
+        "word": "씨팔",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "(vulgar) damn;fuck",
+        "romanization": "ssipal",
+        "example_sentence_native": "",
+        "example_sentence_english": "",
+        "definitions": [
+            {
+                "gloss": "(vulgar) An expletive expressing anger, frustration, or surprise",
+                "hanja": null
+            }
+        ],
+        "pos": "interjection",
+        "word_frequency": 22703
+    },
+    {
+        "word": "파타",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Pata (Indian sword)",
+        "romanization": "pata",
+        "example_sentence_native": "파타는 인도에서 사용되던 독특한 검이다.",
+        "example_sentence_english": "The Pata is a unique sword used in India.",
+        "definitions": [
+            {
+                "gloss": "a type of Indian sword with a gauntlet hilt",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 22809
+    },
+    {
+        "word": "드루이드",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "druid",
+        "romanization": "deurueideu",
+        "example_sentence_native": "드루이드는 고대 켈트족의 사제 계급이었다.",
+        "example_sentence_english": "Druids were a priestly class in ancient Celtic society.",
+        "definitions": [
+            {
+                "gloss": "A priest, magician, or soothsayer in the ancient Celtic religion.",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 22900
+    },
+    {
+        "word": "정재",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "proper wealth;legitimate wealth (in Saju;fortune-telling)",
+        "romanization": "jeongjae",
+        "example_sentence_native": "사주에서 정재는 안정적인 재물을 의미합니다.",
+        "example_sentence_english": "In Saju, 'jeongjae' signifies stable wealth.",
+        "definitions": [
+            {
+                "gloss": "proper wealth (in Saju/fortune-telling)",
+                "hanja": "正財"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 23075
+    },
+    {
+        "word": "뇌하수체",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "pituitary gland",
+        "romanization": "noehasuche",
+        "example_sentence_native": "뇌하수체는 호르몬 분비를 조절한다.",
+        "example_sentence_english": "The pituitary gland regulates hormone secretion.",
+        "definitions": [
+            {
+                "gloss": "pituitary gland",
+                "hanja": "腦下垂體"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 23203
+    },
+    {
+        "word": "담낭",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "gallbladder",
+        "romanization": "damnang",
+        "example_sentence_native": "담낭에 문제가 생겨 수술을 받았다.",
+        "example_sentence_english": "I had surgery because of a problem with my gallbladder.",
+        "definitions": [
+            {
+                "gloss": "gallbladder",
+                "hanja": "膽囊"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 23209
+    },
+    {
+        "word": "번방",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "vassal state",
+        "romanization": "beonbang",
+        "example_sentence_native": "조선은 한때 중국의 번방이었다.",
+        "example_sentence_english": "Joseon was once a vassal state of China.",
+        "definitions": [
+            {
+                "gloss": "vassal state, tributary state",
+                "hanja": "藩邦"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 23269
+    },
+    {
+        "word": "뷰트",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "butte",
+        "romanization": "byuteu",
+        "example_sentence_native": "그 지역에는 뷰트 지형이 많다.",
+        "example_sentence_english": "There are many butte landforms in that area.",
+        "definitions": [
+            {
+                "gloss": "butte",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 23288
+    },
+    {
+        "word": "사간",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "Sangan (historical official)",
+        "romanization": "sagan",
+        "example_sentence_native": "조선 시대에 사간은 왕에게 간언하는 역할을 했다.",
+        "example_sentence_english": "In the Joseon Dynasty, the Sangan played the role of admonishing the king.",
+        "definitions": [
+            {
+                "gloss": "Sangan (historical official who admonished the king)",
+                "hanja": "司諫"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 23295
+    },
+    {
+        "word": "구천",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the underworld;the netherworld",
+        "romanization": "gucheon",
+        "example_sentence_native": "그는 구천을 떠돌고 있을 것이다.",
+        "example_sentence_english": "He must be wandering in the underworld.",
+        "definitions": [
+            {
+                "gloss": "the underworld; the netherworld",
+                "hanja": "九泉"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 23510
+    },
+    {
+        "word": "사미",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "novice monk;nun (Buddhist)",
+        "romanization": "sami",
+        "example_sentence_native": "사미는 불교의 계율을 배우며 수행한다.",
+        "example_sentence_english": "A novice monk learns and practices the precepts of Buddhism.",
+        "definitions": [
+            {
+                "gloss": "novice monk/nun",
+                "hanja": "沙彌"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 23622
+    },
+    {
+        "word": "설하",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "sublingual (under the tongue)",
+        "romanization": "seolha",
+        "example_sentence_native": "이 약은 설하로 복용해야 합니다.",
+        "example_sentence_english": "This medicine should be taken sublingually.",
+        "definitions": [
+            {
+                "gloss": "sublingual",
+                "hanja": "舌下"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 23628
+    },
+    {
+        "word": "이피",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "leaf (archaic;literary)",
+        "romanization": "ipi",
+        "example_sentence_native": "이피 하나가 바람에 떨어졌다.",
+        "example_sentence_english": "A single leaf fell in the wind.",
+        "definitions": [
+            {
+                "gloss": "leaf",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 23700
+    },
+    {
+        "word": "자말",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "self-ruin (archaic)",
+        "romanization": "jamal",
+        "example_sentence_native": "그의 오만은 결국 자말을 초래했다.",
+        "example_sentence_english": "His arrogance ultimately led to self-ruin.",
+        "definitions": [
+            {
+                "gloss": "self-ruin",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 23706
+    },
+    {
+        "word": "가르드",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "guard (e.g.;in fencing;ballet)",
+        "romanization": "gareudeu",
+        "example_sentence_native": "그는 가르드 자세를 취했다.",
+        "example_sentence_english": "He took a guard stance.",
+        "definitions": [
+            {
+                "gloss": "guard (e.g., in fencing, ballet)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 23798
+    },
+    {
+        "word": "거유",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "large breasts",
+        "romanization": "geoyu",
+        "example_sentence_native": "그는 만화에서 거유 캐릭터를 좋아한다.",
+        "example_sentence_english": "He likes large-breasted characters in comics.",
+        "definitions": [
+            {
+                "gloss": "large breasts",
+                "hanja": "巨乳"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 23802
+    },
+    {
+        "word": "성재",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "talented person;sage",
+        "romanization": "seongjae",
+        "example_sentence_native": "그는 젊은 성재로 불렸다.",
+        "example_sentence_english": "He was called a young talented person.",
+        "definitions": [
+            {
+                "gloss": "talented person; sage",
+                "hanja": "聖才"
+            },
+            {
+                "gloss": "sincere talent",
+                "hanja": "誠才"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 23949
+    },
+    {
+        "word": "주포",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "main gun;main battery",
+        "romanization": "jupo",
+        "example_sentence_native": "전함의 주포가 불을 뿜었다.",
+        "example_sentence_english": "The battleship's main guns fired.",
+        "definitions": [
+            {
+                "gloss": "main gun (of a warship)",
+                "hanja": "主砲"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 24054
+    },
+    {
+        "word": "대유",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "great possession;abundance",
+        "romanization": "daeyu",
+        "example_sentence_native": "고전에서는 대유의 의미를 탐구합니다.",
+        "example_sentence_english": "In classics, the meaning of great possession is explored.",
+        "definitions": [
+            {
+                "gloss": "great possession; abundance",
+                "hanja": "大有"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 24193
+    },
+    {
+        "word": "동천",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "a scenic spot;a fairyland;a paradise",
+        "romanization": "dongcheon",
+        "example_sentence_native": "그곳은 마치 동천에 온 듯 아름다웠다.",
+        "example_sentence_english": "That place was beautiful as if we had come to a fairyland.",
+        "definitions": [
+            {
+                "gloss": "a scenic spot; a fairyland; a paradise",
+                "hanja": "洞天"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 24199
+    },
+    {
+        "word": "선군",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "military-first (policy)",
+        "romanization": "seongun",
+        "example_sentence_native": "북한은 선군정치를 표방한다.",
+        "example_sentence_english": "North Korea advocates a military-first policy.",
+        "definitions": [
+            {
+                "gloss": "military-first (policy, especially in North Korea)",
+                "hanja": "先軍"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 24278
+    },
+    {
+        "word": "예부",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "Ministry of Rites (historical)",
+        "romanization": "yebu",
+        "example_sentence_native": "조선 시대에는 예부가 외교와 교육을 담당했다.",
+        "example_sentence_english": "In the Joseon Dynasty, the Ministry of Rites was in charge of diplomacy and education.",
+        "definitions": [
+            {
+                "gloss": "Ministry of Rites (historical government department in East Asia)",
+                "hanja": "禮部"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 24328
+    },
+    {
+        "word": "유증",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "legacy;bequest (in a will)",
+        "romanization": "yujeung",
+        "example_sentence_native": "그는 유언을 통해 모든 재산을 자선단체에 유증했다.",
+        "example_sentence_english": "He bequeathed all his property to charity through his will.",
+        "definitions": [
+            {
+                "gloss": "legacy; bequest (in a will)",
+                "hanja": "遺贈"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 24346
+    },
+    {
+        "word": "전계",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "electric field;potential field",
+        "romanization": "jeongye",
+        "example_sentence_native": "전계의 세기는 거리에 반비례한다.",
+        "example_sentence_english": "The strength of the electric field is inversely proportional to the distance.",
+        "definitions": [
+            {
+                "gloss": "electric field; potential field",
+                "hanja": "電界"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 24372
+    },
+    {
+        "word": "지트",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "JIT (Just-In-Time)",
+        "romanization": "jiteu",
+        "example_sentence_native": "그 회사는 지트 생산 방식을 도입했다.",
+        "example_sentence_english": "The company adopted the JIT production method.",
+        "definitions": [
+            {
+                "gloss": "Just-In-Time (JIT)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 24398
+    },
+    {
+        "word": "최음제",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "aphrodisiac",
+        "romanization": "choeumje",
+        "example_sentence_native": "최음제는 성욕을 증진시키는 약물입니다.",
+        "example_sentence_english": "An aphrodisiac is a drug that enhances sexual desire.",
+        "definitions": [
+            {
+                "gloss": "aphrodisiac",
+                "hanja": "催淫劑"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 24406
+    },
+    {
+        "word": "팹",
+        "useful_for_flashcard": false,
+        "cefr_level": "C2",
+        "english_translation": "fab (fabrication plant)",
+        "romanization": "paep",
+        "example_sentence_native": "그 회사는 새로운 팹 건설을 발표했다.",
+        "example_sentence_english": "The company announced the construction of a new fab.",
+        "definitions": [
+            {
+                "gloss": "fabrication plant (for semiconductors)",
+                "hanja": null
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 24430
+    },
+    {
+        "word": "행동주의",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "behaviorism",
+        "romanization": "Haengdongjuui",
+        "example_sentence_native": "심리학에서 행동주의는 중요한 학파 중 하나이다.",
+        "example_sentence_english": "In psychology, behaviorism is one of the important schools of thought.",
+        "definitions": [
+            {
+                "gloss": "A school of thought in psychology that focuses on observable behaviors",
+                "hanja": "行動主義"
+            }
+        ],
+        "pos": "noun",
+        "word_frequency": 24446
+    }
+]

@@ -1,0 +1,2765 @@
+[
+    {
+        "word": "mar",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a blemish or flaw",
+        "example_sentence_english": "The scratch was a mar on the otherwise perfect surface.",
+        "pos": "noun",
+        "word_frequency": 3781
+    },
+    {
+        "word": "ecclesiastical",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the church",
+        "example_sentence_english": "He studied ecclesiastical history.",
+        "pos": "adjective",
+        "word_frequency": 10456
+    },
+    {
+        "word": "quasi",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "seemingly; apparently but not really",
+        "example_sentence_english": "The organization operates as a quasi-governmental body.",
+        "pos": "adjective",
+        "word_frequency": 10528
+    },
+    {
+        "word": "annal",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a record of events year by year",
+        "example_sentence_english": "The annal recorded the major events of the kingdom.",
+        "pos": "noun",
+        "word_frequency": 12223
+    },
+    {
+        "word": "felicity",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Intense happiness; the ability to find appropriate expression for one's thoughts.",
+        "example_sentence_english": "She expressed her thoughts with great felicity.",
+        "pos": "noun",
+        "word_frequency": 12452
+    },
+    {
+        "word": "oncology",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "The study and treatment of tumors",
+        "example_sentence_english": "She decided to specialize in oncology.",
+        "pos": "noun",
+        "word_frequency": 12504
+    },
+    {
+        "word": "appellate",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "concerned with or dealing with applications for decisions to be reversed",
+        "example_sentence_english": "The case went to the appellate court.",
+        "pos": "adj",
+        "word_frequency": 12751
+    },
+    {
+        "word": "photon",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a particle representing a quantum of light or other electromagnetic radiation",
+        "example_sentence_english": "Light is composed of tiny particles called photons.",
+        "pos": "noun",
+        "word_frequency": 13248
+    },
+    {
+        "word": "bey",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a Turkish title of respect or honor",
+        "example_sentence_english": "The bey ruled over the province for many years.",
+        "pos": "noun",
+        "word_frequency": 13318
+    },
+    {
+        "word": "peptide",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "A compound consisting of two or more amino acids linked in a chain.",
+        "example_sentence_english": "Peptides play a crucial role in biological processes.",
+        "pos": "noun",
+        "word_frequency": 13586
+    },
+    {
+        "word": "sclerosis",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a chronic disease involving hardening of body tissue",
+        "example_sentence_english": "Multiple sclerosis affects the brain and spinal cord.",
+        "pos": "noun",
+        "word_frequency": 13607
+    },
+    {
+        "word": "entropy",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a measure of the disorder or randomness of a system",
+        "example_sentence_english": "The universe tends towards increasing entropy.",
+        "pos": "noun",
+        "word_frequency": 13892
+    },
+    {
+        "word": "lymphoma",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "cancer of the lymphatic system",
+        "example_sentence_english": "He was diagnosed with lymphoma last year.",
+        "pos": "noun",
+        "word_frequency": 14103
+    },
+    {
+        "word": "mitochondrial",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to mitochondria",
+        "example_sentence_english": "Mitochondrial DNA is inherited from the mother.",
+        "pos": "adjective",
+        "word_frequency": 14112
+    },
+    {
+        "word": "seminal",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Strongly influencing later developments; highly original and influential.",
+        "example_sentence_english": "His seminal work on quantum physics changed the field forever.",
+        "pos": "adjective",
+        "word_frequency": 14151
+    },
+    {
+        "word": "nomenclature",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the devising or choosing of names for things, especially in a science or other discipline",
+        "example_sentence_english": "The scientific nomenclature for plants can be complex.",
+        "pos": "noun",
+        "word_frequency": 15318
+    },
+    {
+        "word": "mrna",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Messenger ribonucleic acid, a type of RNA that carries genetic information from DNA to the ribosome.",
+        "example_sentence_english": "mRNA vaccines use messenger RNA to teach our cells how to make a protein.",
+        "pos": "noun",
+        "word_frequency": 15517
+    },
+    {
+        "word": "topology",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a branch of mathematics",
+        "example_sentence_english": "Topology is a complex field of mathematics.",
+        "pos": "noun",
+        "word_frequency": 15574
+    },
+    {
+        "word": "fibrosis",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the thickening and scarring of connective tissue",
+        "example_sentence_english": "Pulmonary fibrosis affects the lungs.",
+        "pos": "noun",
+        "word_frequency": 15668
+    },
+    {
+        "word": "oculus",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a circular opening, especially at the apex of a dome",
+        "example_sentence_english": "The Pantheon in Rome is famous for its large oculus.",
+        "pos": "noun",
+        "word_frequency": 15726
+    },
+    {
+        "word": "esoteric",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "intended for or likely to be understood by only a small number of people with a specialized knowledge or interest",
+        "example_sentence_english": "The book was full of esoteric references that only a few scholars could understand.",
+        "pos": "adjective",
+        "word_frequency": 16067
+    },
+    {
+        "word": "impedance",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "resistance to an alternating current",
+        "example_sentence_english": "The engineer measured the electrical impedance of the circuit.",
+        "pos": "noun",
+        "word_frequency": 16509
+    },
+    {
+        "word": "isotope",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "each of two or more forms of the same element",
+        "example_sentence_english": "Carbon-14 is a radioactive isotope used in dating ancient artifacts.",
+        "pos": "noun",
+        "word_frequency": 16515
+    },
+    {
+        "word": "morphological",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the form or structure of things",
+        "example_sentence_english": "Linguists study the morphological changes in languages over time.",
+        "pos": "adjective",
+        "word_frequency": 16545
+    },
+    {
+        "word": "jurisprudence",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "The theory or philosophy of law",
+        "example_sentence_english": "She specialized in comparative jurisprudence during her law studies.",
+        "pos": "noun",
+        "word_frequency": 16754
+    },
+    {
+        "word": "hegemony",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "leadership or dominance, especially by one state or social group over others",
+        "example_sentence_english": "The country sought to establish its hegemony over the region.",
+        "pos": "noun",
+        "word_frequency": 16915
+    },
+    {
+        "word": "mora",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "A unit of phonological weight or a genus of trees",
+        "example_sentence_english": "In phonology, a long vowel can be considered to have two moras.",
+        "pos": "noun",
+        "word_frequency": 17387
+    },
+    {
+        "word": "pneumatic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "operated by air or gas under pressure",
+        "example_sentence_english": "The factory uses pneumatic tools for assembly.",
+        "pos": "adjective",
+        "word_frequency": 17405
+    },
+    {
+        "word": "polynomial",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "an expression of more than two algebraic terms",
+        "example_sentence_english": "We learned how to factor a quadratic polynomial in math class.",
+        "pos": "noun",
+        "word_frequency": 17408
+    },
+    {
+        "word": "stochastic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "randomly determined; involving a random variable",
+        "example_sentence_english": "The model uses stochastic processes to predict market fluctuations.",
+        "pos": "adjective",
+        "word_frequency": 17443
+    },
+    {
+        "word": "egregious",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "outstandingly bad; shocking",
+        "example_sentence_english": "The egregious error in the report led to serious consequences.",
+        "pos": "adjective",
+        "word_frequency": 17554
+    },
+    {
+        "word": "pedophilia",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "sexual attraction to children",
+        "example_sentence_english": "Pedophilia is a serious crime.",
+        "pos": "noun",
+        "word_frequency": 17674
+    },
+    {
+        "word": "mitochondrion",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "An organelle found in large numbers in most cells, in which the biochemical processes of respiration and energy production occur.",
+        "example_sentence_english": "The mitochondrion is often called the powerhouse of the cell.",
+        "pos": "noun",
+        "word_frequency": 17912
+    },
+    {
+        "word": "aneurysm",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a localized, blood-filled balloon-like bulge in the wall of a blood vessel",
+        "example_sentence_english": "He suffered a brain aneurysm.",
+        "pos": "noun",
+        "word_frequency": 18019
+    },
+    {
+        "word": "archdiocese",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the district or see of an archbishop",
+        "example_sentence_english": "The archdiocese covers several counties.",
+        "pos": "noun",
+        "word_frequency": 18023
+    },
+    {
+        "word": "metabolite",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a substance formed in or necessary for metabolism",
+        "example_sentence_english": "Researchers are studying the various metabolites produced by the bacteria.",
+        "pos": "noun",
+        "word_frequency": 18119
+    },
+    {
+        "word": "oxidative",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or involving oxidation",
+        "example_sentence_english": "Oxidative stress can damage cells.",
+        "pos": "adjective",
+        "word_frequency": 18390
+    },
+    {
+        "word": "pedagogical",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to teaching",
+        "example_sentence_english": "The new curriculum has a strong pedagogical foundation.",
+        "pos": "adjective",
+        "word_frequency": 18395
+    },
+    {
+        "word": "planar",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to a plane; flat",
+        "example_sentence_english": "The design involved complex planar surfaces.",
+        "pos": "adjective",
+        "word_frequency": 18399
+    },
+    {
+        "word": "aegis",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the protection, backing, or support of a particular person or organization",
+        "example_sentence_english": "The project was launched under the aegis of the United Nations.",
+        "pos": "noun",
+        "word_frequency": 18474
+    },
+    {
+        "word": "hepatic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the liver",
+        "example_sentence_english": "The doctor ordered tests to check his hepatic function.",
+        "pos": "adjective",
+        "word_frequency": 18576
+    },
+    {
+        "word": "fiduciary",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "involving trust, especially with regard to the relationship between a trustee and a beneficiary",
+        "example_sentence_english": "A lawyer has a fiduciary duty to their clients.",
+        "pos": "adjective",
+        "word_frequency": 18822
+    },
+    {
+        "word": "rheumatoid",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to rheumatism or arthritis",
+        "example_sentence_english": "She suffers from rheumatoid arthritis.",
+        "pos": "adjective",
+        "word_frequency": 19158
+    },
+    {
+        "word": "ammonium",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a positively charged ion (NH4+)",
+        "example_sentence_english": "Ammonium compounds are often used in fertilizers.",
+        "pos": "noun",
+        "word_frequency": 19228
+    },
+    {
+        "word": "scion",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "A descendant of a notable family.",
+        "example_sentence_english": "He was a scion of a wealthy banking family.",
+        "pos": "noun",
+        "word_frequency": 19433
+    },
+    {
+        "word": "tensor",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a mathematical object",
+        "example_sentence_english": "In physics, a tensor is a geometric object that describes linear relations between geometric vectors, scalars, and other tensors.",
+        "pos": "noun",
+        "word_frequency": 19459
+    },
+    {
+        "word": "tomography",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "imaging by sections",
+        "example_sentence_english": "CT scans use X-ray tomography to create detailed images of the body.",
+        "pos": "noun",
+        "word_frequency": 19465
+    },
+    {
+        "word": "wraith",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a ghost or ghostlike image of someone",
+        "example_sentence_english": "He saw a pale wraith disappear into the mist.",
+        "pos": "noun",
+        "word_frequency": 19495
+    },
+    {
+        "word": "anarchism",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "belief in the abolition of all government",
+        "example_sentence_english": "Anarchism advocates for a society without rulers.",
+        "pos": "noun",
+        "word_frequency": 19512
+    },
+    {
+        "word": "axiom",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a statement or proposition which is regarded as being established, accepted, or self-evidently true",
+        "example_sentence_english": "It is an axiom that a straight line is the shortest distance between two points.",
+        "pos": "noun",
+        "word_frequency": 19516
+    },
+    {
+        "word": "glaucoma",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a group of eye conditions",
+        "example_sentence_english": "Glaucoma can lead to blindness if not treated.",
+        "pos": "noun",
+        "word_frequency": 19819
+    },
+    {
+        "word": "smite",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "To strike with a firm blow; to affect suddenly and powerfully",
+        "example_sentence_english": "The hero vowed to smite his enemies.",
+        "pos": "verb",
+        "word_frequency": 19939
+    },
+    {
+        "word": "superannuation",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Regular payment made into a fund by an employee toward a future pension",
+        "example_sentence_english": "Employees contribute to their superannuation fund each month.",
+        "pos": "noun",
+        "word_frequency": 19950
+    },
+    {
+        "word": "endothelial",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the endothelium",
+        "example_sentence_english": "Endothelial cells line the inside of blood vessels.",
+        "pos": "adjective",
+        "word_frequency": 20058
+    },
+    {
+        "word": "nucleotide",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a compound consisting of a nucleoside linked to a phosphate group",
+        "example_sentence_english": "DNA is made up of long chains of nucleotides.",
+        "pos": "noun",
+        "word_frequency": 20144
+    },
+    {
+        "word": "transcendental",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Beyond normal or physical human experience.",
+        "example_sentence_english": "He sought a transcendental experience through meditation.",
+        "pos": "adjective",
+        "word_frequency": 20217
+    },
+    {
+        "word": "dielectric",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "having the property of being an electrical insulator",
+        "example_sentence_english": "Rubber is a good dielectric material.",
+        "pos": "adjective",
+        "word_frequency": 20298
+    },
+    {
+        "word": "endogenous",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "having an internal cause or origin",
+        "example_sentence_english": "The plant produces endogenous hormones.",
+        "pos": "adjective",
+        "word_frequency": 20306
+    },
+    {
+        "word": "ethnographic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the scientific description of peoples and cultures",
+        "example_sentence_english": "The anthropologist conducted extensive ethnographic research.",
+        "pos": "adjective",
+        "word_frequency": 20311
+    },
+    {
+        "word": "genomics",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the branch of molecular biology concerned with the structure, function, evolution, and mapping of genomes",
+        "example_sentence_english": "Advances in genomics are revolutionizing personalized medicine.",
+        "pos": "noun",
+        "word_frequency": 20332
+    },
+    {
+        "word": "hoon",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a lout or hooligan, especially one who drives recklessly (Australian/NZ slang)",
+        "example_sentence_english": "The police issued a warning to the hoons doing burnouts in the car park.",
+        "pos": "noun",
+        "word_frequency": 20344
+    },
+    {
+        "word": "nous",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "common sense; practical intelligence",
+        "example_sentence_english": "He showed considerable nous in handling the difficult situation.",
+        "pos": "noun",
+        "word_frequency": 20408
+    },
+    {
+        "word": "tuff",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a light, porous rock formed by the consolidation of volcanic ash",
+        "example_sentence_english": "The ancient city was carved directly into the volcanic tuff.",
+        "pos": "adjective",
+        "word_frequency": 20475
+    },
+    {
+        "word": "ley",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a tract of grassland; a ley line",
+        "example_sentence_english": "Ancient monuments are often said to be built along ley lines.",
+        "pos": "noun",
+        "word_frequency": 20630
+    },
+    {
+        "word": "volta",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a turn or change, especially in poetry or music",
+        "example_sentence_english": "The volta in the sonnet marked a shift in tone.",
+        "pos": "noun",
+        "word_frequency": 20744
+    },
+    {
+        "word": "amortization",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the process of gradually writing off the initial cost of an asset",
+        "example_sentence_english": "The loan's amortization schedule showed the principal and interest payments over time.",
+        "pos": "noun",
+        "word_frequency": 20756
+    },
+    {
+        "word": "methamphetamine",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a powerful, highly addictive stimulant drug",
+        "example_sentence_english": "The police seized a large quantity of methamphetamine.",
+        "pos": "noun",
+        "word_frequency": 20918
+    },
+    {
+        "word": "atrial",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to an atrium, especially of the heart",
+        "example_sentence_english": "The patient was diagnosed with atrial fibrillation.",
+        "pos": "adjective",
+        "word_frequency": 21037
+    },
+    {
+        "word": "impotence",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "lack of power or ability to act",
+        "example_sentence_english": "The government's impotence in the face of the crisis was evident.",
+        "pos": "noun",
+        "word_frequency": 21126
+    },
+    {
+        "word": "juxtaposition",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the fact of two things being seen or placed close together with contrasting effect",
+        "example_sentence_english": "The artist used juxtaposition to highlight the differences.",
+        "pos": "noun",
+        "word_frequency": 21133
+    },
+    {
+        "word": "polymerase",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "An enzyme that synthesizes long chains of polymers.",
+        "example_sentence_english": "DNA polymerase plays a crucial role in DNA replication.",
+        "pos": "noun",
+        "word_frequency": 21196
+    },
+    {
+        "word": "spectrometry",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the measurement of spectra",
+        "example_sentence_english": "Mass spectrometry is used to identify unknown compounds.",
+        "pos": "noun",
+        "word_frequency": 21236
+    },
+    {
+        "word": "chromatography",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a laboratory technique for the separation of a mixture",
+        "example_sentence_english": "Chromatography is used to separate pigments in plants.",
+        "pos": "noun",
+        "word_frequency": 21325
+    },
+    {
+        "word": "edema",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a condition characterized by an excess of watery fluid accumulating in the body",
+        "example_sentence_english": "The doctor diagnosed the patient with edema in their legs.",
+        "pos": "noun",
+        "word_frequency": 21354
+    },
+    {
+        "word": "topological",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to topology, the branch of mathematics concerned with the properties of geometric objects that are preserved under continuous deformations",
+        "example_sentence_english": "A donut and a coffee cup are topologically equivalent.",
+        "pos": "adjective",
+        "word_frequency": 21515
+    },
+    {
+        "word": "altruism",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Disinterested and selfless concern for the well-being of others.",
+        "example_sentence_english": "His act of altruism saved many lives.",
+        "pos": "noun",
+        "word_frequency": 21558
+    },
+    {
+        "word": "recombinant",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or denoting an organism, cell, or genetic material that has been recombined",
+        "example_sentence_english": "Scientists are working with recombinant DNA technology.",
+        "pos": "adjective",
+        "word_frequency": 21742
+    },
+    {
+        "word": "apostasy",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the abandonment or renunciation of a religious or political belief",
+        "example_sentence_english": "His public declaration of atheism was seen by some as an act of apostasy.",
+        "pos": "noun",
+        "word_frequency": 22133
+    },
+    {
+        "word": "necrosis",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the death of most or all of the cells in an organ or tissue due to disease, injury, or failure of the blood supply",
+        "example_sentence_english": "The doctor explained that the tissue damage was due to necrosis.",
+        "pos": "noun",
+        "word_frequency": 22317
+    },
+    {
+        "word": "pharmacological",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to pharmacology or drugs",
+        "example_sentence_english": "The study investigated the pharmacological effects of the new compound.",
+        "pos": "adjective",
+        "word_frequency": 22333
+    },
+    {
+        "word": "selenium",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "A chemical element",
+        "example_sentence_english": "Selenium is an essential trace element for humans.",
+        "pos": "noun",
+        "word_frequency": 22369
+    },
+    {
+        "word": "sulfide",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "A compound of sulfur with another element or group",
+        "example_sentence_english": "Hydrogen sulfide is a toxic gas.",
+        "pos": "noun",
+        "word_frequency": 22385
+    },
+    {
+        "word": "taxon",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "A taxonomic group of any rank, such as a species, family, or class",
+        "example_sentence_english": "Humans belong to the taxon Homo sapiens.",
+        "pos": "noun",
+        "word_frequency": 22389
+    },
+    {
+        "word": "allele",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "one of two or more alternative forms of a gene",
+        "example_sentence_english": "Each parent contributes one allele for every gene.",
+        "pos": "noun",
+        "word_frequency": 22434
+    },
+    {
+        "word": "hydroxide",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a compound containing the hydroxide ion",
+        "example_sentence_english": "Sodium hydroxide is a strong base used in many industrial processes.",
+        "pos": "noun",
+        "word_frequency": 22547
+    },
+    {
+        "word": "inertial",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to inertia",
+        "example_sentence_english": "The spacecraft used an inertial guidance system to navigate.",
+        "pos": "adjective",
+        "word_frequency": 22554
+    },
+    {
+        "word": "magus",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a magician or sorcerer",
+        "example_sentence_english": "The ancient text described a powerful magus who could control the elements.",
+        "pos": "noun",
+        "word_frequency": 22585
+    },
+    {
+        "word": "methylation",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the addition of a methyl group to a substrate",
+        "example_sentence_english": "DNA methylation plays a crucial role in gene expression.",
+        "pos": "noun",
+        "word_frequency": 22598
+    },
+    {
+        "word": "pectoral",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the breast or chest",
+        "example_sentence_english": "He worked on his pectoral muscles at the gym.",
+        "pos": "adjective",
+        "word_frequency": 22620
+    },
+    {
+        "word": "reeve",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a chief magistrate of a town or district",
+        "example_sentence_english": "The reeve was responsible for maintaining order in the village.",
+        "pos": "noun",
+        "word_frequency": 22638
+    },
+    {
+        "word": "therefor",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "for that; for it",
+        "example_sentence_english": "The contract specifies the terms and conditions, and the payment therefor.",
+        "pos": "adverb",
+        "word_frequency": 22679
+    },
+    {
+        "word": "stratigraphic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to stratigraphy (the study of rock layers)",
+        "example_sentence_english": "Geologists use stratigraphic analysis to understand Earth's history.",
+        "pos": "adjective",
+        "word_frequency": 22983
+    },
+    {
+        "word": "taxonomic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to taxonomy (the classification of organisms)",
+        "example_sentence_english": "The taxonomic classification of this species is still debated.",
+        "pos": "adjective",
+        "word_frequency": 22991
+    },
+    {
+        "word": "adsorption",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the process by which molecules adhere to a surface",
+        "example_sentence_english": "The experiment studied the adsorption of gases on metal surfaces.",
+        "pos": "noun",
+        "word_frequency": 23035
+    },
+    {
+        "word": "epistemology",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the theory of knowledge, especially with regard to its methods, validity, and scope",
+        "example_sentence_english": "His research focuses on the epistemology of science.",
+        "pos": "noun",
+        "word_frequency": 23115
+    },
+    {
+        "word": "hamza",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a glottal stop in Arabic",
+        "example_sentence_english": "The hamza is an important phoneme in Arabic pronunciation.",
+        "pos": "noun",
+        "word_frequency": 23142
+    },
+    {
+        "word": "transcendence",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the state of being or going beyond the limits of ordinary experience",
+        "example_sentence_english": "Many spiritual traditions seek to achieve a state of transcendence.",
+        "pos": "noun",
+        "word_frequency": 23268
+    },
+    {
+        "word": "electrochemical",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to electrochemistry",
+        "example_sentence_english": "The battery relies on an electrochemical reaction to produce power.",
+        "pos": "adjective",
+        "word_frequency": 23394
+    },
+    {
+        "word": "thane",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a man who held land by military service, ranking between an ordinary freeman and a hereditary noble",
+        "example_sentence_english": "Macbeth was the Thane of Cawdor.",
+        "pos": "noun",
+        "word_frequency": 23567
+    },
+    {
+        "word": "wort",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a plant, especially a herbaceous one; the liquid extracted from the malt in the brewing process",
+        "example_sentence_english": "The brewer added hops to the wort before fermentation.",
+        "pos": "noun",
+        "word_frequency": 23595
+    },
+    {
+        "word": "amyloid",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "A waxy, translucent, starch-like protein that is deposited in tissues in certain diseases.",
+        "example_sentence_english": "Abnormal amyloid deposits are a hallmark of Alzheimer's disease.",
+        "pos": "noun",
+        "word_frequency": 23613
+    },
+    {
+        "word": "genotype",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the genetic constitution of an individual organism",
+        "example_sentence_english": "The genotype determines the observable characteristics of an organism.",
+        "pos": "noun",
+        "word_frequency": 23700
+    },
+    {
+        "word": "glycol",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a type of alcohol, often used as antifreeze",
+        "example_sentence_english": "Ethylene glycol is a common ingredient in antifreeze.",
+        "pos": "noun",
+        "word_frequency": 23705
+    },
+    {
+        "word": "ischemic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or denoting ischemia (an inadequate blood supply to an organ or part of the body)",
+        "example_sentence_english": "The patient suffered an ischemic stroke due to a blocked artery.",
+        "pos": "adjective",
+        "word_frequency": 23735
+    },
+    {
+        "word": "phylogenetic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the evolutionary development and diversification of a species or group of organisms",
+        "example_sentence_english": "Scientists use phylogenetic analysis to understand the relationships between different species.",
+        "pos": "adjective",
+        "word_frequency": 23800
+    },
+    {
+        "word": "vitriol",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "cruel and bitter criticism",
+        "example_sentence_english": "The politician's speech was full of vitriol against his opponents.",
+        "pos": "noun",
+        "word_frequency": 23876
+    },
+    {
+        "word": "burgh",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a Scottish town or borough",
+        "example_sentence_english": "Edinburgh is a historic burgh with a rich past.",
+        "pos": "noun",
+        "word_frequency": 23927
+    },
+    {
+        "word": "coptic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the Copts, a Christian group in Egypt",
+        "example_sentence_english": "The museum displayed ancient Coptic manuscripts.",
+        "pos": "adjective",
+        "word_frequency": 23949
+    },
+    {
+        "word": "cutaneous",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or affecting the skin",
+        "example_sentence_english": "The rash caused a severe cutaneous reaction.",
+        "pos": "adjective",
+        "word_frequency": 23952
+    },
+    {
+        "word": "hydrolysis",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the chemical breakdown of a compound due to reaction with water",
+        "example_sentence_english": "The enzyme catalyzes the hydrolysis of starch.",
+        "pos": "noun",
+        "word_frequency": 24013
+    },
+    {
+        "word": "multivariate",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "involving or depending on multiple variables",
+        "example_sentence_english": "The study used multivariate analysis to examine the complex data.",
+        "pos": "adjective",
+        "word_frequency": 24073
+    },
+    {
+        "word": "probabilistic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Relating to or involving probability.",
+        "example_sentence_english": "The weather forecast uses a probabilistic model to predict rain.",
+        "pos": "adjective",
+        "word_frequency": 24099
+    },
+    {
+        "word": "tyrosine",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a nonessential amino acid",
+        "example_sentence_english": "Tyrosine is an important amino acid in the human body.",
+        "pos": "noun",
+        "word_frequency": 24153
+    },
+    {
+        "word": "ambulatory",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Relating to or adapted for walking; able to walk.",
+        "example_sentence_english": "The patient was ambulatory after the surgery.",
+        "pos": "adjective",
+        "word_frequency": 24187
+    },
+    {
+        "word": "interpolation",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the action of inserting something of a different nature into something else",
+        "example_sentence_english": "The data analysis involved interpolation to estimate missing values.",
+        "pos": "noun",
+        "word_frequency": 24311
+    },
+    {
+        "word": "monoclonal",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Derived from a single cell clone",
+        "example_sentence_english": "Scientists are developing new monoclonal antibodies for cancer treatment.",
+        "pos": "adjective",
+        "word_frequency": 24346
+    },
+    {
+        "word": "urethra",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "The tube that carries urine from the bladder.",
+        "example_sentence_english": "The doctor explained the function of the urethra.",
+        "pos": "noun",
+        "word_frequency": 24453
+    },
+    {
+        "word": "zephyr",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "A soft, gentle breeze.",
+        "example_sentence_english": "A gentle zephyr rustled the leaves.",
+        "pos": "noun",
+        "word_frequency": 24473
+    },
+    {
+        "word": "infarction",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the obstruction of the blood supply to an organ or region of tissue, causing local tissue death",
+        "example_sentence_english": "A myocardial infarction is commonly known as a heart attack.",
+        "pos": "noun",
+        "word_frequency": 24598
+    },
+    {
+        "word": "sou",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a former French coin of small value; a small amount of money",
+        "example_sentence_english": "He didn't have a sou to his name after losing everything.",
+        "pos": "noun",
+        "word_frequency": 24719
+    },
+    {
+        "word": "transducer",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a device that converts energy from one form to another",
+        "example_sentence_english": "The microphone acts as a transducer, converting sound waves into electrical signals.",
+        "pos": "noun",
+        "word_frequency": 24745
+    },
+    {
+        "word": "buss",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a kiss",
+        "example_sentence_english": "He gave his child a loving buss on the forehead.",
+        "pos": "noun",
+        "word_frequency": 24810
+    },
+    {
+        "word": "dipshit",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a foolish or incompetent person (offensive slang)",
+        "example_sentence_english": "Don't be such a dipshit and pay attention!",
+        "pos": "noun",
+        "word_frequency": 24839
+    },
+    {
+        "word": "lymphocyte",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a type of white blood cell that is part of the immune system",
+        "example_sentence_english": "Lymphocytes play a crucial role in the body's defense against disease.",
+        "pos": "noun",
+        "word_frequency": 24935
+    },
+    {
+        "word": "neuropathy",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a disease or dysfunction of one or more peripheral nerves",
+        "example_sentence_english": "Diabetic neuropathy can cause numbness and pain in the feet.",
+        "pos": "noun",
+        "word_frequency": 24954
+    },
+    {
+        "word": "neurotransmitter",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a chemical substance that transmits nerve impulses across a synapse",
+        "example_sentence_english": "Serotonin is an important neurotransmitter that affects mood.",
+        "pos": "noun",
+        "word_frequency": 24955
+    },
+    {
+        "word": "bioinformatics",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "The science of collecting and analyzing complex biological data.",
+        "example_sentence_english": "Bioinformatics plays a crucial role in modern genetic research.",
+        "pos": "noun",
+        "word_frequency": 25096
+    },
+    {
+        "word": "epigenetic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or arising from nongenetic influences on gene expression",
+        "example_sentence_english": "Epigenetic changes can affect how genes are expressed without altering the DNA sequence.",
+        "pos": "adjective",
+        "word_frequency": 25139
+    },
+    {
+        "word": "summa",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a comprehensive treatise or summary",
+        "example_sentence_english": "He wrote a summa of his philosophical ideas.",
+        "pos": "noun",
+        "word_frequency": 25314
+    },
+    {
+        "word": "hemorrhagic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or causing hemorrhage",
+        "example_sentence_english": "The patient was diagnosed with hemorrhagic fever.",
+        "pos": "adjective",
+        "word_frequency": 25502
+    },
+    {
+        "word": "pathogenesis",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "The manner of development of a disease",
+        "example_sentence_english": "Understanding the pathogenesis of the virus is crucial for developing effective treatments.",
+        "pos": "noun",
+        "word_frequency": 25580
+    },
+    {
+        "word": "radiocarbon",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "A radioactive isotope of carbon, especially carbon-14",
+        "example_sentence_english": "Scientists use radiocarbon dating to determine the age of ancient artifacts.",
+        "pos": "noun",
+        "word_frequency": 25594
+    },
+    {
+        "word": "anthropogenic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "originating in human activity",
+        "example_sentence_english": "Climate change is largely driven by anthropogenic factors.",
+        "pos": "adjective",
+        "word_frequency": 25692
+    },
+    {
+        "word": "genocidal",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to genocide",
+        "example_sentence_english": "The regime was accused of genocidal acts.",
+        "pos": "adjective",
+        "word_frequency": 25779
+    },
+    {
+        "word": "greave",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a piece of armor for the shin",
+        "example_sentence_english": "The knight wore greaves to protect his legs.",
+        "pos": "noun",
+        "word_frequency": 25787
+    },
+    {
+        "word": "stenosis",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the abnormal narrowing of a passage in the body",
+        "example_sentence_english": "Spinal stenosis can cause pain and numbness.",
+        "pos": "noun",
+        "word_frequency": 25933
+    },
+    {
+        "word": "verily",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "truly; certainly",
+        "example_sentence_english": "Verily, I say unto you, this is the truth.",
+        "pos": "adverb",
+        "word_frequency": 25957
+    },
+    {
+        "word": "anathema",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "something or someone that one vehemently dislikes; a formal curse",
+        "example_sentence_english": "The idea of war was anathema to him.",
+        "pos": "noun",
+        "word_frequency": 25991
+    },
+    {
+        "word": "cation",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "positively charged ion",
+        "example_sentence_english": "A cation is an ion with a net positive charge.",
+        "pos": "noun",
+        "word_frequency": 26031
+    },
+    {
+        "word": "chromatin",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "complex of DNA and proteins in cells",
+        "example_sentence_english": "Chromatin condenses to form chromosomes during cell division.",
+        "pos": "noun",
+        "word_frequency": 26038
+    },
+    {
+        "word": "cytokine",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a protein that acts as a messenger between cells",
+        "example_sentence_english": "Cytokines play a crucial role in the immune response.",
+        "pos": "noun",
+        "word_frequency": 26058
+    },
+    {
+        "word": "hither",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "to or toward this place",
+        "example_sentence_english": "The old man beckoned them to come hither.",
+        "pos": "adverb",
+        "word_frequency": 26115
+    },
+    {
+        "word": "neoliberalism",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "neoliberalism (a political approach that favors free-market capitalism)",
+        "example_sentence_english": "Critics argue that neoliberalism has led to increased economic inequality.",
+        "pos": "noun",
+        "word_frequency": 26182
+    },
+    {
+        "word": "oeuvre",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "oeuvre (the complete work of an artist, composer, or writer)",
+        "example_sentence_english": "The exhibition showcased the entire oeuvre of the renowned painter.",
+        "pos": "noun",
+        "word_frequency": 26191
+    },
+    {
+        "word": "ordinator",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "ordinator (one who ordains or coordinates; often in a religious or technical context)",
+        "example_sentence_english": "The ordinator was responsible for overseeing the complex project schedule.",
+        "pos": "noun",
+        "word_frequency": 26194
+    },
+    {
+        "word": "resection",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the surgical removal of part of an organ or structure",
+        "example_sentence_english": "The patient underwent a bowel resection.",
+        "pos": "noun",
+        "word_frequency": 26230
+    },
+    {
+        "word": "atherosclerosis",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a disease of the arteries characterized by the deposition of fatty material on their inner walls",
+        "example_sentence_english": "Atherosclerosis can lead to heart attacks and strokes.",
+        "pos": "noun",
+        "word_frequency": 26350
+    },
+    {
+        "word": "castration",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the removal of the testicles",
+        "example_sentence_english": "Veterinarians often perform castration on male animals.",
+        "pos": "noun",
+        "word_frequency": 26381
+    },
+    {
+        "word": "cryogenic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or involving the production of very low temperatures",
+        "example_sentence_english": "The samples were stored in a cryogenic freezer.",
+        "pos": "adjective",
+        "word_frequency": 26394
+    },
+    {
+        "word": "interstitial",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or situated in the interstices (small spaces)",
+        "example_sentence_english": "Interstitial fluid fills the spaces between cells in the body.",
+        "pos": "adjective",
+        "word_frequency": 26467
+    },
+    {
+        "word": "parietal",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "of, relating to, or forming the wall of a body part or cavity.",
+        "example_sentence_english": "The parietal lobe is involved in processing sensory information.",
+        "pos": "adjective",
+        "word_frequency": 26546
+    },
+    {
+        "word": "pestilence",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a fatal epidemic disease.",
+        "example_sentence_english": "The city was ravaged by a terrible pestilence.",
+        "pos": "noun",
+        "word_frequency": 26551
+    },
+    {
+        "word": "plenum",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a space or chamber in which air or other gas is at a pressure greater than that of the outside atmosphere; also, a meeting attended by all members of a committee or conference.",
+        "example_sentence_english": "The air conditioning system uses a plenum to distribute air.",
+        "pos": "noun",
+        "word_frequency": 26557
+    },
+    {
+        "word": "transcriptional",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to transcription",
+        "example_sentence_english": "The scientists studied the transcriptional regulation of the gene.",
+        "pos": "adjective",
+        "word_frequency": 26624
+    },
+    {
+        "word": "transgenic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "containing genes from another species",
+        "example_sentence_english": "Researchers are developing transgenic crops to resist pests.",
+        "pos": "adjective",
+        "word_frequency": 26625
+    },
+    {
+        "word": "androgen",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a male sex hormone",
+        "example_sentence_english": "Androgen levels can affect various bodily functions in men.",
+        "pos": "noun",
+        "word_frequency": 26681
+    },
+    {
+        "word": "gnostic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to knowledge, especially mystical or spiritual knowledge",
+        "example_sentence_english": "Ancient Gnostic texts offer a different perspective on early Christianity.",
+        "pos": "adjective",
+        "word_frequency": 26778
+    },
+    {
+        "word": "zeitgeist",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time.",
+        "example_sentence_english": "The film perfectly captured the zeitgeist of the 1960s.",
+        "pos": "noun",
+        "word_frequency": 26978
+    },
+    {
+        "word": "adipose",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "(of body tissue) used for the storage of fat.",
+        "example_sentence_english": "Adipose tissue stores energy in the body.",
+        "pos": "adjective",
+        "word_frequency": 26984
+    },
+    {
+        "word": "adjudication",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the act or process of adjudicating a dispute.",
+        "example_sentence_english": "The dispute is currently awaiting adjudication.",
+        "pos": "noun",
+        "word_frequency": 26985
+    },
+    {
+        "word": "anabolic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or promoting anabolism (the synthesis of complex molecules in living organisms).",
+        "example_sentence_english": "Anabolic steroids are used to build muscle mass.",
+        "pos": "adjective",
+        "word_frequency": 26997
+    },
+    {
+        "word": "boson",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a type of subatomic particle",
+        "example_sentence_english": "The Higgs boson is sometimes called the 'God particle'.",
+        "pos": "noun",
+        "word_frequency": 27027
+    },
+    {
+        "word": "bulwark",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a defensive wall or protection",
+        "example_sentence_english": "The old castle walls served as a bulwark against invaders.",
+        "pos": "noun",
+        "word_frequency": 27032
+    },
+    {
+        "word": "endocrinology",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the branch of physiology and medicine concerned with endocrine glands and hormones",
+        "example_sentence_english": "She decided to specialize in endocrinology.",
+        "pos": "noun",
+        "word_frequency": 27076
+    },
+    {
+        "word": "heterogeneity",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the quality or state of being diverse in character or content",
+        "example_sentence_english": "The study examined the heterogeneity of the patient population.",
+        "pos": "noun",
+        "word_frequency": 27116
+    },
+    {
+        "word": "immunotherapy",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Treatment that uses the body's immune system",
+        "example_sentence_english": "Immunotherapy is a promising new cancer treatment.",
+        "pos": "noun",
+        "word_frequency": 27130
+    },
+    {
+        "word": "indenture",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "To bind someone by an agreement as an apprentice or laborer",
+        "example_sentence_english": "Many immigrants were indentured servants in the colonies.",
+        "pos": "verb",
+        "word_frequency": 27135
+    },
+    {
+        "word": "intercession",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "The action of intervening on behalf of another",
+        "example_sentence_english": "He sought divine intercession for his ailing mother.",
+        "pos": "noun",
+        "word_frequency": 27140
+    },
+    {
+        "word": "interferon",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "A protein that inhibits virus replication",
+        "example_sentence_english": "Interferon is used in the treatment of some viral infections.",
+        "pos": "noun",
+        "word_frequency": 27141
+    },
+    {
+        "word": "maleficent",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "harmful or evil in intent or effect",
+        "example_sentence_english": "The sorceress cast a maleficent spell on the kingdom.",
+        "pos": "adjective",
+        "word_frequency": 27174
+    },
+    {
+        "word": "mythos",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a set of beliefs or assumptions about something",
+        "example_sentence_english": "The film explores the mythos surrounding the ancient hero.",
+        "pos": "noun",
+        "word_frequency": 27198
+    },
+    {
+        "word": "riparian",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or situated on the banks of a river",
+        "example_sentence_english": "The conservation efforts focused on protecting the riparian habitats.",
+        "pos": "adjective",
+        "word_frequency": 27256
+    },
+    {
+        "word": "chroma",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the purity or intensity of color",
+        "example_sentence_english": "The artist adjusted the chroma to make the colors more vibrant.",
+        "pos": "noun",
+        "word_frequency": 27385
+    },
+    {
+        "word": "cochlear",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the cochlea of the inner ear",
+        "example_sentence_english": "A cochlear implant can help people with severe hearing loss.",
+        "pos": "adjective",
+        "word_frequency": 27388
+    },
+    {
+        "word": "concomitant",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "naturally accompanying or associated",
+        "example_sentence_english": "Loss of memory is a concomitant symptom of the disease.",
+        "pos": "adjective",
+        "word_frequency": 27390
+    },
+    {
+        "word": "crump",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a dull, heavy sound, especially of an explosion",
+        "example_sentence_english": "They heard the distant crump of artillery.",
+        "pos": "noun",
+        "word_frequency": 27395
+    },
+    {
+        "word": "modulus",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a coefficient or constant that expresses a particular property of a substance or system",
+        "example_sentence_english": "In physics, the Young's modulus measures the stiffness of a material.",
+        "pos": "noun",
+        "word_frequency": 27510
+    },
+    {
+        "word": "musculoskeletal",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or denoting the muscles and skeleton",
+        "example_sentence_english": "The doctor specialized in musculoskeletal disorders.",
+        "pos": "adjective",
+        "word_frequency": 27516
+    },
+    {
+        "word": "myeloma",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a malignant tumor of the bone marrow",
+        "example_sentence_english": "Multiple myeloma is a type of cancer.",
+        "pos": "noun",
+        "word_frequency": 27518
+    },
+    {
+        "word": "occlusion",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "blockage; the meeting of teeth",
+        "example_sentence_english": "The dental occlusion was perfect after the braces.",
+        "pos": "noun",
+        "word_frequency": 27530
+    },
+    {
+        "word": "amicus",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a friend (often used in legal contexts, e.g., amicus curiae)",
+        "example_sentence_english": "The court allowed an amicus brief to be filed by the non-profit organization.",
+        "pos": "noun",
+        "word_frequency": 27678
+    },
+    {
+        "word": "cytochrome",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "any of a group of compounds consisting of a hemoprotein and functioning as electron transfer agents in metabolic pathways",
+        "example_sentence_english": "Cytochrome P450 enzymes play a crucial role in drug metabolism.",
+        "pos": "noun",
+        "word_frequency": 27740
+    },
+    {
+        "word": "dendritic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or resembling a dendrite or tree-like structure",
+        "example_sentence_english": "The neuron has a complex dendritic structure.",
+        "pos": "adjective",
+        "word_frequency": 27746
+    },
+    {
+        "word": "molybdenum",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a chemical element (Mo)",
+        "example_sentence_english": "Molybdenum is a silvery-white metal used in alloys.",
+        "pos": "noun",
+        "word_frequency": 27840
+    },
+    {
+        "word": "anthropomorphic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "having human characteristics",
+        "example_sentence_english": "Many ancient gods were depicted as anthropomorphic figures.",
+        "pos": "adjective",
+        "word_frequency": 27987
+    },
+    {
+        "word": "estradiol",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a major estrogen hormone",
+        "example_sentence_english": "Estradiol plays a key role in the female reproductive system and bone health.",
+        "pos": "noun",
+        "word_frequency": 28072
+    },
+    {
+        "word": "fugue",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a contrapuntal musical composition or a state of amnesia",
+        "example_sentence_english": "The composer's latest work included a complex fugue.",
+        "pos": "noun",
+        "word_frequency": 28083
+    },
+    {
+        "word": "ontological",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the nature of being",
+        "example_sentence_english": "The philosopher discussed the ontological implications of existence.",
+        "pos": "adjective",
+        "word_frequency": 28170
+    },
+    {
+        "word": "phenomenology",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "philosophical study of experience and consciousness",
+        "example_sentence_english": "His research focused on the phenomenology of perception.",
+        "pos": "noun",
+        "word_frequency": 28183
+    },
+    {
+        "word": "philology",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the study of language in historical context",
+        "example_sentence_english": "She pursued a degree in classical philology.",
+        "pos": "noun",
+        "word_frequency": 28184
+    },
+    {
+        "word": "cytoplasmic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the cytoplasm of a cell",
+        "example_sentence_english": "The cytoplasmic membrane plays a crucial role in cell function.",
+        "pos": "adjective",
+        "word_frequency": 28358
+    },
+    {
+        "word": "endometriosis",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a condition in which tissue similar to the lining of the uterus grows outside the uterus",
+        "example_sentence_english": "Endometriosis can cause severe pelvic pain.",
+        "pos": "noun",
+        "word_frequency": 28384
+    },
+    {
+        "word": "exogenous",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "originating from outside the organism",
+        "example_sentence_english": "The plant's growth was influenced by exogenous factors like sunlight.",
+        "pos": "adjective",
+        "word_frequency": 28389
+    },
+    {
+        "word": "heuristic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "enabling a person to discover or learn something for themselves",
+        "example_sentence_english": "The teacher used a heuristic approach to problem-solving.",
+        "pos": "adjective",
+        "word_frequency": 28422
+    },
+    {
+        "word": "homology",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "similarity in structure or function due to common ancestry",
+        "example_sentence_english": "The homology between human and ape skeletons is striking.",
+        "pos": "noun",
+        "word_frequency": 28424
+    },
+    {
+        "word": "hypertrophy",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the enlargement of an organ or tissue from the increase in size of its cells",
+        "example_sentence_english": "Weightlifting can lead to muscle hypertrophy.",
+        "pos": "noun",
+        "word_frequency": 28429
+    },
+    {
+        "word": "iniquity",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "immoral or grossly unfair behavior",
+        "example_sentence_english": "The judge spoke out against the iniquity of the system.",
+        "pos": "noun",
+        "word_frequency": 28432
+    },
+    {
+        "word": "polymorphism",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the condition of occurring in several different forms",
+        "example_sentence_english": "In biology, polymorphism refers to the existence of multiple forms within a species.",
+        "pos": "noun",
+        "word_frequency": 28503
+    },
+    {
+        "word": "rive",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "to tear apart or split",
+        "example_sentence_english": "The strong winds threatened to rive the old flag.",
+        "pos": "verb",
+        "word_frequency": 28529
+    },
+    {
+        "word": "sarcoma",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a malignant tumor of connective or other nonepithelial tissue",
+        "example_sentence_english": "The doctor diagnosed the patient with a rare form of sarcoma.",
+        "pos": "noun",
+        "word_frequency": 28535
+    },
+    {
+        "word": "translocation",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the act or process of moving something from one place to another",
+        "example_sentence_english": "The translocation of the endangered species was carefully planned.",
+        "pos": "noun",
+        "word_frequency": 28569
+    },
+    {
+        "word": "verso",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the left-hand page of an open book, or the back of a single sheet",
+        "example_sentence_english": "The copyright information is usually found on the verso of the title page.",
+        "pos": "[pos_edited]",
+        "word_frequency": 28585
+    },
+    {
+        "word": "chuff",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "To make a regular puffing sound, like a steam engine.",
+        "example_sentence_english": "The old train began to chuff slowly out of the station.",
+        "pos": "verb",
+        "word_frequency": 29005
+    },
+    {
+        "word": "intelligentsia",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "intellectuals or highly educated people",
+        "example_sentence_english": "The city's intelligentsia gathered for the literary discussion.",
+        "pos": "noun",
+        "word_frequency": 29103
+    },
+    {
+        "word": "asymptotic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or approaching an asymptote (a line that a curve approaches as it heads towards infinity)",
+        "example_sentence_english": "The graph shows an asymptotic curve approaching the x-axis.",
+        "pos": "adjective",
+        "word_frequency": 29337
+    },
+    {
+        "word": "catalysis",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the acceleration of a chemical reaction by a catalyst",
+        "example_sentence_english": "Enzyme catalysis is crucial for many biological processes.",
+        "pos": "noun",
+        "word_frequency": 29368
+    },
+    {
+        "word": "convective",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or involving convection",
+        "example_sentence_english": "Convective currents in the atmosphere can lead to thunderstorms.",
+        "pos": "adjective",
+        "word_frequency": 29382
+    },
+    {
+        "word": "dialectic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the art of investigating or discussing the truth of opinions",
+        "example_sentence_english": "Plato's dialogues are a classic example of the dialectic method.",
+        "pos": "noun",
+        "word_frequency": 29394
+    },
+    {
+        "word": "emblazon",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "to inscribe or display a design on something",
+        "example_sentence_english": "The team's logo was emblazoned on their new jerseys.",
+        "pos": "verb",
+        "word_frequency": 29409
+    },
+    {
+        "word": "glutathione",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a powerful antioxidant found in plants, animals, fungi, and some bacteria and archaea",
+        "example_sentence_english": "Glutathione plays a crucial role in protecting cells from damage.",
+        "pos": "noun",
+        "word_frequency": 29439
+    },
+    {
+        "word": "interleukin",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a type of cytokine produced by white blood cells",
+        "example_sentence_english": "Interleukin-6 plays a role in the body's immune response.",
+        "pos": "noun",
+        "word_frequency": 29478
+    },
+    {
+        "word": "dialectical",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the philosophical concept of dialectic; concerned with or acting through opposing forces",
+        "example_sentence_english": "Her argument was based on a complex dialectical process.",
+        "pos": "adjective",
+        "word_frequency": 29761
+    },
+    {
+        "word": "sepulchre",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a small room or monument, cut in rock or built of stone, in which a dead person is laid or buried",
+        "example_sentence_english": "The ancient king was laid to rest in a grand sepulchre.",
+        "pos": "noun",
+        "word_frequency": 29978
+    },
+    {
+        "word": "sich",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a fortified camp of Ukrainian Cossacks",
+        "example_sentence_english": "The Zaporozhian Sich was a semi-independent Cossack polity.",
+        "pos": "noun",
+        "word_frequency": 29982
+    },
+    {
+        "word": "chiral",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "having a non-superimposable mirror image",
+        "example_sentence_english": "Many biological molecules are chiral, existing as left- or right-handed forms.",
+        "pos": "adj",
+        "word_frequency": 30118
+    },
+    {
+        "word": "corticosteroid",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Any of a group of steroid hormones produced in the adrenal cortex or made synthetically.",
+        "example_sentence_english": "The doctor prescribed a corticosteroid to reduce the inflammation.",
+        "pos": "noun",
+        "word_frequency": 30128
+    },
+    {
+        "word": "dysplasia",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "The abnormal growth or development of cells, tissue, or organs.",
+        "example_sentence_english": "The biopsy revealed signs of dysplasia.",
+        "pos": "noun",
+        "word_frequency": 30149
+    },
+    {
+        "word": "encephalopathy",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Any disease of the brain that alters brain function or structure.",
+        "example_sentence_english": "The patient was diagnosed with hepatic encephalopathy.",
+        "pos": "noun",
+        "word_frequency": 30155
+    },
+    {
+        "word": "exegesis",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "critical explanation or interpretation of a text, especially of scripture",
+        "example_sentence_english": "His exegesis of the ancient text provided new insights.",
+        "pos": "noun",
+        "word_frequency": 30162
+    },
+    {
+        "word": "extrajudicial",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "(of an action or procedure) occurring or executed without legal authority",
+        "example_sentence_english": "The report detailed several cases of extrajudicial killings.",
+        "pos": "adj",
+        "word_frequency": 30165
+    },
+    {
+        "word": "galena",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a common mineral, lead sulfide, that is the principal ore of lead",
+        "example_sentence_english": "Galena has a distinctive metallic luster.",
+        "pos": "noun",
+        "word_frequency": 30175
+    },
+    {
+        "word": "herbarium",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a collection of preserved plant specimens, typically dried and mounted on sheets, with associated data, used for scientific study",
+        "example_sentence_english": "The botanist spent hours in the herbarium.",
+        "pos": "noun",
+        "word_frequency": 30196
+    },
+    {
+        "word": "hypothalamus",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a region of the forebrain below the thalamus that coordinates the autonomic nervous system and the activity of the pituitary, controlling body temperature, thirst, hunger, and other homeostatic systems, and involved in sleep and emotional activity",
+        "example_sentence_english": "The hypothalamus plays a crucial role in regulating body temperature.",
+        "pos": "noun",
+        "word_frequency": 30203
+    },
+    {
+        "word": "silicate",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "A salt in which the anion contains silicon and oxygen.",
+        "example_sentence_english": "Quartz is a common silicate mineral.",
+        "pos": "noun",
+        "word_frequency": 30318
+    },
+    {
+        "word": "thermonuclear",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or using nuclear reactions that occur at extremely high temperatures.",
+        "example_sentence_english": "Scientists are researching controlled thermonuclear fusion as a future energy source.",
+        "pos": "adj",
+        "word_frequency": 30344
+    },
+    {
+        "word": "cardiomyopathy",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a disease of the heart muscle",
+        "example_sentence_english": "His diagnosis was dilated cardiomyopathy.",
+        "pos": "noun",
+        "word_frequency": 30448
+    },
+    {
+        "word": "cysteine",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a sulfur-containing amino acid",
+        "example_sentence_english": "Cysteine is one of the 20 standard amino acids.",
+        "pos": "noun",
+        "word_frequency": 30473
+    },
+    {
+        "word": "isotopic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to isotopes",
+        "example_sentence_english": "Scientists use isotopic analysis to determine the age of ancient artifacts.",
+        "pos": "adjective",
+        "word_frequency": 30570
+    },
+    {
+        "word": "milt",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the seminal fluid of male fish",
+        "example_sentence_english": "The male salmon releases milt during spawning.",
+        "pos": "noun",
+        "word_frequency": 30618
+    },
+    {
+        "word": "solon",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a wise and skillful lawgiver; a member of a legislative body",
+        "example_sentence_english": "The ancient Greek solon introduced many reforms.",
+        "pos": "noun",
+        "word_frequency": 30716
+    },
+    {
+        "word": "agape",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "(of the mouth) wide open, especially with surprise or wonder",
+        "example_sentence_english": "His mouth was agape in astonishment at the magic trick.",
+        "pos": "adjective",
+        "word_frequency": 30805
+    },
+    {
+        "word": "asphyxiation",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the state or process of being deprived of oxygen, which can result in unconsciousness or death",
+        "example_sentence_english": "The cause of death was determined to be asphyxiation.",
+        "pos": "noun",
+        "word_frequency": 30825
+    },
+    {
+        "word": "benzodiazepine",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a class of psychoactive drugs",
+        "example_sentence_english": "The doctor prescribed a benzodiazepine to help with anxiety.",
+        "pos": "noun",
+        "word_frequency": 30838
+    },
+    {
+        "word": "machina",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "machine (Latin, often in 'deus ex machina')",
+        "example_sentence_english": "The sudden appearance of the hero felt like a deus ex machina.",
+        "pos": "noun",
+        "word_frequency": 31008
+    },
+    {
+        "word": "rata",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a New Zealand tree or shrub of the myrtle family",
+        "example_sentence_english": "The rata tree was covered in vibrant red flowers.",
+        "pos": "noun",
+        "word_frequency": 31095
+    },
+    {
+        "word": "roebuck",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a male roe deer",
+        "example_sentence_english": "A roebuck was spotted grazing in the field.",
+        "pos": "noun",
+        "word_frequency": 31106
+    },
+    {
+        "word": "sais",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a type of traditional Okinawan weapon, or (archaic) a groom or attendant",
+        "example_sentence_english": "The martial artist wielded two sais with precision.",
+        "pos": "noun",
+        "word_frequency": 31111
+    },
+    {
+        "word": "samara",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a dry, winged fruit containing a single seed",
+        "example_sentence_english": "Maple trees produce samara seeds that spin as they fall.",
+        "pos": "noun",
+        "word_frequency": 31114
+    },
+    {
+        "word": "squamous",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Covered with or consisting of scales.",
+        "example_sentence_english": "The doctor identified squamous cell carcinoma.",
+        "pos": "adjective",
+        "word_frequency": 31138
+    },
+    {
+        "word": "dominatrix",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a woman who takes a dominant role in sadomasochistic sexual activity",
+        "example_sentence_english": "The film explored the complex character of a dominatrix.",
+        "pos": "noun",
+        "word_frequency": 31319
+    },
+    {
+        "word": "expropriation",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the action by the state or an authority of taking property from its owner for public use or benefit",
+        "example_sentence_english": "The government announced the expropriation of land for the new highway.",
+        "pos": "noun",
+        "word_frequency": 31337
+    },
+    {
+        "word": "fealty",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a feudal tenant's or vassal's fidelity to a lord",
+        "example_sentence_english": "The knights swore fealty to their king.",
+        "pos": "noun",
+        "word_frequency": 31343
+    },
+    {
+        "word": "fibroblast",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a cell in connective tissue that produces collagen and other fibers",
+        "example_sentence_english": "Fibroblasts play a crucial role in wound healing.",
+        "pos": "noun",
+        "word_frequency": 31344
+    },
+    {
+        "word": "geotechnical",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to geology and engineering",
+        "example_sentence_english": "The company specializes in geotechnical engineering for large construction projects.",
+        "pos": "adjective",
+        "word_frequency": 31360
+    },
+    {
+        "word": "objectification",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the action of degrading someone to the status of a mere object",
+        "example_sentence_english": "The essay discussed the objectification of women in media.",
+        "pos": "noun",
+        "word_frequency": 31477
+    },
+    {
+        "word": "phenol",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "carbolic acid",
+        "example_sentence_english": "Phenol is used in the production of plastics and disinfectants.",
+        "pos": "noun",
+        "word_frequency": 31492
+    },
+    {
+        "word": "plantar",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the sole of the foot",
+        "example_sentence_english": "He suffered from plantar fasciitis, an inflammation of the foot.",
+        "pos": "adjective",
+        "word_frequency": 31495
+    },
+    {
+        "word": "polemic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "strong verbal or written attack",
+        "example_sentence_english": "His essay was a fierce polemic against modern art.",
+        "pos": "noun",
+        "word_frequency": 31497
+    },
+    {
+        "word": "positron",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "antiparticle of the electron",
+        "example_sentence_english": "A positron has the same mass as an electron but a positive charge.",
+        "pos": "noun",
+        "word_frequency": 31500
+    },
+    {
+        "word": "prognostic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "an omen or sign",
+        "example_sentence_english": "The sudden drop in temperature was a prognostic of a harsh winter.",
+        "pos": "noun",
+        "word_frequency": 31503
+    },
+    {
+        "word": "quint",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a group of five",
+        "example_sentence_english": "The quint of musicians performed a classical piece.",
+        "pos": "noun",
+        "word_frequency": 31508
+    },
+    {
+        "word": "myeloid",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or resembling bone marrow",
+        "example_sentence_english": "Acute myeloid leukemia is a type of cancer of the blood and bone marrow.",
+        "pos": "adjective",
+        "word_frequency": 31866
+    },
+    {
+        "word": "plenipotentiary",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "A person, especially an ambassador, invested with full power to transact business.",
+        "example_sentence_english": "The plenipotentiary was authorized to sign the treaty.",
+        "pos": "noun",
+        "word_frequency": 31910
+    },
+    {
+        "word": "autosomal",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to a chromosome that is not a sex chromosome",
+        "example_sentence_english": "Autosomal dominant inheritance means only one copy of an altered gene is needed to cause the disorder.",
+        "pos": "adjective",
+        "word_frequency": 32080
+    },
+    {
+        "word": "mitosis",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "cell division",
+        "example_sentence_english": "Mitosis is a fundamental process for life, where a single cell divides into two identical daughter cells.",
+        "pos": "noun",
+        "word_frequency": 32284
+    },
+    {
+        "word": "revisionism",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the practice of re-examining and reinterpreting historical events",
+        "example_sentence_english": "The historian was accused of revisionism for his controversial new theory.",
+        "pos": "noun",
+        "word_frequency": 32342
+    },
+    {
+        "word": "scintillate",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "to sparkle; to emit flashes of light; to be brilliant and exciting",
+        "example_sentence_english": "Her wit and charm scintillated throughout the evening.",
+        "pos": "verb",
+        "word_frequency": 32353
+    },
+    {
+        "word": "anneal",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "to heat and then slowly cool (metal or glass) to toughen it",
+        "example_sentence_english": "The blacksmith will anneal the steel to reduce its brittleness.",
+        "pos": "verb",
+        "word_frequency": 32443
+    },
+    {
+        "word": "antiretroviral",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a drug used to treat retroviral infections, such as HIV",
+        "example_sentence_english": "Antiretroviral drugs have significantly improved the lives of HIV patients.",
+        "pos": "noun",
+        "word_frequency": 32445
+    },
+    {
+        "word": "glycine",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a simple amino acid",
+        "example_sentence_english": "Glycine is one of the simplest amino acids.",
+        "pos": "noun",
+        "word_frequency": 32577
+    },
+    {
+        "word": "idiopathic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to or denoting any disease or condition which arises spontaneously or for which the cause is unknown",
+        "example_sentence_english": "The doctor diagnosed her with idiopathic pulmonary fibrosis, meaning the cause was unknown.",
+        "pos": "adjective",
+        "word_frequency": 32614
+    },
+    {
+        "word": "neurobiology",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the study of the nervous system",
+        "example_sentence_english": "She is pursuing a degree in neurobiology.",
+        "pos": "noun",
+        "word_frequency": 32704
+    },
+    {
+        "word": "nitride",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a compound of nitrogen with a more electropositive element",
+        "example_sentence_english": "Silicon nitride is a ceramic material used in high-temperature applications.",
+        "pos": "noun",
+        "word_frequency": 32705
+    },
+    {
+        "word": "norepinephrine",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a hormone and neurotransmitter",
+        "example_sentence_english": "Norepinephrine plays a role in the body's 'fight or flight' response.",
+        "pos": "noun",
+        "word_frequency": 32707
+    },
+    {
+        "word": "seditious",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "inciting or causing people to rebel against authority",
+        "example_sentence_english": "The government arrested him for making seditious remarks.",
+        "pos": "adjective",
+        "word_frequency": 32779
+    },
+    {
+        "word": "waveguide",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a structure that guides waves",
+        "example_sentence_english": "Fiber optics use a type of waveguide to transmit light signals.",
+        "pos": "noun",
+        "word_frequency": 32845
+    },
+    {
+        "word": "acetylcholine",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a neurotransmitter",
+        "example_sentence_english": "Acetylcholine plays a key role in muscle contraction.",
+        "pos": "noun",
+        "word_frequency": 32869
+    },
+    {
+        "word": "amniotic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the amnion or amniotic fluid",
+        "example_sentence_english": "The baby was surrounded by amniotic fluid.",
+        "pos": "adjective",
+        "word_frequency": 32878
+    },
+    {
+        "word": "aphasia",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "loss of ability to understand or express speech",
+        "example_sentence_english": "After the stroke, he suffered from aphasia, making communication difficult.",
+        "pos": "noun",
+        "word_frequency": 32880
+    },
+    {
+        "word": "astrophysical",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to astrophysics",
+        "example_sentence_english": "They conducted an astrophysical study of distant galaxies.",
+        "pos": "adjective",
+        "word_frequency": 32886
+    },
+    {
+        "word": "bolus",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a small rounded mass of a substance, especially of chewed food",
+        "example_sentence_english": "The patient received a bolus of medication intravenously.",
+        "pos": "noun",
+        "word_frequency": 32907
+    },
+    {
+        "word": "bursa",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a fluid-filled sac that functions as a cushion between bones, tendons, and muscles",
+        "example_sentence_english": "Inflammation of the bursa can cause pain in the shoulder.",
+        "pos": "noun",
+        "word_frequency": 32918
+    },
+    {
+        "word": "crystallography",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the scientific study of the structure and properties of crystals",
+        "example_sentence_english": "X-ray crystallography is crucial for determining molecular structures.",
+        "pos": "noun",
+        "word_frequency": 32949
+    },
+    {
+        "word": "fistula",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "an abnormal connection between two body parts",
+        "example_sentence_english": "The patient developed a fistula after the surgery.",
+        "pos": "n",
+        "word_frequency": 32982
+    },
+    {
+        "word": "inflorescence",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the complete flower head of a plant including stems, stalks, bracts, and flowers",
+        "example_sentence_english": "The sunflower has a large inflorescence.",
+        "pos": "n",
+        "word_frequency": 33029
+    },
+    {
+        "word": "phosphatase",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "an enzyme that removes phosphate groups",
+        "example_sentence_english": "Alkaline phosphatase levels are often measured in blood tests.",
+        "pos": "n",
+        "word_frequency": 33123
+    },
+    {
+        "word": "piezoelectric",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the generation of electricity by pressure",
+        "example_sentence_english": "Piezoelectric materials are used in many sensors and transducers.",
+        "pos": "adj",
+        "word_frequency": 33124
+    },
+    {
+        "word": "polypeptide",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a chain of amino acids linked by peptide bonds",
+        "example_sentence_english": "Proteins are large polypeptides folded into specific three-dimensional structures.",
+        "pos": "n",
+        "word_frequency": 33131
+    },
+    {
+        "word": "propylene",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a colorless gaseous hydrocarbon",
+        "example_sentence_english": "Polypropylene is a plastic made from propylene monomers.",
+        "pos": "n",
+        "word_frequency": 33134
+    },
+    {
+        "word": "wali",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "an administrative governor or guardian in some Muslim countries",
+        "example_sentence_english": "The wali was responsible for the province's administration.",
+        "pos": "n",
+        "word_frequency": 33243
+    },
+    {
+        "word": "wicca",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a modern pagan religion with roots in pre-Christian traditions",
+        "example_sentence_english": "She is studying the history and practices of Wicca.",
+        "pos": "n",
+        "word_frequency": 33249
+    },
+    {
+        "word": "albedo",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the proportion of the incident light or radiation that is reflected by a surface",
+        "example_sentence_english": "The albedo of snow is very high, reflecting most sunlight.",
+        "pos": "n",
+        "word_frequency": 33275
+    },
+    {
+        "word": "cybernetics",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the science of communications and automatic control systems in both machines and living things",
+        "example_sentence_english": "Cybernetics explores the principles of control and communication in complex systems.",
+        "pos": "noun",
+        "word_frequency": 33354
+    },
+    {
+        "word": "existentialism",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a philosophical theory emphasizing individual existence, freedom, and responsibility",
+        "example_sentence_english": "Jean-Paul Sartre was a key figure in existentialism.",
+        "pos": "noun",
+        "word_frequency": 33389
+    },
+    {
+        "word": "moiety",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a portion or part of something",
+        "example_sentence_english": "Each partner received an equal moiety of the profits.",
+        "pos": "noun",
+        "word_frequency": 33497
+    },
+    {
+        "word": "oxycodone",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a strong opioid pain medication",
+        "example_sentence_english": "Oxycodone is a powerful painkiller often prescribed for severe pain.",
+        "pos": "noun",
+        "word_frequency": 33531
+    },
+    {
+        "word": "prophylactic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "intended to prevent disease",
+        "example_sentence_english": "The doctor prescribed a prophylactic antibiotic to prevent infection.",
+        "pos": "adjective",
+        "word_frequency": 33553
+    },
+    {
+        "word": "prophylaxis",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "action taken to prevent disease",
+        "example_sentence_english": "Dental prophylaxis is important for maintaining good oral health.",
+        "pos": "noun",
+        "word_frequency": 33554
+    },
+    {
+        "word": "recherche",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "rare, exotic, or obscure",
+        "example_sentence_english": "She had a penchant for recherche wines.",
+        "pos": "adjective",
+        "word_frequency": 33563
+    },
+    {
+        "word": "superposition",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "combination of multiple states",
+        "example_sentence_english": "Quantum superposition is a fundamental principle of quantum mechanics.",
+        "pos": "noun",
+        "word_frequency": 33625
+    },
+    {
+        "word": "tachycardia",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "abnormally rapid heart rate",
+        "example_sentence_english": "The patient was diagnosed with supraventricular tachycardia.",
+        "pos": "noun",
+        "word_frequency": 33629
+    },
+    {
+        "word": "adjuvant",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "helping or assisting, especially in a medical context",
+        "example_sentence_english": "Adjuvant therapy is often used after surgery to prevent recurrence.",
+        "pos": "adjective",
+        "word_frequency": 33706
+    },
+    {
+        "word": "albumin",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a protein found in blood plasma and egg white",
+        "example_sentence_english": "Albumin is a key protein for maintaining osmotic pressure in blood.",
+        "pos": "noun",
+        "word_frequency": 33712
+    },
+    {
+        "word": "emolument",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a salary, fee, or profit from employment or office",
+        "example_sentence_english": "The CEO's emoluments included a large bonus and stock options.",
+        "pos": "noun",
+        "word_frequency": 33826
+    },
+    {
+        "word": "geodetic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to geodesy, the science of measuring the Earth's shape",
+        "example_sentence_english": "Geodetic surveys are crucial for accurate mapping.",
+        "pos": "adjective",
+        "word_frequency": 33851
+    },
+    {
+        "word": "hegemonic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "ruling or dominant in a political or social context",
+        "example_sentence_english": "The country sought to establish its hegemonic influence in the region.",
+        "pos": "adjective",
+        "word_frequency": 33867
+    },
+    {
+        "word": "histological",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the study of the microscopic structure of tissues",
+        "example_sentence_english": "The biopsy required a detailed histological examination.",
+        "pos": "adjective",
+        "word_frequency": 33871
+    },
+    {
+        "word": "cannabinoid",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "Any of a class of chemical compounds that act on cannabinoid receptors in cells.",
+        "example_sentence_english": "Researchers are studying the potential therapeutic effects of various cannabinoids.",
+        "pos": "noun",
+        "word_frequency": 34138
+    },
+    {
+        "word": "conflagration",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "An extensive fire that destroys a great deal of land or property.",
+        "example_sentence_english": "The city was devastated by a massive conflagration that lasted for days.",
+        "pos": "noun",
+        "word_frequency": 34153
+    },
+    {
+        "word": "geist",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "spirit or ghost; the intellectual, moral, and cultural climate of an era",
+        "example_sentence_english": "The novel perfectly captured the zeitgeist of the 1960s.",
+        "pos": "noun",
+        "word_frequency": 34221
+    },
+    {
+        "word": "glycoprotein",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "any of a class of proteins that have carbohydrate groups attached to the polypeptide chain",
+        "example_sentence_english": "Glycoproteins play a crucial role in cell recognition.",
+        "pos": "noun",
+        "word_frequency": 34229
+    },
+    {
+        "word": "mitral",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to the mitral valve of the heart",
+        "example_sentence_english": "The patient was diagnosed with mitral valve prolapse.",
+        "pos": "adjective",
+        "word_frequency": 34319
+    },
+    {
+        "word": "obfuscation",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the action of making something obscure, unclear, or unintelligible",
+        "example_sentence_english": "The politician's speech was full of obfuscation, avoiding direct answers.",
+        "pos": "noun",
+        "word_frequency": 34778
+    },
+    {
+        "word": "sanctification",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "the action of making or declaring something holy; the process of becoming holy",
+        "example_sentence_english": "The process of sanctification is central to many religious beliefs and practices.",
+        "pos": "noun",
+        "word_frequency": 34837
+    },
+    {
+        "word": "vanadium",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a hard, silvery-grey metallic element",
+        "example_sentence_english": "Vanadium is used to make strong steel alloys.",
+        "pos": "noun",
+        "word_frequency": 34905
+    },
+    {
+        "word": "carboxylic",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "relating to a carboxylic acid",
+        "example_sentence_english": "Acetic acid is a simple carboxylic acid.",
+        "pos": "adjective",
+        "word_frequency": 34988
+    },
+    {
+        "word": "exon",
+        "useful_for_flashcard": true,
+        "cefr_level": "C2",
+        "english_translation": "a segment of a DNA or RNA molecule containing information coding for a protein or peptide sequence",
+        "example_sentence_english": "Genes are composed of introns and exons.",
+        "pos": "noun",
+        "word_frequency": 35052
+    }
+]
