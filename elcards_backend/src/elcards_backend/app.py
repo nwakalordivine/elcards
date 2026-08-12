@@ -19,6 +19,6 @@ async def lifespan(app: FastAPI):
 
 
 
-app = FastAPI(title="Elcards backend")
+app = FastAPI(title="Elcards backend", lifespan=lifespan)
 
 
