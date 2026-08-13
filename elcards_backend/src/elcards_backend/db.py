@@ -38,5 +38,5 @@ class Base(DeclarativeBase):
 
 
 async def get_db() -> AsyncGenerator[AsyncSession, None]:
-    async with engine.begin() as session:
+    async with SessionLocal() as session:
         yield session

@@ -9,3 +9,16 @@ class RegisterUser(BaseModel):
 class LoginUser(BaseModel):
     email: EmailStr
     password: str
+
+class UserToken(BaseModel):
+    access_token: str
+    token_type: str
+
+class User(BaseModel):
+    id: str
+    username: str
+    email: EmailStr
+
+class RegisterResponse(BaseModel):
+    user: User
+    token: UserToken
