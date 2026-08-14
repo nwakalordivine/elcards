@@ -18,7 +18,12 @@ class User(BaseModel):
     id: str
     username: str
     email: EmailStr
+    status: str
 
-class RegisterResponse(BaseModel):
+class SignUpResponse(BaseModel):
     user: User
     token: UserToken
+
+
+class ResetPassword(BaseModel):
+    email: EmailStr

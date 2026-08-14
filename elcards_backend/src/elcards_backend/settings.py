@@ -8,6 +8,8 @@ class Settings(BaseSettings):
     database_url: str
     secret: str
     algorithm: str
+    resend_apikey: str
+    my_email: str
 
 
 settings = Settings()

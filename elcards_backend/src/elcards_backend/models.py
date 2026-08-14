@@ -18,7 +18,7 @@ class User(Base):
     username: Mapped[str] = mapped_column(String(255), index=True, unique=True)
     email: Mapped[str] = mapped_column(String(255), index=True, unique=True)
     status: Mapped[UserRole] = mapped_column(
-        SQLEnum(UserRole, name="user_role", values_callable=lambda e : [m.value for m in e]), 
+        SQLEnum(UserRole, values_callable=lambda e : [m.value for m in e]), 
         default=UserRole.USER, 
         server_default=UserRole.USER.value
         )
