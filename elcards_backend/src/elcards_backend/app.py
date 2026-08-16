@@ -8,7 +8,7 @@ from elcards_backend.models import User
 from pwdlib import PasswordHash
 import jwt
 from elcards_backend.settings import settings
-from elcards_backend.utils import send_email
+from elcards_backend.utilities.utils import send_email, get_random_code
 
 
 @asynccontextmanager
@@ -119,7 +119,15 @@ async def reset_password(
     session: AsyncSession = Depends(get_db)
 ):
     db = session.execute(select(User).where(User.email == user_email.email))
+
+    response = {"message": "a 4-digit code has been sent to your email if you have an active account."}
+
     if not db:
-        pass
+        return response
+
+    
+    
+
+
 
      

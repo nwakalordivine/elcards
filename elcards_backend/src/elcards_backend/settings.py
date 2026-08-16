@@ -10,6 +10,9 @@ class Settings(BaseSettings):
     algorithm: str
     resend_apikey: str
     my_email: str
+    reset_code_timer: int
+    redis_url: str
+    redis_token: str
 
 
 settings = Settings()
