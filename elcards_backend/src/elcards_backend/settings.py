@@ -11,8 +11,12 @@ class Settings(BaseSettings):
     resend_apikey: str
     my_email: str
     reset_code_timer: int
+    auth_reset_code_lenth: int = 4
     redis_url: str
     redis_token: str
+    ratelimit_hour: int = 1
+    reset_max_attempts: int = 3
+    access_token_expire_minutes: int = 60
 
 
 settings = Settings()

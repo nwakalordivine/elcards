@@ -25,5 +25,15 @@ class SignUpResponse(BaseModel):
     token: UserToken
 
 
+class ForgotPassword(BaseModel):
+    email: EmailStr
+
 class ResetPassword(BaseModel):
     email: EmailStr
+    otp_code: str
+    new_password: str
+    confirm_password: str
+
+class ResponseReset(BaseModel):
+    message: str
+
