@@ -17,6 +17,7 @@ class Settings(BaseSettings):
     ratelimit_hour: int = 1
     reset_max_attempts: int = 3
     access_token_expire_minutes: int = 60
+    change_password_timer: int = 5
 
 
 settings = Settings()
