@@ -39,15 +39,13 @@ async def register(
     ) -> SignUpResponse:
 
     # Gets all users
-    db = await session.execute(select(User))
-    all_users = db.scalars().all()
+    db = await session.execute(select(User).where(User.username == new_user.username or User.email == new_user.email.lower()))
+    check_user = db.scalar_one_or_none()
 
     # Checks if a different user has same email and/or username.
-    for users in all_users:
-        if new_user.username == users.username:
-            raise HTTPException(status_code=400, detail=f"username: '{new_user.username}' is unavailable.")
-        if new_user.email == users.email:
-            raise HTTPException(status_code=400, detail="user with this email already exists")
+
+    if check_user:
+        raise HTTPException(status_code=400, detail=f"username or email is already in use.")
 
     # Adds the user (registers the user).
     user = User(
@@ -163,11 +161,11 @@ async def reset_password(
     if user is None:
         raise HTTPException(status_code=400, detail="invalid request: user does not exist.")
 
-    attempts = await redis.incr(f"failed_attmpt:{user.id}")
-    if attempts == 1:
+    failed = await redis.incr(f"failed_attmpt:{user.id}")
+    if failed == 1:
         await redis.expire(f"failed_attempt:{user.id}")
 
-    if attempts > settings.change_password_timer:
+    if failed > settings.change_password_trys:
         await redis.delete(f"reset:{user.id}")
         raise HTTPException(status_code=400, detail="Invalid or expired code.")
     

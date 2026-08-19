@@ -1,4 +1,5 @@
-import resend
+from smtplib import SMTP
+from email.message import EmailMessage
 from elcards_backend.settings import settings, BASE_DIR
 import random
 import hashlib
@@ -6,24 +7,26 @@ import jwt
 from datetime import datetime, timezone, timedelta
 
 
-async def send_email(to: str, subject: str, code: int) -> bool:
-    resend.api_key = settings.resend_apikey
 
-    params: resend.Emails.SendParams = {
-        "from": f"Elcard <{settings.my_email}>",
-        "to": [to],
-        "subject": subject,
-        "html": f"<!DOCTYPE html><html><body><h1>Enter this code to reset your password.</h1>\n<p>{code}</p>\n<p>this code will expire in {settings.reset_code_timer} minutes.</p></body></html>"
-    }
+def send_email(to: str, subject: str, message: str, sender: str = settings.sender_email):
+    # Create message
+    msg = EmailMessage()
+    msg["Subject"] = subject,
+    msg["From"] = sender,
+    msg["To"] = to
+
+    msg.set_content(message)
+
     try:
-        email: resend.Emails.SendResponse = await resend.Emails.send_async(params)
+        with SMTP(settings.smtp_server, settings.smtp_port) as server:
+            server.starttls()
+            server.login(settings.sender_email, settings.sender_app_password)
+            server.send_message(msg)
+            print("[email sent]: email sent successfully.")
     except Exception as e:
-        print(f"[email_error]: {e}")
-        return False
-    else:
-        print(f"[email sent]: {email}")
+        print(f"[Email Failed]: {e}")
 
-    return True
+
 
 
 def get_random_code(length: int) -> str:

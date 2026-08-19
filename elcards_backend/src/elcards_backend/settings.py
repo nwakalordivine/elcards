@@ -17,7 +17,10 @@ class Settings(BaseSettings):
     ratelimit_hour: int = 1
     reset_max_attempts: int = 3
     access_token_expire_minutes: int = 60
-    change_password_timer: int = 5
-
+    change_password_trys: int = 5
+    smtp_server: str = "smtp.gmail.com"
+    smtp_port: int = 587
+    sender_app_password: str
+    sender_email: str
 
 settings = Settings()
